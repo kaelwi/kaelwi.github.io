@@ -1,0 +1,271 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
+}
+
+/********************************/
+/* Colors   
+/* Palette from: 
+/* https://coolors.co/palettes/trending                   
+/********************************/
+
+header, .intro, .logo, h1 {
+  color: #F5DFBB; 
+}
+
+header, .intro {
+  background-color: #127475; 
+}
+
+button {
+  background-color: #F2542D; 
+  color: #F5DFBB;
+}
+
+ul {
+  color: #F5DFBB; 
+}
+
+h2 {
+  color: #562C2C;; 
+}
+
+p {
+  color: #562C2C;
+}
+
+.card-img {
+  border: 2px solid #F2542D; 
+}
+
+.quote-section {
+  background-color: #F5DFBB; 
+}
+
+.quote { 
+  color: #127475; 
+}
+
+.footer {
+  background-color: #562C2C;
+  color: #F5DFBB;
+}
+
+.banner {
+  background-color: #127475;
+}
+
+.call-to-action button {
+  color: #F5DFBB;
+  border: 1px solid #F5DFBB;
+}
+
+.banner-text {
+  color: #F5DFBB;
+}
+
+/********************************/
+/* Container  
+/*   (created to limit the width  
+/*   of content, enabling the
+/*   background to stretch)       
+/********************************/
+
+.width-container.col {
+  flex-direction: column;
+  gap: 0px;
+}
+
+.width-container.center {
+  justify-content: center;
+  gap: 0px;
+}
+
+.width-container {
+  max-width: 1080px;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  gap: 24px;
+}
+
+/********************************/
+/* Header and intro             
+/********************************/
+
+header, .intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 48px 32px 48px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  gap: 12px;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.about, .img {
+  flex: 1 1 auto;
+}
+
+button {
+  text-decoration: none;
+  border-radius: 4px;
+  border-style: none;
+  padding: 4px 16px;
+  margin-top: 8px;
+  font-weight: 600;
+}
+
+.img {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.info {
+    margin-top: 8px;
+}
+
+img {
+  width: 320px;
+  height: 160px;
+}
+
+/********************************/
+/* Main section            
+/********************************/
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 96px 48px 96px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+
+.card {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 125px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 32px;
+}
+
+.card-img {
+    width: 125px;
+    height: 125px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
+
+.card > p {
+  text-align: center;
+  font-size: 12px;
+}
+
+/********************************/
+/* Quote section            
+/********************************/
+
+.quote-section {
+    padding: 48px 96px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 24px;
+    font-weight: 100;
+    margin: 32px;
+}
+
+.author {
+    text-align: end;
+    font-weight: bold;
+}
+
+/********************************/
+/* Sign up banner           
+/********************************/
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 96px;
+}
+
+.banner {
+    padding: 24px 64px;
+    display: flex;
+    gap: 32px;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.banner-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    gap: 2px;
+}
+
+h5 {
+    font-weight: 700;
+    font-size: 14px;
+    margin: 0px;
+}
+
+.call-to-action button {
+    padding: 4px 16px;
+}
+
+/********************************/
+/* Footer         
+/********************************/
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+    font-size: 12px;
+}
