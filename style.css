@@ -266,6 +266,7 @@ h5 {
 .footer {
     display: flex;
     justify-content: center;
-    padding: 32px;
+    padding: 16px;
+    margin-top: auto;
     font-size: 12px;
 }
