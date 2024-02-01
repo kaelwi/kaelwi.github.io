@@ -1,0 +1,118 @@
+---
+layout: default
+comments: true
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      Published: 
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      <br>
+      Last modified: 
+      <time class="dt-last-modified-at" datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.last_modified_at | date: date_format }}
+      </time>
+      {%- if page.author -%}
+      <br><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <hr>
+  <br>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
+
+<script>
+  function createMenu() {
+    const div = document.getElementsByClassName('post-content')[0];
+    const h2 = document.getElementsByTagName('h2');
+
+    const menu = document.createElement('div');
+    menu.id = 'menu';
+
+    const heading2 = document.getElementsByTagName('h2');
+
+    if (heading2.length > 0) {
+      const ul_h2 = document.createElement('ul');
+      menu.appendChild(ul_h2);
+      for (let i = 0; i < heading2.length; i++) {
+        let li = createLi(heading2[i]);
+        ul_h2.appendChild(li);
+
+        let temp = heading2[i];
+        while (temp.nextSibling != null && temp.nextSibling.tagName != 'H2') {
+          temp = temp.nextSibling;
+          if (temp.tagName == 'H3') {
+            let ul_h3 = createUl(li);
+            const li3 = createLi(temp);
+            ul_h3.appendChild(li3); 
+
+            let temp2 = temp;
+            while (temp2.nextSibling != null && temp2.nextSibling.tagName != 'H3') {
+              temp2 = temp2.nextSibling;
+              if (temp2.tagName == 'H4') {
+                let ul_h4 = createUl(li3);
+                ul_h4.appendChild(createLi(temp2));
+              }
+            } 
+          }
+        }
+      }
+    }
+
+    if (!(menu.children.length == 1 && menu.children[0].children.length == 1 )) {
+      div.insertBefore(menu, div.children[1]);
+    }
+  }
+  
+  function createUl(where) {
+    let ul = null;
+    if (where.lastChild.tagName != 'ul') {
+      ul = document.createElement('ul');
+      where.appendChild(ul);
+    } else {
+      ul = where.lastChild;
+    }
+    return ul;
+  }
+
+  function createLi(heading) {
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    li.appendChild(a);
+    a.setAttribute('href', '#' + heading.id);
+    a.textContent = heading.textContent;
+    return li;
+  }
+
+  function upButton() {
+    const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
+    const up = document.getElementsByTagName('h1')[0];
+    headings.forEach((heading) => {
+      const a = document.createElement('a');
+      a.setAttribute('href', '#' + up.id);
+      a.textContent = "[Nahoru]";
+      a.style.fontSize = 'small';
+
+      heading.parentNode.insertBefore(a, heading.nextSibling);
+    })
+  }
+
+  createMenu();
+  upButton();
+</script>
