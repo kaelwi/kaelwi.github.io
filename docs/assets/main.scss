@@ -22,22 +22,15 @@ figcaption {
 
 #menu {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  justify-content: center;
 }
 
 #menu > ul {
   padding: 10px 30px;
   border-radius: 10px;
-  border: solid 1px #e3e3e3;
-  background-color: rgba($color: #e3e3e3, $alpha: 0.5);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  border: solid 1px #c4ecf4;
+  background-color: rgba($color: #c4ecf4, $alpha: 0.5);
 }
 #menu ul > li {
-  display: flex;
-  justify-content: center;
-  text-align: center;
   list-style-type: none;
 }
