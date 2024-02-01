@@ -1,6 +1,6 @@
 ---
 layout: categories
-title: "Rozcestník"
+title: "Obsah"
 redirect_from:
     - nezarazene
 ---

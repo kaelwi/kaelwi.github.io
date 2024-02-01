@@ -47,9 +47,17 @@ comments: true
 
     const heading2 = document.getElementsByTagName('h2');
 
-    if (heading2.length > 0) {
+    if (heading2.length > 1) {
+      console.log('here')
       const ul_h2 = document.createElement('ul');
       menu.appendChild(ul_h2);
+
+      const content = document.createElement('li');
+      content.textContent = "Obsah";
+      content.style.fontWeight = "bold";
+      content.style.color = "#454242";
+      ul_h2.appendChild(content);
+
       for (let i = 0; i < heading2.length; i++) {
         let li = createLi(heading2[i]);
         ul_h2.appendChild(li);
