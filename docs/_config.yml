@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wild blog
-email: wild.karoline@seznam.cz
+title: Wild Karoline Elisabeth
+email: karoline.elisabeth.wild@seznam.cz
 description: >- # this means to ignore newlines until "baseurl: "
-  Zajímá tě, jak založit blog zdarma? Chceš nakouknout pod pokličku programování? Nebo jsi jen zvědavý/-á, co zde dalšího najdeš? Tak neváhej a pojď to omrknout!
-tagline: Můj prostor pro sdílení všeho možného 😎
+  Můj prostor pro sdílení všeho možného 😎
+# tagline: Můj prostor pro sdílení všeho možného 😎
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wild-karoline.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  wild-karoline
+github_username:  kaelwi
 discord_server: wild's server
 disqus:
   shortname: wild-karoline
@@ -61,7 +61,7 @@ whitelist:
 #   - vendor/ruby/
 
 permalink: /:categories/:title:output_ext
-google_analytics: G-JXTBVZWM4Y
+google_analytics: G-3C09VW2TF0
 lang: cs
 # show_excerpts: true
 
