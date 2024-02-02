@@ -16,7 +16,7 @@ Takže jak na to? Níže stručně sepsané kroky nezbytné ke spuštění.
 
 ## Instalace
 
-1. Zkontrolujte si, zda máte, případně nainstalujte Ruby, RugyGems, Make a GCC. Na [stránkách Jekyllu](https://jekyllrb.com/docs/installation/) k tomu naleznete podrobnější návod.
+1. Zkontrolujte si, zda máte, případně nainstalujte Ruby, RugyGems, Make a GCC. Na [stránkách Jekyllu](https://jekyllrb.com/docs/installation/){:target="_blank"} k tomu naleznete podrobnější návod.
 
 2. Nainstalujte jekyll a bundler.
 
