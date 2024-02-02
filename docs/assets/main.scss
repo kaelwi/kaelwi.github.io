@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+/**
+ * Images
+ */
+ img {
+    max-width: 80%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px;
+  }
+
+figcaption {
+    font-size: $small-font-size;
+    text-align: center;
+    color: rgb(169, 167, 167);
+  }
+
+  
+/**
+* content / post
+*/
+#menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#menu > ul {
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: solid 1px #e3e3e3;
+  background-color: rgba($color: #e3e3e3, $alpha: 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#menu ul > li {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  list-style-type: none;
+}
+
+
+#menu > ul > li > a {
+  color: #454242;
+}
