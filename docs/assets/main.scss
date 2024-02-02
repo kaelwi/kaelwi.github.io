@@ -50,3 +50,14 @@ figcaption {
 #menu > ul > li > a {
   color: #454242;
 }
+
+.social-media-list > li > a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5%;
+  }
+
+.contact-list li + li {
+    padding-top: 5px;
+}
