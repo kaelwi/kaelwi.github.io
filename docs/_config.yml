@@ -31,6 +31,7 @@ discord_server: wild's server
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 
 # Exclude from processing.
