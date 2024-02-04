@@ -5,8 +5,8 @@ date:   2024-02-05 07:00:00 +0200
 last_modified_at: 2024-02-05 07:00:00 +0200
 category: Blogování
 read_time: 1 min 7 s
-description: Úvod do blogování s Jekyllem. Ukážu vám, jak si můžete zdarma založit a spustit blog. První díl se věnuje instalaci.
-excerpt: Úvod do blogování s Jekyllem. Ukážu vám, jak si můžete zdarma založit a spustit blog. První díl se věnuje instalaci.
+description: Úvod do blogování s Jekyllem. Ukážu vám, jak si můžete zdarma založit a spustit blog. První díl se věnuje instalaci a zprovoznění lokálně na vlastním počítači.
+excerpt: Úvod do blogování s Jekyllem. Ukážu vám, jak si můžete zdarma založit a spustit blog. První díl se věnuje instalaci a zprovoznění lokálně na vlastním počítači.
 permalink: blogovani/jak-zalozit-blog
 ---
 
@@ -18,13 +18,13 @@ Takže jak na to? Níže stručně sepsané kroky nezbytné ke spuštění.
 
 1. Zkontrolujte si, zda máte, případně nainstalujte Ruby, RugyGems, Make a GCC. Na [stránkách Jekyllu](https://jekyllrb.com/docs/installation/){:target="_blank"} k tomu naleznete podrobnější návod.
 
-*Poznámka: Příkazy provádíme v příkazovém řádku. Kdo si neví rady, [dole](https://kaelwi.github.io/blogovani/jak-zalozit-blog#příkazový-řádek) je k tomu krok za krokem průvodce (screenshoty).*
-
 2. Nainstalujte jekyll a bundler.
 
 {% highlight console %}
 gem install jekyll bundler
 {% endhighlight %}
+
+*Poznámka: Příkazy provádíme v příkazovém řádku. Kdo si neví rady, [dole](https://kaelwi.github.io/blogovani/jak-zalozit-blog#příkazový-řádek) je k tomu krok za krokem průvodce (screenshoty).*
 
 ## První nástřel
 
