@@ -4,7 +4,7 @@ title:  "Google Analytics"
 date:   2024-02-29 07:00:00 +0200
 last_modified_at: 2024-02-29 07:00:00 +0200
 category: Blogování
-read_time: 1 min 48 s
+read_time: 1 min 9 s
 description: Propojení blogu s Google Analytics.
 excerpt: Návod, jak propojit blog s Google Analytics.
 permalink: blogovani/google-analytics
@@ -41,3 +41,7 @@ Přičemž místo textu *measurement id* zadáte vlastní ID, které jste dostal
 Toť vše! Může chvíli trvat, než se začnou na GA (zkratka pro Google Analytics) zobrazovat nějaká data. Ale nejpozději do 48 hod tam uvidíte alespoň svoje návštěvy vlastního blogu. 
 
 Pro více detailů k využití a použití GA mrkněte do jejich Academy či na Google jako takový. A jinak - *have fun*. Alespoň mě baví sledovat, jestli, kdy a jak se zvedá návštěvnost.
+
+## Kam dál?
+
+*\-TBD\-*
