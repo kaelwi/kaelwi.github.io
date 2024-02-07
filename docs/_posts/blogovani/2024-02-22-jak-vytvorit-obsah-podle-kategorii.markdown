@@ -133,4 +133,4 @@ Voilá, pokud vše klaplo, tak jak mělo, měl by se vám teď vedle stránky "A
 
 *\-TBD\-*
 
-{% comment %} [Title = title \| description???]({% post_url blogovani/2023-08-11-title-tag-title-description %}) {% endcomment %}
+{% comment %} [Title = title \| description???]({% post_url blogovani/2024-02-26-title-tag-title-description %}) {% endcomment %}

@@ -58,4 +58,4 @@ Již jsme viděli, že na proměnné ze souboru _config.yml je možné odkazovat
 
 *\-TBD\-*
 
-{% comment %} [Jak zveřejnit blog]({% post_url blogovani/2023-06-29-jak-zverejnit-blog %}) {% endcomment %}
+{% comment %} [Jak zveřejnit blog]({% post_url blogovani/2024-02-15-jak-zverejnit-blog %}) {% endcomment %}

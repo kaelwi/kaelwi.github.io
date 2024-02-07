@@ -62,4 +62,4 @@ A zde výsledek pro srovnání v počátečním screenshotem:
 
 *\-TBD\-*
 
-{% comment %} [Jak vytvořit příspěvek na blog]({% post_url blogovani/2023-06-28-jak-vytvorit-prispevek %}) nebo [Jak zarovnat social media ikony a social media s emailem](TODO) {% endcomment %}
+{% comment %} [Jak vytvořit příspěvek na blog]({% post_url blogovani/2024-02-12-jak-vytvorit-prispevek %}) nebo [Jak zarovnat social media ikony a social media s emailem](TODO) {% endcomment %}

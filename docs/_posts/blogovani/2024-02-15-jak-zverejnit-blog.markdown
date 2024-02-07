@@ -95,4 +95,4 @@ Pokud nyní všechno pushnete (git add ., git commit -m "Přidány upravené sou
 
 *\-TBD\-*
 
-{% comment %} [Příspěvek se nezobrazuje?]({% post_url blogovani/2023-07-18-prispevek-se-nezobrazuje %}) {% endcomment %}
+{% comment %} [Příspěvek se nezobrazuje?]({% post_url blogovani/2024-02-19-prispevek-se-nezobrazuje %}) {% endcomment %}

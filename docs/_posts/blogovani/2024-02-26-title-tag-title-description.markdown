@@ -10,7 +10,7 @@ excerpt: Návod, jak upravit meta tag title na domovské stránce.
 permalink: blogovani/title-tag-title-description
 ---
 
-[Předchozí [Jak jsem vytvořila rozcestník]]({% post_url blogovani/2024-02-22-jak-vytvorit-obsah-podle-kategorii %})
+[Předchozí [Jak vytvořit obsah podle kategorií]]({% post_url blogovani/2024-02-22-jak-vytvorit-obsah-podle-kategorii %})
 
 Doufám, že dnešní titulek nezní až příliš španělsky. Zkusím situaci nejdřív trochu rozvést, než vám ukážu řešení.
 
@@ -37,3 +37,5 @@ Upravit, uložit, znovu spustit web (pro připomenutí *bundle exec jekyll serve
 ## Kam dál?
 
 *\-TBD\-*
+
+{% comment %} [Google Analytics]({% post_url blogovani/2024-02-29-google-analytics %}) {% endcomment %}

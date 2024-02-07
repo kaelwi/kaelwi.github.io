@@ -71,4 +71,4 @@ Tady pár screenshotů ode mě, jak se dostat k příkazovému řádku ve složc
 
 *\-TBD\-*
 
-{% comment %} [Základní konfigurace]({% post_url blogovani/2023-06-26-zakladni-konfigurace-blogu %}) {% endcomment %}
+{% comment %} [Základní konfigurace]({% post_url blogovani/2024-02-08-zakladni-konfigurace-blogu %}) {% endcomment %}

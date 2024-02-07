@@ -26,4 +26,4 @@ Důvodů pro nezobrazení příspěvků může být i vícero. Pokud se někdy s
 
 *\-TBD\-*
 
-{% comment %} [Jak jsem vytvořila rozcestník]({% post_url blogovani/2023-07-20-jak-jsem-vytvorila-rozcestnik %}) {% endcomment %}
+{% comment %} [Jak vytvořit obsah podle kategorií]({% post_url blogovani/2024-02-22-jak-vytvorit-obsah-podle-kategorii %}) {% endcomment %}
