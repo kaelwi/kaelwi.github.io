@@ -60,6 +60,6 @@ A zde výsledek pro srovnání v počátečním screenshotem:
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. Na co se můžeš těšit? Příště si ukážeme, jak vytvoříš příspěvek na blogu. Nový článek očekávej 12.2.2024 v průběhu dne.*
 
 {% comment %} [Jak vytvořit příspěvek na blog]({% post_url blogovani/2024-02-12-jak-vytvorit-prispevek %}) nebo [Jak zarovnat social media ikony a social media s emailem](TODO) {% endcomment %}
