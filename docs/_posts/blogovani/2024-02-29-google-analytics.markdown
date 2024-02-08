@@ -10,7 +10,7 @@ excerpt: Návod, jak propojit blog s Google Analytics.
 permalink: blogovani/google-analytics
 ---
 
-[Předchozí [Title = title | description???]]({% post_url blogovani/2024-02-26-title-tag-title-description %})
+[Předchozí [Title = title \| description???]]({% post_url blogovani/2024-02-26-title-tag-title-description %})
 
 Google Analytics je analytický nástroj, kterým je možné sledovat dění na webových stránkách. Máte tu možnost vidět například počet aktivních uživatelů, z jaké země se na stránku podívali, z jakého zařízení, jaké podstránky navštívili, jak dlouho se zdrželi a mnoho dalšího.
 
