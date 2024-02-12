@@ -24,6 +24,6 @@ Důvodů pro nezobrazení příspěvků může být i vícero. Pokud se někdy s
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. Pokud jako i já zvažuješ využití více kategorií a s tím přání mít na blogu obsah s příspěvky řazenými právě podle kategorií, tak se máš na co těšit! Ve čtvrtek 22.2.2024 vyjde článek s návodem, jak takový obsah v Jekyllu za pomocí liquidu templating language vytvořit.*
 
 {% comment %} [Jak vytvořit obsah podle kategorií]({% post_url blogovani/2024-02-22-jak-vytvorit-obsah-podle-kategorii %}) {% endcomment %}

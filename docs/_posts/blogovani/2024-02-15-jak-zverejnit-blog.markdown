@@ -93,6 +93,6 @@ Pokud nyní všechno pushnete (git add ., git commit -m "Přidány upravené sou
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. Pokud se ti náhodou při zveřejňování stalo, že se příspěvek nezobrazil ihned, tak ti v příštím příspěvku povím, co by mohlo být důvodem a jak to napravit. Článek očekávej v pondělí 19.2.2024.*
 
 {% comment %} [Příspěvek se nezobrazuje?]({% post_url blogovani/2024-02-19-prispevek-se-nezobrazuje %}) {% endcomment %}

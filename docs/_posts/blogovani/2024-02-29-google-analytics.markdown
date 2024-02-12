@@ -44,4 +44,6 @@ Pro více detailů k využití a použití GA mrkněte do jejich Academy či na 
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. Pokud se tvůj blog ještě pořád nezobrazuje ve výsledcích vyhledávání na Googlu, nezoufej. Google tvůj blog pravděpodobně ještě nezaindexoval. Je ale možné si o indexování zažádat! Návod k tomu očekávej 3.4.2024.*
+
+{% comment %} [Google Analytics]({% post_url blogovani/2024-03-04-indexovani-googlem %}) {% endcomment %}
