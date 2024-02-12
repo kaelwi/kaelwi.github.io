@@ -2,7 +2,7 @@
 layout: post
 title:  "Základní konfigurace blogu"
 date:   2024-02-08 07:00:00 +0200
-last_modified_at: 2024-02-08 07:00:00 +0200
+last_modified_at: 2024-02-12 11:20:00 +0200
 category: Blogování
 read_time: 1 min 59 s
 description: Úvod do blogování s Jekyllem. Druhý díl blogování zdarma. Základní konfigurace Jekyll blogu, nastavení názvu, popisu, kontaktních údajů, seznámení se souborem _config.yml.
@@ -60,6 +60,6 @@ A zde výsledek pro srovnání v počátečním screenshotem:
 
 ## Kam dál?
 
-*TBD. Na co se můžeš těšit? Příště si ukážeme, jak vytvoříš příspěvek na blogu. Nový článek očekávej 12.2.2024 v průběhu dne.*
+[Jak vytvořit příspěvek na blog]({% post_url blogovani/2024-02-12-jak-vytvorit-prispevek %})
 
-{% comment %} [Jak vytvořit příspěvek na blog]({% post_url blogovani/2024-02-12-jak-vytvorit-prispevek %}) nebo [Jak zarovnat social media ikony a social media s emailem](TODO) {% endcomment %}
+{% comment %}nebo [Jak zarovnat social media ikony a social media s emailem](TODO) {% endcomment %}
