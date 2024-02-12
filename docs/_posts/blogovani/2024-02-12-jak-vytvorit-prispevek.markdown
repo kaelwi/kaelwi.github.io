@@ -2,7 +2,7 @@
 layout: post
 title:  "Jak  vytvořit příspěvek na blog"
 date:   2024-02-12 07:00:00 +0200
-last_modified_at: 2024-02-12 07:00:00 +0200
+last_modified_at: 2024-02-12 11:20:00 +0200
 category: Blogování
 read_time: 1 min 41 s
 description: Úvod do blogování s Jekyllem. Třetí díl blogování zdarma - vytvoření nového příspěvku.
@@ -56,6 +56,6 @@ Již jsme viděli, že na proměnné ze souboru _config.yml je možné odkazovat
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. V příštím díle se konečně podíváme na to, jak blog zveřejnit! Hurá, půjdeme online 😎. Příspěvek očekávej ve čtvrtek 15.2.2024.*
 
 {% comment %} [Jak zveřejnit blog]({% post_url blogovani/2024-02-15-jak-zverejnit-blog %}) {% endcomment %}
