@@ -19,6 +19,7 @@ V minulém díle jsme si ukázali nástroje, které budeme k programování vyu�
 Už jsem to zmínila minule, ale pokud budete psát programy, zkuste je psát od počátku v angličtině (pokud angličtinu ovládáte). Angličtina je jazyk, který se v IT světě používá, protože nikdy nevíte, kdo se bude chtít na váš program mrknout, z kterého koutu světa bude.
 
 ### Komentáře
+
 Dále jsou pro většinu programů důležité komentáře. Zde se nejenom hledí na to, že váš program možná bude chtít rozluštit někdo jiný, ale také pro vás můžou být důležité. Z vlastní zkušenosti vím, že když se na kód (hlavně pokud už se třeba jedná o něco komplikovanějšího) podíváte za 3, 6 nebo třeba 12 měsíců, budete rádi, když tam sem tam najdete nějaké vysvětlivky v podobě komentářů.
 
 Komentáře jsou části ve zdrojovém kódu, které kompilátor při své práci překladu bude ignorovat. Můžete tam tedy napsat, co se vám zlíbí.
