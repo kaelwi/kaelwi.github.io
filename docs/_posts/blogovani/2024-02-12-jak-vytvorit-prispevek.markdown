@@ -56,6 +56,6 @@ Již jsme viděli, že na proměnné ze souboru _config.yml je možné odkazovat
 
 ## Kam dál?
 
-*TBD. V příštím díle se konečně podíváme na to, jak blog zveřejnit! Hurá, půjdeme online 😎. Příspěvek očekávej ve čtvrtek 15.2.2024.*
+{% comment %} *TBD. V příštím díle se konečně podíváme na to, jak blog zveřejnit! Hurá, půjdeme online 😎. Příspěvek očekávej ve čtvrtek 15.2.2024.* {% endcomment %}
 
-{% comment %} [Jak zveřejnit blog]({% post_url blogovani/2024-02-15-jak-zverejnit-blog %}) {% endcomment %}
+[Jak zveřejnit blog]({% post_url blogovani/2024-02-15-jak-zverejnit-blog %})
