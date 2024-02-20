@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Úvod do programování v jazyce C"
-date:   2023-07-05 10:20:00 +0200
-last_modified_at: 2023-08-18 14:00:00 +0200
+date:   2024-03-07 07:00:00 +0200
+last_modified_at: 2024-03-07 07:00:00 +0200
 category: Programovací jazyk C
 read_time: 3 min 6 s
 description: V prvním díle mého úvodu do programování v jazyce C si ukážeme příkazový řádek, nainstalujeme WSL a přeložíme a spustíme první C program.
@@ -93,4 +93,6 @@ Pokud se vše podařilo, měli byste ve WSL okně vidět *hi*. Gratuluji k naps�
 
 ## Kam dál?
 
-[První program, datové typy a printf]({% post_url c/2023-07-07-prvni-program-datove-typy-a-printf %})
+*TBD. Příští týden mrkneme na to, z čeho se takový C program skládá, jaké máme datové typy a jak pracovat s funkcí printf.*
+
+{% comment %} [První program, datové typy a printf]({% post_url c/2023-07-07-prvni-program-datove-typy-a-printf %}) {% endcomment %}
