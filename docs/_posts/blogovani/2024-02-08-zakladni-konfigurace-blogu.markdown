@@ -5,8 +5,8 @@ date:   2024-02-08 07:00:00 +0200
 last_modified_at: 2024-02-12 11:20:00 +0200
 category: Blogování
 read_time: 1 min 59 s
-description: Úvod do blogování s Jekyllem. Druhý díl blogování zdarma. Základní konfigurace Jekyll blogu, nastavení názvu, popisu, kontaktních údajů, seznámení se souborem _config.yml.
-excerpt: Úvod do blogování s Jekyllem. Druhý díl blogování zdarma. Základní konfigurace Jekyll blogu, nastavení názvu, popisu, kontaktních údajů, seznámení se souborem _config.yml.
+description: Úvod do blogování s Jekyllem. Druhý díl blogování zdarma. Základní konfigurace Jekyll blogu, seznámení se souborem _config.yml, nastavení názvu, popisu, kontaktních údajů.
+excerpt: Úvod do blogování s Jekyllem. Druhý díl blogování zdarma. Základní konfigurace Jekyll blogu, seznámení se souborem _config.yml, nastavení názvu, popisu, kontaktních údajů.
 permalink: blogovani/zakladni-konfigurace-blogu
 ---
 
