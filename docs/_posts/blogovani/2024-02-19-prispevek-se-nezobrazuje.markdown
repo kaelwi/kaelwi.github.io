@@ -2,7 +2,7 @@
 layout: post
 title:  "Příspěvek se nezobrazuje?"
 date:   2024-02-19 07:00:00 +0200
-last_modified_at: 2024-02-19 07:00:00 +0200
+last_modified_at: 2024-02-26 10:00:00 +0200
 category: Blogování
 read_time: 0 min 50 s
 description: Úvod do blogování s Jekyllem. Možné řešení problému s příspěvkem, který se nezobrazuje na blogu.
