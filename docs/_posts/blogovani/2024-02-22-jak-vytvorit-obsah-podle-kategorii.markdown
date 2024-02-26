@@ -2,7 +2,7 @@
 layout: post
 title:  "Jak vytvořit obsah podle kategorií"
 date:   2024-02-22 07:00:00 +0200
-last_modified_at: 2024-02-22 07:00:00 +0200
+last_modified_at: 2024-02-26 10:00:00 +0200
 category: Blogování
 read_time: 4 min 47 s
 description: Návod, jak vytvořit na Jekyll blogu stránku s výčtem kategorií a jim přiřazených článků.
