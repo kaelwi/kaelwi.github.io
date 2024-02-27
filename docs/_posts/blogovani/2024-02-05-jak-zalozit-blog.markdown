@@ -59,13 +59,13 @@ K příkazovému řádku se dostanete buďto tak, že v průzkumníku souborů k
 
 Tady pár screenshotů ode mě, jak se dostat k příkazovému řádku ve složce Dokumenty:
 
-{% include image.html url="/assets/images/blogovani/explorer.JPG" description="1" %}
+{% include image.html url="/assets/images/blogovani/2024-02-05-jak-zalozit-blog/explorer.JPG" description="1" %}
 
-{% include image.html url="/assets/images/blogovani/explorer2.png" description="2" %}
+{% include image.html url="/assets/images/blogovani/2024-02-05-jak-zalozit-blog/explorer2.png" description="2" %}
 
-{% include image.html url="/assets/images/blogovani/explorer3.png" description="3" %}
+{% include image.html url="/assets/images/blogovani/2024-02-05-jak-zalozit-blog/explorer3.png" description="3" %}
 
-{% include image.html url="/assets/images/blogovani/explorer4.png" description="4" %}
+{% include image.html url="/assets/images/blogovani/2024-02-05-jak-zalozit-blog/explorer4.png" description="4" %}
 
 ## Kam dál?
 

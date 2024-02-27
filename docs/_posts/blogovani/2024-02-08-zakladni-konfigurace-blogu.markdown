@@ -18,7 +18,7 @@ V dnešním článku Vám ukážu, kde je třeba provést změny, abyste blogu m
 
 Pokud se Vám podařilo vše spustit tak, jak jsem popsala v posledním článku, měli byste mít stránku vypadající zhruba následovně:
 
-![Screenshot náhledu blogu bez úprav](/assets/images/blogovani/initial_look.JPG)
+![Screenshot náhledu blogu bez úprav](/assets/images/blogovani/2024-02-08-zakladni-konfigurace-blogu/initial_look.JPG)
 
 K tomu, abyste mohli provést základní úpravy a nastavení, je potřeba úprav v souburu _config.yml, který Vám byl na začátku vygenerován. V tomto souboru je možné nastavit proměnné, které pak bude možné využívat kdekoli na blogu (sami tvůrci uvádí jako příklad šablony, které si odtud berou například název nebo email).
 
@@ -34,7 +34,7 @@ Pro zvědavé, tady postup, jak jsem Discord přidala:
 
 1. V souboru _config.yml jsem pod github_username přidala proměnnou discord_server a za dvojtečku dodala název mého serveru.
 
-    ![Screenshot _config.yml s proměnnou discord_server](/assets/images/blogovani/config_discord.JPG)
+    ![Screenshot _config.yml s proměnnou discord_server](/assets/images/blogovani/2024-02-08-zakladni-konfigurace-blogu/config_discord.JPG)
 
 2. Ikony se nacházejí v zápatí hlavní/domovské stránky. Jak je vidět v _config.yml, blog defaultně používá šablonu/theme "minima". Aby bylo možné zápatí upravit, musíme nejdřív najít soubory tvořící minimu:
 
@@ -56,7 +56,7 @@ Pro zvědavé, tady postup, jak jsem Discord přidala:
 
 A zde výsledek pro srovnání v počátečním screenshotem:
 
-![Screenshot náhledu blogu po základních úpravách](/assets/images/blogovani/look_after_config_changes.JPG)
+![Screenshot náhledu blogu po základních úpravách](/assets/images/blogovani/2024-02-08-zakladni-konfigurace-blogu/look_after_config_changes.JPG)
 
 ## Kam dál?
 
