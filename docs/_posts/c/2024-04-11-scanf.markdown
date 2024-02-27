@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "scanf, aneb formátované načítání textu"
+date:   2024-04-11 07:00:00 +0200
+last_modified_at: 2024-04-11 07:00:00 +0200
+category: Programovací jazyk C
+read_time: 2 min 04 s
+description: Krátké představení funkce scanf (ze standardní knihovny C, stdio.h). Funkce scanf slouží k načítání formátovaného textu ze standardního vstupu programu, stdin.
+excerpt: Krátké představení funkce scanf (ze standardní knihovny C, stdio.h). Funkce scanf slouží k načítání formátovaného textu ze standardního vstupu programu, stdin.
+permalink: programovaci-jazyk-c/scanf
+---
+
+[Předchozí [Smyčky a podmínky]]({% post_url c/2024-04-04-smycky-a-podminky %})
+
+Dnešní povídání bude pouze krátké pojednání o funkci scanf, která slouží k načítání textu. Pomocí této funkce budeme tedy schopni načíst například vstup od uživatele (text, který vyťuká na klávesnici na konzoli).
+
+Podobně jako funkce printf (pro zopakování mrkněte [sem](https://kaelwi.github.io/programovaci-jazyk-c/prvni-program-datove-typy-a-printf#funkce-printf)), i scanf je polymorfní funkce, jejímž prvním parametrem je tzv. format string nebo format specifier, následovaný libovolným počtem proměnných, do kterých je následně vstup uložen.
+
+Nejjednodušší bude si scanf ukázat přímo na příkladu. Pro podrobný popis mrkněte do [man pages](https://man7.org/linux/man-pages/man3/scanf.3.html).
+
+{% highlight c %}
+#include <stdio.h>
+
+int main(void)
+{
+    unsigned int pin = 987654321;
+    unsigned int user_input = 0;
+
+    printf("Zadejte Vas PIN prosim: ");
+    scanf("%u", &user_input);
+
+    if (user_input == pin) 
+    {
+        printf("Welcome!\n");
+    } else 
+    {
+        printf("Nespravny PIN.\n");
+    }
+
+    return 0;
+} {% endhighlight %}
+
+([Odkaz na GitHub](https://github.com/kaelwi/kaelwi-c/blob/master/2024-04-11-scanf/scanf.c){:target="_blank"})
+
+Příklad výše ilustruje možné využití funkce scanf. Prvním atributem je "%u", specifier, který funkci říká, že může očekávat celé číslo bez znaménka, tedy nezáporné. Druhý atribut, &user_input, udává, kam se má dodané číslo uložit (proč je na začátku proměnné navíc & si povíme někdy příště). Funkce po provedení načte text, vstup od uživatele až do potvrzení klávesou Enter.
+
+Pozor na oblíbenou chybu: Text s výzvou musí být na extra řádku dán funkcí printf, nic, co nechceme mít v proměnné ve funkci scanf této funkci nepředáváme. Následující kód sice kompiluje, ale nedělá úplně to, co by se na první pohled očekávalo:
+
+{% highlight c %}
+#include <stdio.h>
+
+int main(void)
+{
+    unsigned int pin = 987654321;
+    unsigned int user_input = 0;
+
+    printf("Zadejte Vas PIN prosim: ");
+    scanf("PIN: %u", &user_input);
+
+    if (user_input == pin) 
+    {
+        printf("Welcome!\n");
+    } else 
+    {
+        printf("Nespravny PIN.\n");
+    }
+
+    return 0;
+} {% endhighlight %}
+
+([Odkaz na GitHub](https://github.com/kaelwi/kaelwi-c/blob/master/2024-04-11-scanf/scanf-wrong.c){:target="_blank"})
+
+Zkusili jste si zadat PIN 987654321? Byl nesprávný? Schválně si zkuste pomocí printf vydat na konzoli obsah proměnné "user_input". Compiler vám tu sice nehodil žádnou chybu, ale ani nezaplnil proměnnou podle očekávání. To, co se vám vytisklo na konzoli, patří mezi tzv. *undefined behavior* - nikdy nemůžete s jistotou vědět, co bude obsahem. Je to proto, že jsme řekli, že dodáme celé nezáporné číslo, avšak ve scanf jsme předali textový řetězec "PIN: %u", kde číslo tvoří pouze jednu jeho část.
+
+A příklad na konec. Zkuste první příklad přepsat tak, aby se trochu více podobal realitě. Výzva k zadání PINu má vybíhat tak dlouho, dokud nebude PIN zadán správně, případně přístup zablokován (třeba po 3 pokusech).
+
+  <details>
+    <summary><u>Možné řešení:</u></summary>
+    <br />
+{% highlight c %}
+#include <stdio.h>
+
+int main(void)
+{
+    unsigned int pin = 9999;
+    unsigned int user_input = 0;
+
+    int try = 0;
+
+    do
+    {
+        printf("Zadejte Vas PIN prosim: ");
+        scanf("%u", &user_input);
+
+        if (user_input != pin) 
+        {
+            printf("Nespravny PIN.\n");
+        } 
+        try++;
+    } while (pin != user_input && try < 3);
+
+    if (try < 3) 
+    {
+        printf("Vitejte!\n");
+    }
+    else 
+    {
+        printf("Pristup zablokovan.\n");
+    }
+    
+    return 0;
+} {% endhighlight %}
+
+<a href="https://github.com/kaelwi/kaelwi-c/blob/master/2024-04-11-scanf/scanf-example.c" target="_blank">(Odkaz na GitHub)</a>
+<br /><br />
+  </details>
+<br />
+
+## Kam dál?
+
+*TBD. Funkce sem, funkce tam. Ale co to vlastně ta funkce v programování je? Těš se za týden!*
+
+{% comment %} [Funkce v C]({% post_url c/2023-09-12-funkce %}) {% endcomment %}
