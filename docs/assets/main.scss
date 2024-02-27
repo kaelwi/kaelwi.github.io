@@ -30,6 +30,10 @@ figcaption {
   align-items: center;
 }
 
+#menu ul {
+  margin: 0px;
+}
+
 #menu > ul {
   padding: 10px 30px;
   border-radius: 10px;
@@ -41,13 +45,17 @@ figcaption {
 }
 #menu ul > li {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
   list-style-type: none;
 }
 
+#menu ul:not(:first-child) > li > a {
+  font-weight: lighter;
+}
 
-#menu > ul > li > a {
+#menu ul > li > a {
   color: #454242;
 }
 
