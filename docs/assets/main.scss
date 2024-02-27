@@ -30,8 +30,12 @@ figcaption {
   align-items: center;
 }
 
-#menu ul {
+#menu > ul {
   margin: 20px 0px;
+}
+
+#menu ul:not(:first-child) {
+  margin: 0px;
 }
 
 #menu > ul {
