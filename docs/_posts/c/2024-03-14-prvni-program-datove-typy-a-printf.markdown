@@ -43,7 +43,7 @@ S komentáři by náš hi.c mohl vypadat třeba následovně:
 /* Simple program that outputs hi on the console.
  * 
  * Author: K. Wild
- * Date: 07.07.2023
+ * Date: 14.03.2024
  */
 #include <stdio.h>
 int main(void) {
@@ -62,7 +62,7 @@ Stále funkční hi.c (klidně zkopírujte a vyzkoušejte):
 /* Simple program that outputs hi on the console.
  * 
  * Author: K. Wild
- * Date: 07.07.2023
+ * Date: 14.03.2024
  */
 #include <stdio.h>
 int main(void) {printf("hi");return 0;}
@@ -132,11 +132,11 @@ Následující program vám zobrazí velikost okupované paměti a rozmezí jedn
  * Data types and their size
  *
  * Author: K. Wild
- * Date: 07.07.2023
+ * Date: 14.03.2024
  */
 
 #include <stdio.h>
-// get ranges 
+// get ranges
 #include <limits.h>
 
 // check ASCII table for more info
