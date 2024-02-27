@@ -10,6 +10,8 @@ excerpt: V prvním díle mého úvodu do programování v jazyce C si ukážeme 
 permalink: programovaci-jazyk-c/uvod-do-programovani-v-jazyce-c
 ---
 
+[[Domů]]({{ site.url }})
+
 Vítej v úvodu do programování v jazyce C. Dnešek bude o tom, že si ukážeme příkazový řádek, nainstalujeme WSL a nakonec i přeložíme a spustíme první C program.
 
 Ale na úvod si vyjasněme pár pojmů, informací a funkcí.
