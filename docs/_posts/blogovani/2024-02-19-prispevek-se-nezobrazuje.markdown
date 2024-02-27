@@ -2,7 +2,7 @@
 layout: post
 title:  "Příspěvek se nezobrazuje?"
 date:   2024-02-19 07:00:00 +0200
-last_modified_at: 2024-02-19 07:00:00 +0200
+last_modified_at: 2024-02-26 10:00:00 +0200
 category: Blogování
 read_time: 0 min 50 s
 description: Úvod do blogování s Jekyllem. Možné řešení problému s příspěvkem, který se nezobrazuje na blogu.
@@ -24,6 +24,4 @@ Důvodů pro nezobrazení příspěvků může být i vícero. Pokud se někdy s
 
 ## Kam dál?
 
-*TBD. Pokud jako i já zvažuješ využití více kategorií a s tím přání mít na blogu obsah s příspěvky řazenými právě podle kategorií, tak se máš na co těšit! Ve čtvrtek 22.2.2024 vyjde článek s návodem, jak takový obsah v Jekyllu za pomocí liquidu templating language vytvořit.*
-
-{% comment %} [Jak vytvořit obsah podle kategorií]({% post_url blogovani/2024-02-22-jak-vytvorit-obsah-podle-kategorii %}) {% endcomment %}
+[Jak vytvořit obsah podle kategorií]({% post_url blogovani/2024-02-22-jak-vytvorit-obsah-podle-kategorii %})
