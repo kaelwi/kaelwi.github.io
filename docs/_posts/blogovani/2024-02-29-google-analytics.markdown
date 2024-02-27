@@ -4,6 +4,7 @@ title:  "Google Analytics"
 date:   2024-02-29 07:00:00 +0200
 last_modified_at: 2024-02-29 07:00:00 +0200
 category: Blogování
+css_class: blogovani
 read_time: 1 min 9 s
 description: Propojení blogu s Google Analytics.
 excerpt: Návod, jak propojit blog s Google Analytics.

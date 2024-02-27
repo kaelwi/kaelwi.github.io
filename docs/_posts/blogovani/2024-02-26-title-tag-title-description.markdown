@@ -4,6 +4,7 @@ title:  "Title = title | description???"
 date:   2024-02-26 07:00:00 +0200
 last_modified_at: 2024-02-26 07:00:00 +0200
 category: Blogování
+css_class: blogovani
 read_time: 1 min 48 s
 description: Všimli jste si, že se na záložce v prohlížeči vedle titulku domovské stránky zobrazuje i její popis? Čtěte dál, pokud se chcete dozvědět, jak to upravit.
 excerpt: Návod, jak upravit meta tag title na domovské stránce. 

@@ -4,6 +4,7 @@ title:  "Funkce v C"
 date:   2024-04-18 07:00:00 +0200
 last_modified_at: 2024-04-18 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 2 min 59 s
 description: Funkce v programování, konkrétně funkce v programovacím jazyku C.
 excerpt: Funkce v programování, konkrétně funkce v programovacím jazyku C.

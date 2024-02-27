@@ -4,6 +4,7 @@ title:  "Opakování - kalkulačka"
 date:   2024-04-25 07:00:00 +0200
 last_modified_at: 2024-04-25 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 3 min 45 s
 description: Opakování doposud probraného, včetně funkcí, na příkladu jednoduché kalkulačky psané v programovacím jazyku C.
 permalink: programovaci-jazyk-c/opakovani-kalkulacka

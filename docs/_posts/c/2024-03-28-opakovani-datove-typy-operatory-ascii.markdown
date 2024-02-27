@@ -4,6 +4,7 @@ title:  "Opakování - datové typy, operátory, ASCII"
 date:   2024-03-28 07:00:00 +0200
 last_modified_at: 2024-03-28 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 6 min 22 s
 description: Opakování dosud probraného - datové typy, operátory, ASCII tabulka. Pár příkladů k těmto tématům.
 excerpt: Opakování dosud probraného - datové typy, operátory, ASCII tabulka. Pár příkladů k těmto tématům.

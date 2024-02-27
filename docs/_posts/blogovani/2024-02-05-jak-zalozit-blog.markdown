@@ -4,6 +4,7 @@ title:  "Jak založit blog"
 date:   2024-02-05 07:00:00 +0200
 last_modified_at: 2024-02-08 09:00:00 +0200
 category: Blogování
+css_class: blogovani
 read_time: 1 min 7 s
 description: Úvod do blogování s Jekyllem. Ukážu vám, jak si můžete zdarma založit a spustit blog. První díl se věnuje instalaci a zprovoznění lokálně na vlastním počítači.
 excerpt: Úvod do blogování s Jekyllem. Ukážu vám, jak si můžete zdarma založit a spustit blog. První díl se věnuje instalaci a zprovoznění lokálně na vlastním počítači.

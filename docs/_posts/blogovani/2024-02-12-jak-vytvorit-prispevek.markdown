@@ -4,6 +4,7 @@ title:  "Jak  vytvořit příspěvek na blog"
 date:   2024-02-12 07:00:00 +0200
 last_modified_at: 2024-02-25 09:20:00 +0200
 category: Blogování
+css_class: blogovani
 read_time: 1 min 41 s
 description: Úvod do blogování s Jekyllem. Třetí díl blogování zdarma - vytvoření nového příspěvku, název a umístění souboru s obsahem příspěvku, front matter pro určení layoutu a dalších metadat.
 excerpt: Úvod do blogování s Jekyllem. Třetí díl blogování zdarma - vytvoření nového příspěvku, název a umístění souboru s obsahem příspěvku, front matter pro určení layoutu a dalších metadat.

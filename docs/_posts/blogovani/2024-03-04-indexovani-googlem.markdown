@@ -4,6 +4,7 @@ title:  "Indexování Googlem"
 date:   2024-03-04 07:00:00 +0200
 last_modified_at: 2024-03-04 07:00:00 +0200
 category: Blogování
+css_class: blogovani
 read_time: 1 min 32 s
 description: Indexování Googlem a Google Search Console. Tvůj blog není k nalezení na Googlu? Problém je pravděpodobně v tom, že ho ještě nenavštívil Googlebot!
 excerpt: Indexování Googlem a Google Search Console. Tvůj blog není k nalezení na Googlu? Problém je pravděpodobně v tom, že ho ještě nenavštívil Googlebot!
@@ -40,4 +41,4 @@ Soubor sitemap bude automaticky vytvořen pod odkazem https://url-tveho-blogu/si
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. Začínám tento měsíc s novým tutoriálem, tak prosím o trpělivost ohledně dalších článků na blog. Základní nastavení je zde k dispozici, tak už budu přidávat jen tehdy, když bude co. Ale příští týden tu shrnu všechny změny na šabloně Minimy, které je možné vidět u mě na blogu.*
