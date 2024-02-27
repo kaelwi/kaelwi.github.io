@@ -63,6 +63,8 @@ figcaption {
   color: #454242;
 }
 
+/** footer **/
+
 .social-media-list > li > a {
     display: flex;
     flex-direction: row;
@@ -74,6 +76,24 @@ figcaption {
     padding-top: 5px;
 }
 
+/** home **/
+
 .excerpt {
     color: #00000082; 
+}
+
+.post-link {
+  border-radius: 5px;
+}
+
+.blogovani {
+  background: linear-gradient(to right, #94bcf055, #FDFDFD 40%);
+  border-radius: 5%;
+  padding-left: 2px;
+}
+
+.c {
+  background: linear-gradient(to right, #82828255, #FDFDFD 40%);
+  border-radius: 5%;
+  padding-left: 2px;
 }
