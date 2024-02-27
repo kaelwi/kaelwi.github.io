@@ -5,7 +5,7 @@ date:   2024-03-11 07:00:00 +0200
 last_modified_at: 2024-03-11 07:00:00 +0200
 category: Blogování
 css_class: blogovani
-read_time: 1 min 32 s
+read_time: 3 min 14 s
 description: Možná už si tu nějaké pozorné oko všimlo úprav a odchylek od původní šablony (Minima v mém případě). Dneska zde shrnu, co a jak jsem kde změnila v původní šabloně.
 excerpt: Možná už si tu nějaké pozorné oko všimlo úprav a odchylek od původní šablony (Minima v mém případě). Dneska zde shrnu, co a jak jsem kde změnila v původní šabloně.
 permalink: blogovani/upravy-minimy
@@ -49,4 +49,35 @@ Tlačítko "nahoru" vzniklo tak, že jsem si za pomocí JS našla všechny podna
 
 Obsah netvořím, pokud je jediným podnadpisem část "Kam dál". Pokud příspěvek obsahuje více částí, pak obsah tvořím tak, jak je vidět v kódu. Pokud se v JS vyznáš, určitě si poradíš. Pokud ne, nevadí, ale rozepisovat to tu teď nebudu, to by bylo na dlouho.
 
+Vzhled obsahu u příspěvku je dán v souboru main.scss (ve složce assets). Odkaz k mé verzi [zde](https://github.com/kaelwi/kaelwi.github.io/blob/master/docs/assets/main.scss). Využila jsem pro zarovnání flexbox, zrušila puntíky u seznamu. Přístup k jednotlivým elementům jsem si zajistila přes tzv. css selektory. To tak pár slovíček, kdyby se někdo chtěl podívat podrobněji (Google).
 
+## Obrázky
+
+Chtěla jsem mít u každého obrázku možnost popisku. Radu a pomoc jsem našla přes Google na [stackoverflow](https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll).
+
+Do složky *_includes* jsem tedy vložila soubor *image.html* s následujícím obsahem:
+
+{% highlight html %}{% raw %}
+<figure class="image">
+    <img src="{{ include.url }}" alt="{{ include.description }}">
+    <figcaption>{{ include.description }}</figcaption>
+</figure>
+{% endraw %}{% endhighlight %}
+
+Vkládání obrázku u příspěvku pak vypadá třeba takto:
+
+{% highlight html %}{% raw %}
+{% include image.html url="/assets/images/albanie/saranda/saranda-bistrica-beach.jpg" description="Saranda, Bistrica beach" %}
+{% endraw %}{% endhighlight %}
+
+A výsledný obrázek:
+
+{% include image.html url="/assets/images/albanie/saranda/saranda-bistrica-beach.jpg" description="Saranda, Bistrica beach" %}
+
+## Footer
+
+V záhlaví jsem úplně zrušila nadpis (podle Minimy by to byl site.title) a tagline. Ani jedno jsem nepociťovala jako důležité tam dole a tagline jsem stejně nepoužívala a jeho přítomnost (i když byl prázdný) mi akorát rozhodila zarovnání site.description. Kdyžtak mrk na soubor [zde](https://github.com/kaelwi/kaelwi.github.io/blob/master/docs/_includes/footer.html).
+
+Také jsem měla nějak rozhozené social media ikony. Po kontrole přes devtools (když na stránku klikneš pravým tlačítkem a dáš *Inspect*, tak se tam dostaneš) jsem zjistila, že social media má padding shora 5px. 
+
+*TODO*
