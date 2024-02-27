@@ -30,29 +30,29 @@ Nejdříve si založte účet na [GitHubu](https://github.com/){:target="_blank"
 
     a. Pokud už jste přihlášení, tak klikněte v pravém horním rohu na kolečko s vaším avatarem.
 
-    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/gh-profil.png)
+    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/gh-profil.png)
 
     b. Mělo by ze strany/ze shora vyjet menu. Zde zvolte "Your repositories".
 
-    ![Screenshot menu na GitHubu](/assets/images/blogovani/gh-repos.png)
+    ![Screenshot menu na GitHubu](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/gh-repos.png)
 
     c. Zde zvolte v horní části "New".
 
-    ![Screenshot přehledu repositories na GitHubu](/assets/images/blogovani/gh-new-repo.png)
+    ![Screenshot přehledu repositories na GitHubu](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/gh-new-repo.png)
 
     d. Vyplňte jméno uložiště na GitHubu (repository) a klikněte na "Create repository".
 
-    ![Screenshot stránky na vytvoření nového repository na GitHubu](/assets/images/blogovani/gh-create-new-repo.png)
+    ![Screenshot stránky na vytvoření nového repository na GitHubu](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/gh-create-new-repo.png)
 
 2. Kroky v průzkumníku souborů a příkazovém řádku:
 
     a. Přejděte do složky, kde se nachází soubory k vašemu blogu, klikněte do řádku s adresou a místo adresy tam napište "cmd" a potvrďte klávesou Enter:
 
-    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/pruzkumnik-souboru.png)
+    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/pruzkumnik-souboru.png)
 
-    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/pruzkumnik-souboru-adresa.png)
+    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/pruzkumnik-souboru-adresa.png)
 
-    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/pruzkumnik-souboru-adresa-cmd.png)
+    ![Screenshot tlačítka na GitHubu](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/pruzkumnik-souboru-adresa-cmd.png)
 
     b. Naťukejte a potvrďte klávesou Enter následující příkazy:
 
@@ -66,7 +66,7 @@ Nejdříve si založte účet na [GitHubu](https://github.com/){:target="_blank"
 
     Pokud git push nebude fungovat a dostanete tip, jak s chybou naložit (jako já), proveďte navrhovaný příkaz.
 
-    ![Screenshot chyby při git push](/assets/images/blogovani/git-push.JPG)
+    ![Screenshot chyby při git push](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/git-push.JPG)
 
     Pravděpodobně bude potřeba zadat přihlašovací údaje při git push. GitHub nově nepracuje s heslem, ale s tzv. tokenem. K vygenerování tokenu se proklikáte následovně: Avatar vpravo nahoře - Settings - Developer Settings (úplně dole) - Personal Access Tokens - Fine grained tokens. Vygenerovaný token pak zadáte namísto hesla.
 
@@ -77,7 +77,7 @@ Nejdříve si založte účet na [GitHubu](https://github.com/){:target="_blank"
 
    Já mám kód ve složce docs, tedy to u mě vypadá následovně:
 
-   ![Screenshot GitHub Pages](/assets/images/blogovani/gh-pages.JPG)
+   ![Screenshot GitHub Pages](/assets/images/blogovani/2024-02-15-jak-zverejnit-blog/gh-pages.JPG)
 
    Nahoře hned vidíte, pod jakou adresou je možné stránku rozkliknout. Jakékoli změny provedete, pokud je pushnete na GitHub, zobrazí se vám i na stránce.
 
