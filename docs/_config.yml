@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 
 
 # Exclude from processing.
@@ -61,3 +62,5 @@ permalink: /:categories/:title:output_ext
 google_analytics: G-3C09VW2TF0
 
 show_excerpts: true
+
+paginate: 5
