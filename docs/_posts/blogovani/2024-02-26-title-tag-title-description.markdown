@@ -16,9 +16,9 @@ Doufám, že dnešní titulek nezní až příliš španělsky. Zkusím situaci 
 
 Každá stránka má k dispozici ve svém zdrojovém souboru, HTML, tzv. meta tagy. To jsou tagy, které obsahují informace o stránce, a patří mezi ně i tag "title" a metatag "description". U blogových příspěvků si je definujeme ve front matter (to, co píšeme na začátek dokumentu mezi ty pomlčky), pro domovskou stránku jsou dané v souboru _config.yml. Prohlédnout si obsah těchto tagů můžete např. tak, že si na požadované stránce pravým tlačítkem vyjedete menu, kde zvolíte "View Page Source" (v AJ ve Firefoxu; může se u jednotlivých prohlížečů a jazykových variant lišit). Celkem nahoře, uvnitř tagu "head" byste měli najít tagy title a description.
 
-![Screenshot menu pro zobrazení zdrojáku stránky](/assets/images/blogovani/view_page_source.png)
+![Screenshot menu pro zobrazení zdrojáku stránky](/assets/images/blogovani/2024-02-26-title-tag-title-description/view_page_source.png)
 
-![Screenshot zdrojáku stránky, zvýrazněn title a description](/assets/images/blogovani/meta_title_description.png)
+![Screenshot zdrojáku stránky, zvýrazněn title a description](/assets/images/blogovani/2024-02-26-title-tag-title-description/meta_title_description.png)
 
 U hlavní, domovské stránky se title skládá z titulu a description (oboje definováno v _config.yml), u příspěvků pak z titulku příspěvku a titulku blogu. Title příspěvků je OK, co mě ale vadilo bylo, že se v titulu domovské stránky zobrazuje celá (ca 150 znaků dlouhá) description, neboli popis blogu. Title se zobrazuje i na záložce, kartě prohlížeče, a tam fakt nevypadá dobře, když tam máte text přes několik řádků.
 
