@@ -41,8 +41,12 @@ Skoro na konci *home* je pak část odkazující na *site.show_excerpts* a *post
 
 I v rozvržení příspěvků jsem provedla nějaké úpravy. Za prvé jsem chtěla mít nahoře obsah a pak jsem také chtěla mít u každého nadpisu možnost dostat se jedním kliknutím zpátky nahoru. A u časových údajů (vytvořeno a naposledy upraveno) jsem přidala popisek údajů, tedy "Publikováno:" a "Naposledy upraveno:".
 
-Následuje popis toho, jak vytvořit menu a tlačítko "Nahoru". Upozorňuji, že se jedná o popis JavaScriptového řešení! Pokud je to na tebe příliš španělská vesnice, nelam si tím hlavu. Můžeš si samozřejmě kód prohlédnout a zkusit ho metodou copy/paste dostat k sobě. Tady je odkaz.
+Následuje popis toho, jak vytvořit menu a tlačítko "Nahoru". Upozorňuji, že se jedná o popis JavaScriptového řešení! Pokud je to na tebe příliš španělská vesnice, nelam si tím hlavu. Můžeš si samozřejmě kód prohlédnout a zkusit ho metodou copy/paste dostat k sobě. Tady je [odkaz](https://github.com/kaelwi/kaelwi.github.io/blob/master/docs/_posts/blogovani/2024-03-11-upravy-minimy.markdown).
 
 Tlačítka jsem vytvořila pomocí JavaScriptu (vše mezi <script> a </script>).
 
 Tlačítko "nahoru" vzniklo tak, že jsem si za pomocí JS našla všechny podnadpisy v textu (ve funkci *upButton()* hned na začátku *querySelectorAll*). A také hlavní nadpis, ke kterému se chci vracet. No a pak jsem pro každý z těch podnadpisů vytvořila tlačítko, resp. odkaz, který vede k hlavnímu nadpisu. Odkaz jsem do stávající stránky vložila pomocí *insertBefore*.
+
+Obsah netvořím, pokud je jediným podnadpisem část "Kam dál". Pokud příspěvek obsahuje více částí, pak obsah tvořím tak, jak je vidět v kódu. Pokud se v JS vyznáš, určitě si poradíš. Pokud ne, nevadí, ale rozepisovat to tu teď nebudu, to by bylo na dlouho.
+
+
