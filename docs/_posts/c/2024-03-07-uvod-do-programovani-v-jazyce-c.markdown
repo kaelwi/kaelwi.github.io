@@ -10,7 +10,9 @@ excerpt: V prvním díle mého úvodu do programování v jazyce C si ukážeme 
 permalink: programovaci-jazyk-c/uvod-do-programovani-v-jazyce-c
 ---
 
-Na úvod si vyjasněme pár pojmů, informací a funkcí.
+Vítej v úvodu do programování v jazyce C. Dnešek bude o tom, že si ukážeme příkazový řádek, nainstalujeme WSL a nakonec i přeložíme a spustíme první C program.
+
+Ale na úvod si vyjasněme pár pojmů, informací a funkcí.
 
 Je potřeba si uvědomit, že náš počítač vlastně nerozumí jazyku C. Počítače rozumí strojovému kódu, který sestává z 0 a 1, které tvoří instrukce pro tzv. CPU (central processing unit, zkráceně také procesor). Procesor je ta část počítače, která zpracovává výpočty, proto také výpočetní technika.
 
@@ -24,7 +26,7 @@ V plánu je používat linuxové příkazy. Pokud na vašem počítači neběž�
 
 Po instalaci WSL a Linux distribuce Ubuntu 22.04 a zadání názvu účtu a hesla to u mě vypadá následovně:
 
-![Screenshot WSL](/assets/images/wsl.JPG)
+![Screenshot WSL](/assets/images/c/2024-03-07-uvod-do-programovani-v-jazyce-c/wsl.JPG)
 
 Text nyní zobrazený ve WSL je tzv. prompt. Na začátku stojí jméno uživatele, za zavináčem název stroje a na konci cesta ke složce, ve které se právě nacházíme.
 
@@ -34,7 +36,7 @@ Složce se v angličtině říká *folder*, nebo také *directory*.
 
 Pro zobrazení obsahu složky, ve které se právě nacházíte, využijete příkaz ls. Zadáte-li do Googlu (nebo příkazového řádku) *man ls*, zjistíte, že je možné provést příkaz ls s dodatečnými parametry, tzv. *options*. Příkaz ls vyjede seznam složek a souborů nacházejících se ve složce.
 
-![Screenshot WSL, příkazy ls a ls -l](/assets/images/wsl_ls.JPG)
+![Screenshot WSL, příkazy ls a ls -l](/assets/images/c/2024-03-07-uvod-do-programovani-v-jazyce-c/wsl_ls.JPG)
 
 Chcete-li se dostat do tzv. *home directory* uživatele, proveďte následující příkaz:
 
@@ -46,7 +48,7 @@ Příkaz potvrdíte klávesou Enter.
 
 Příkaz *cd* znamená *change directory*. Vlnka nahoře značí domovskou složku. Je ale možné zadat také absolutní cestu (všechny mezikroky/složky mezi domovskou složkou a hledanou složkou), nebo relativní cestu (cestu vzhledem k aktuální pozici). Samotná tečka značí aktuální složku, 2 tečky složku o úroveň výše. Mám-li tedy v domovské složce složku test a v ní složku inner_test, mohla by navigace mezi složkami vypadat následovně:
 
-![Screenshot WSL, příkaz cd](/assets/images/wsl_cd.JPG)
+![Screenshot WSL, příkaz cd](/assets/images/c/2024-03-07-uvod-do-programovani-v-jazyce-c/wsl_cd.JPG)
 
 Všimněte si, že prompt vždy ukazuje absolutní cestu.
 
@@ -74,7 +76,7 @@ int main(void) {
 }
 {% endhighlight %}
 
-(Program výše naleznete i na GitHubu pod [tímto odkazem](https://github.com/wild-karoline/C/blob/main/01_uvod-do-programovani-v-jazyce-c/hi.c)).
+(Program výše naleznete i na GitHubu pod [tímto odkazem](https://github.com/kaelwi/kaelwi-c/blob/master/2024-03-07-uvod-do-programovani-v-jazyce-c/hi.c){:target="_blank"}).
 
 Pro moje potřeby jsem si v domovské složce ve WSL vytvořila složku pro prográmky v C, v ní pak soubor *hi.c* (všimněte si koncovky, která značí, že se jedná o soubor v jazyce C), který jsem si otevřela ve VSCodium. Potom, co jsem uložila změny provedené v souboru, jsem ho přes příkazový řádek přeložila a spustila. Použila jsem následující příkazy (přičemž jsem startovala v domovské složce):
 
