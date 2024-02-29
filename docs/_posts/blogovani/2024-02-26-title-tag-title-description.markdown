@@ -37,6 +37,4 @@ Upravit, uložit, znovu spustit web (pro připomenutí *bundle exec jekyll serve
 
 ## Kam dál?
 
-*TBD. Ve čtvrtek 29.2.2024 společně zařídíme, aby bylo možné sledovat dění na webu přes Google Analytics.*
-
-{% comment %} [Google Analytics]({% post_url blogovani/2024-02-29-google-analytics %}) {% endcomment %}
+[Google Analytics]({% post_url blogovani/2024-02-29-google-analytics %})
