@@ -4,6 +4,7 @@ title:  "Další příklady"
 date:   2024-05-02 07:00:00 +0200
 last_modified_at: 2024-05-02 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 6 min 7 s
 description: Další příklady na procvičování programování v C. Opakování smyček, funkcí, printf, scanf.
 permalink: programovaci-jazyk-c/dalsi-priklady

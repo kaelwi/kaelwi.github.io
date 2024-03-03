@@ -4,6 +4,7 @@ title:  "Textové řetězce (strings)"
 date:   2024-05-16 07:00:00 +0200
 last_modified_at: 2024-05-16 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 1 min 29 s
 description: Textové řetězce (angl. strings) v programovacím jazyce C. Struktury pro ukládání textu.
 permalink: programovaci-jazyk-c/textove-retezce
