@@ -453,6 +453,6 @@ int vysledekKola(int volba_hrace, int volba_pocitace)
 
 ## Kam dál?
 
-*TBD.*
+*TBD. Příště mrkneme na datová pole, anglicky arrays.*
 
 {% comment %}[Datová pole (arrays)]({% post_url c/2023-09-21-datova-pole %}) {% endcomment %}
