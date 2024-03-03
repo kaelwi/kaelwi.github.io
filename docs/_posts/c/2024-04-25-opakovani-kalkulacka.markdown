@@ -204,12 +204,14 @@ int main(void)
  {% endhighlight %}
 
 <!-- TODO -->
-Kód je jako vždy dostupný na <a href="https://github.com/wild-karoline/C/blob/main/08-kalkulacka/calculator.c" target="_blank">GitHubu</a>.
+Kód je jako vždy dostupný na <a href="https://github.com/kaelwi/kaelwi-c/blob/master/2024-04-25-opakovani-kalkulacka/calculator.c" target="_blank">GitHubu</a>.
   </details>
 <br />
 
 Gratuluju všem, kdo se prokousali až sem. Vím, že začátky nejsou jednoduché. Pokud něčemu nerozumíte, klidně se ozvěte na [Discordu](https://discord.gg/hB8UYAgwUE) nebo tady dole v komentářích. Nezpomeňte, že žádná otázka není blbá otázka a pravděpodobně nebudete první ani poslední, co si takovou nebo podobnou otázku klade.
 
 ## Kam dál?
+
+*TBD. Všechno dobrý? Tak aby toho nebylo málo, příští týden budeme ještě jednou upevňovat dosud naučené.*
 
 {% comment %} [Další příklady]({% post_url c/2023-09-18-dalsi-priklady %}) {% endcomment %}
