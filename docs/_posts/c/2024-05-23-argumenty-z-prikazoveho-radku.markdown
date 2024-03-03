@@ -4,6 +4,7 @@ title:  "Argumenty předané programu z příkazového řádku"
 date:   2024-05-23 07:00:00 +0200
 last_modified_at: 2024-05-23 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 1 min 56 s
 description: Spuštení programu s argumenty a jejich načtení a použití v kódu.
 permalink: programovaci-jazyk-c/cmd-args
