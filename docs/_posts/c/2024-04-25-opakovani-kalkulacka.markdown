@@ -214,4 +214,4 @@ Gratuluju všem, kdo se prokousali až sem. Vím, že začátky nejsou jednoduch
 
 *TBD. Všechno dobrý? Tak aby toho nebylo málo, příští týden budeme ještě jednou upevňovat dosud naučené.*
 
-{% comment %} [Další příklady]({% post_url c/2023-09-18-dalsi-priklady %}) {% endcomment %}
+{% comment %} [Další příklady]({% post_url c/2024-05-02-dalsi-priklady %}) {% endcomment %}

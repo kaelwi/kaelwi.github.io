@@ -100,4 +100,4 @@ Pokud se vše podařilo, měli byste ve WSL okně vidět *hi*. Gratuluji k naps�
 
 *TBD. Příští týden mrkneme na to, z čeho se takový C program skládá, jaké máme datové typy a jak pracovat s funkcí printf.*
 
-{% comment %} [První program, datové typy a printf]({% post_url c/2023-07-07-prvni-program-datove-typy-a-printf %}) {% endcomment %}
+{% comment %} [První program, datové typy a printf]({% post_url c/2024-03-14-prvni-program-datove-typy-a-printf %}) {% endcomment %}

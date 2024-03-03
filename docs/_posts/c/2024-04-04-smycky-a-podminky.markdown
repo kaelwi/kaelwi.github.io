@@ -691,4 +691,4 @@ Klíčová slovíčka break a continue ovlivňují přirozený běh cyklů a mě
 
 *TBD. Už jsme si ukázali, jak tisknout na konzoli pomocí funkce printf. Příště mrkneme na to, jak text načíst (například od uživatele) pomocí funkce scanf.*
 
-{% comment %} [scanf, aneb formátované načítání]({% post_url c/2023-09-07-scanf %}) {% endcomment %}
+{% comment %} [scanf, aneb formátované načítání]({% post_url c/2024-04-11-scanf %}) {% endcomment %}

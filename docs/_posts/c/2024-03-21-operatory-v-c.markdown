@@ -177,4 +177,4 @@ V proměnné *amount_ok* bychom v takovémto případě uložili informaci, zda 
 
 *TBD. Příští týden bude ve znamení opakování. Tak se připravte na malou nálož příkladů 😎.*
 
-{% comment %} [Opakování - datové typy, operátory, ASCII]({% post_url c/2023-08-09-opakovani-datove-typy-operatory-ascii %}) {% endcomment %}
+{% comment %} [Opakování - datové typy, operátory, ASCII]({% post_url c/2024-03-28-opakovani-datove-typy-operatory-ascii %}) {% endcomment %}

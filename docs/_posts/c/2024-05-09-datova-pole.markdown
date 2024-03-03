@@ -264,4 +264,6 @@ int main(void)
 
 ## Kam dál?
 
-{% comment %} [Textové řetězce (strings)]({% post_url c/2023-09-25-textove-retezce %}) {% endcomment %}
+*TBD. Arrays jsi zmáknul levou zadní. Tak ti příště ukážu i to, jak na textové řetězce v Céčku.*
+
+{% comment %} [Textové řetězce (strings)]({% post_url c/2024-05-16-textove-retezce %}) {% endcomment %}

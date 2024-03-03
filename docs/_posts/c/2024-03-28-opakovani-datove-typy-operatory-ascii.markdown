@@ -418,4 +418,4 @@ Snad je to takhle vše pochopitelné (a kdyby ne, klidně se mi ozvětě na [Dis
 
 *TBD. Jestli je všechno jasné, tak se můžeš těšit na novou kapitolu za týden. Ukážeme si, jak je možné ovlivnit tok programu pomocí smyček, podmínek a větvení.*
 
-{% comment %} [Smyčky a podmínky]({% post_url c/2023-08-12-smycky-a-podminky %}) {% endcomment %}
+{% comment %} [Smyčky a podmínky]({% post_url c/2024-04-04-smycky-a-podminky %}) {% endcomment %}
