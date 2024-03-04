@@ -45,4 +45,4 @@ Pro více detailů k využití a použití GA mrkněte do jejich Academy či na 
 
 ## Kam dál?
 
-[Google Analytics]({% post_url blogovani/2024-03-04-indexovani-googlem %})
+[Indexování Googlem]({% post_url blogovani/2024-03-04-indexovani-googlem %})
