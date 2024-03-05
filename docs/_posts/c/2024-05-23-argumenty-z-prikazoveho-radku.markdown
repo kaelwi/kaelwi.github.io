@@ -7,6 +7,7 @@ category: Programovací jazyk C
 css_class: c
 read_time: 1 min 56 s
 description: Spuštení programu s argumenty a jejich načtení a použití v kódu.
+excerpt: Spuštení programu s argumenty a jejich načtení a použití v kódu.
 permalink: programovaci-jazyk-c/cmd-args
 ---
 

@@ -7,6 +7,7 @@ category: Programovací jazyk C
 css_class: c
 read_time: 3 min 39 s
 description: Příklady na procvičování práce s textovými řetězci.
+excerpt: Příklady na procvičování práce s textovými řetězci.
 permalink: programovaci-jazyk-c/strings-priklady
 ---
 

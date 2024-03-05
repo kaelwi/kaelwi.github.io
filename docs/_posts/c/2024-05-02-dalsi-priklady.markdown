@@ -7,6 +7,7 @@ category: Programovací jazyk C
 css_class: c
 read_time: 6 min 7 s
 description: Další příklady na procvičování programování v C. Opakování smyček, funkcí, printf, scanf.
+excerpt: Další příklady na procvičování programování v C. Opakování smyček, funkcí, printf, scanf.
 permalink: programovaci-jazyk-c/dalsi-priklady
 ---
 

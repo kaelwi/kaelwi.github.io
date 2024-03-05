@@ -7,6 +7,7 @@ category: Programovací jazyk C
 css_class: c
 read_time: 3 min 11 s
 description: Dynamická alokace paměti. Přehled operací. Rozložení paměti.
+excerpt: Dynamická alokace paměti. Přehled operací. Rozložení paměti.
 permalink: programovaci-jazyk-c/dynamicka-alokace-pameti
 ---
 

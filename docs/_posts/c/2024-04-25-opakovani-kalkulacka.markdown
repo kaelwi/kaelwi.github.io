@@ -7,6 +7,7 @@ category: Programovací jazyk C
 css_class: c
 read_time: 3 min 45 s
 description: Opakování doposud probraného, včetně funkcí, na příkladu jednoduché kalkulačky psané v programovacím jazyku C.
+excerpt: Opakování doposud probraného, včetně funkcí, na příkladu jednoduché kalkulačky psané v programovacím jazyku C.
 permalink: programovaci-jazyk-c/opakovani-kalkulacka
 ---
 

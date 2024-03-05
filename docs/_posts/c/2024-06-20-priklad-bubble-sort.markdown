@@ -7,6 +7,7 @@ category: Programovací jazyk C
 css_class: c
 read_time: 1 min 14 s
 description: Příklad na procvičování aritmetiky ukazatelů. Implementace bublinkového řazení.
+excerpt: Příklad na procvičování aritmetiky ukazatelů. Implementace bublinkového řazení.
 permalink: programovaci-jazyk-c/priklad-bubble-sort
 ---
 

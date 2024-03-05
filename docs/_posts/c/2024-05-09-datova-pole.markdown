@@ -7,6 +7,7 @@ category: Programovací jazyk C
 css_class: c
 read_time: 5 min 41 s
 description: Datová pole (angl. arrays) v programovacím jazyce C. Struktury pro ukládání dat stejného typu.
+excerpt: Datová pole (angl. arrays) v programovacím jazyce C. Struktury pro ukládání dat stejného typu.
 permalink: programovaci-jazyk-c/datova-pole
 ---
 
