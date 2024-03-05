@@ -72,4 +72,4 @@ Tak si s tím klidně pohrajte a zkoušejte. Předávání argumentů programu j
 
 ## Kam dál?
 
-{% comment %} [Strings - příklady]({% post_url c/2023-10-02-strings-priklady %}) {% endcomment %}
+{% comment %} [Strings - příklady]({% post_url c/2024-05-30-strings-priklady %}) {% endcomment %}
