@@ -4,6 +4,7 @@ title:  "Příklad - Bubble Sort"
 date:   2024-06-20 07:00:00 +0200
 last_modified_at: 2024-06-20 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 1 min 14 s
 description: Příklad na procvičování aritmetiky ukazatelů. Implementace bublinkového řazení.
 permalink: programovaci-jazyk-c/priklad-bubble-sort

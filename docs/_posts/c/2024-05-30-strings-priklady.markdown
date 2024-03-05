@@ -4,6 +4,7 @@ title:  "Strings - příklady"
 date:   2024-05-30 07:00:00 +0200
 last_modified_at: 2024-05-30 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 3 min 39 s
 description: Příklady na procvičování práce s textovými řetězci.
 permalink: programovaci-jazyk-c/strings-priklady

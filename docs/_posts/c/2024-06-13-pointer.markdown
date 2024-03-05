@@ -4,6 +4,7 @@ title:  "Pointer (ukazatel)"
 date:   2024-06-13 07:00:00 +0200
 last_modified_at: 2024-06-13 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 9 min 7 s
 description: Ukazatele v programovacím jazyce C.
 permalink: programovaci-jazyk-c/pointer

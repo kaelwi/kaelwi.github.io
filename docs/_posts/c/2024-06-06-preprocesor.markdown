@@ -4,6 +4,7 @@ title:  "Preprocesor"
 date:   2024-06-06 07:00:00 +0200
 last_modified_at: 2024-06-06 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 4 min 4 s
 description: Preprocesor jazyka C a jeho direktivy (define, include, if).
 permalink: programovaci-jazyk-c/preprocesor
