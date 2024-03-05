@@ -4,6 +4,7 @@ title:  "Dynamická alokace paměti"
 date:   2024-06-27 07:00:00 +0200
 last_modified_at: 2024-06-27 07:00:00 +0200
 category: Programovací jazyk C
+css_class: c
 read_time: 3 min 11 s
 description: Dynamická alokace paměti. Přehled operací. Rozložení paměti.
 permalink: programovaci-jazyk-c/dynamicka-alokace-pameti
