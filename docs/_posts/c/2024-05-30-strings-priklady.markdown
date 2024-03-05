@@ -78,7 +78,7 @@ int main(int argc, char* argv[])
   return 0;
 } {% endhighlight %}
 
-(<a href="https://github.com/wild-karoline/C/blob/main/13-strings-priklady/string-rev.c" target="_blank">Odkaz na GitHub</a>)
+(<a href="https://github.com/kaelwi/kaelwi-c/blob/master/2024-05-30-strings-priklady/string-rev.c" target="_blank">Odkaz na GitHub</a>)
 <br /><br />
 
 Naší main jsme tentokrát napsali tak, abysme měli přístup k argumentům. A jako první ve funkci main kontrolujeme, jestli je počet argumentů v pořádku - měly by být 2, jeden pro název, kterým jsme program spustili, jeden pro argument, který vlastně chceme předat.
@@ -146,7 +146,7 @@ int main(int argc, char* argv[])
   return 0;
 } {% endhighlight %}
 
-(<a href="https://github.com/wild-karoline/C/blob/main/13-strings-priklady/string-palindrom.c" target="_blank">Odkaz na GitHub</a>)
+(<a href="https://github.com/kaelwi/kaelwi-c/blob/master/2024-05-30-strings-priklady/string-palindrom.c" target="_blank">Odkaz na GitHub</a>)
 <br /><br />
 
 Stejně jako u předchozího příkladu. Naší main jsme napsali tak, abysme měli přístup k argumentům. A jako první ve funkci main kontrolujeme, jestli je počet argumentů v pořádku - měly by být 2, jeden pro název, kterým jsme program spustili, jeden pro argument, který vlastně chceme předat.

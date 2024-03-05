@@ -73,7 +73,7 @@ int main(void)
   return 0;
 } {% endhighlight %}
 
-(<a href="https://github.com/wild-karoline/C/blob/main/15-bubble-sort/bubblesort.c" target="_blank">Odkaz na GitHub</a>)
+(<a href="https://github.com/kaelwi/kaelwi-c/blob/master/2024-06-20-priklad-bubble-sort/bubblesort.c" target="_blank">Odkaz na GitHub</a>)
 <br /><br />
 
 </details>

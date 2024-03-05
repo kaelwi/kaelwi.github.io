@@ -65,7 +65,7 @@ Vitej, Karoline!
 Nazev programu: ./cmd-args
 {% endhighlight %}
 
-([Odkaz na GitHub](https://github.com/wild-karoline/C/blob/main/12-cmd-args/cmd-args.c){:target="_blank"})
+([Odkaz na GitHub](https://github.com/kaelwi/kaelwi-c/blob/master/2024-05-23-argumenty-z-prikazoveho-radku/cmd-args.c){:target="_blank"})
 
 Programu můžete předávat i jiný počet argumentů, jde o to, aby jednotlivé argumenty byly odděleny mezerou. Také to nemusí být jen a pouze slova (i když je tak program bude vnímat, pro převod na čísla ale existují funkce).
 
