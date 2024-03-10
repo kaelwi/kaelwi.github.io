@@ -5,7 +5,7 @@ date:   2024-03-11 07:00:00 +0200
 last_modified_at: 2024-03-11 07:00:00 +0200
 category: Blogování
 css_class: blogovani
-read_time: 3 min 14 s
+read_time: 4 min 34 s
 description: Možná už si tu nějaké pozorné oko všimlo úprav a odchylek od původní šablony (Minima v mém případě). Dneska zde shrnu, co a jak jsem kde změnila v původní šabloně.
 excerpt: Možná už si tu nějaké pozorné oko všimlo úprav a odchylek od původní šablony (Minima v mém případě). Dneska zde shrnu, co a jak jsem kde změnila v původní šabloně.
 permalink: blogovani/upravy-minimy
@@ -51,6 +51,48 @@ Obsah netvořím, pokud je jediným podnadpisem část "Kam dál". Pokud přísp
 
 Vzhled obsahu u příspěvku je dán v souboru main.scss (ve složce assets). Odkaz k mé verzi [zde](https://github.com/kaelwi/kaelwi.github.io/blob/master/docs/assets/main.scss). Využila jsem pro zarovnání flexbox, zrušila puntíky u seznamu. Přístup k jednotlivým elementům jsem si zajistila přes tzv. css selektory. To tak pár slovíček, kdyby se někdo chtěl podívat podrobněji (Google).
 
+{% highlight css %}
+#menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#menu > ul {
+  margin: 20px 0px;
+}
+
+#menu ul:not(:first-child) {
+  margin: 0px;
+}
+
+#menu > ul {
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: solid 1px #e3e3e3;
+  background-color: rgba(227, 227, 227, 0.5);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#menu ul > li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  list-style-type: none;
+}
+
+#menu ul:not(:first-child) > li > a {
+  font-weight: lighter;
+}
+
+#menu ul > li > a {
+  color: #454242;
+}
+{% endhighlight %}
+
 ## Obrázky
 
 Chtěla jsem mít u každého obrázku možnost popisku. Radu a pomoc jsem našla přes Google na [stackoverflow](https://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll).
@@ -64,11 +106,29 @@ Do složky *_includes* jsem tedy vložila soubor *image.html* s následujícím 
 </figure>
 {% endraw %}{% endhighlight %}
 
+A vzhled obrázku určuje CSS. U mně vypadá takto:
+
+{% highlight css %}
+img {
+  max-width: 80%;
+  margin: 0 auto;
+  display: block;
+  border-radius: 10px;
+}
+
+figcaption {
+  font-size: 14px;
+  text-align: center;
+  color: rgb(169, 167, 167);
+}s
+{% endhighlight %}
+
 Vkládání obrázku u příspěvku pak vypadá třeba takto:
 
 {% highlight html %}{% raw %}
 {% include image.html url="/assets/images/albanie/saranda/saranda-bistrica-beach.jpg" description="Saranda, Bistrica beach" %}
 {% endraw %}{% endhighlight %}
+
 
 A výsledný obrázek:
 
@@ -78,6 +138,27 @@ A výsledný obrázek:
 
 V záhlaví jsem úplně zrušila nadpis (podle Minimy by to byl site.title) a tagline. Ani jedno jsem nepociťovala jako důležité tam dole a tagline jsem stejně nepoužívala a jeho přítomnost (i když byl prázdný) mi akorát rozhodila zarovnání site.description. Kdyžtak mrk na soubor [zde](https://github.com/kaelwi/kaelwi.github.io/blob/master/docs/_includes/footer.html).
 
-Také jsem měla nějak rozhozené social media ikony. Po kontrole přes devtools (když na stránku klikneš pravým tlačítkem a dáš *Inspect*, tak se tam dostaneš) jsem zjistila, že social media má padding shora 5px. 
+Také jsem měla nějak rozhozené social media ikony. Po kontrole přes devtools (když na stránku klikneš pravým tlačítkem a dáš *Inspect*, tak se tam dostaneš) jsem zjistila, že social media má padding shora 5px.
 
-*TODO*
+CSS jsem upravila následovně:
+
+{% highlight css %}
+.social-media-list > li > a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5%;
+}
+
+.contact-list li + li {
+  padding-top: 5px;
+}
+{% endhighlight %}
+
+## Kam dál?
+
+*Nejdůležitější info pro to, abys mohl začít blogovat s Jekyll generátorem a GitHub Pages, máš k dispozici. Budu ráda, když se podělíš o výsledky na [IG](https://www.instagram.com/kaelwi.github.io/){:target="_blank"} nebo [Discordu](https://discord.gg/hB8UYAgwUE){:target="_blank"} 👍.
+
+Do budoucna se tu možná rozepíšu i o liquid templating language (to je to v těch složených závorkách u Jekyllu), případně HTML nebo CSS.
+
+Ale mezitím, jestli jsi zvědavý/á, mrkni třeba na [Céčko](../obsah.html#Programovací_jazyk_C){:target="_blank}!*
