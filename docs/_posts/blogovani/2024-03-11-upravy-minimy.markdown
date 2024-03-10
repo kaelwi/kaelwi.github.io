@@ -157,8 +157,8 @@ CSS jsem upravila následovně:
 
 ## Kam dál?
 
-*Nejdůležitější info pro to, abys mohl začít blogovat s Jekyll generátorem a GitHub Pages, máš k dispozici. Budu ráda, když se podělíš o výsledky na [IG](https://www.instagram.com/kaelwi.github.io/){:target="_blank"} nebo [Discordu](https://discord.gg/hB8UYAgwUE){:target="_blank"} 👍.
+*Nejdůležitější info pro to, abys mohl začít blogovat s Jekyll generátorem a GitHub Pages, máš k dispozici. Budu ráda, když se podělíš o výsledky na [IG](https://www.instagram.com/kaelwi.github.io/){:target="_blank"} nebo [Discordu](https://discord.gg/hB8UYAgwUE){:target="_blank"} 👍.*
 
-Do budoucna se tu možná rozepíšu i o liquid templating language (to je to v těch složených závorkách u Jekyllu), případně HTML nebo CSS.
+*Do budoucna se tu možná rozepíšu i o liquid templating language (to je to v těch složených závorkách u Jekyllu), případně HTML nebo CSS.*
 
-Ale mezitím, jestli jsi zvědavý/á, mrkni třeba na [Céčko](../obsah.html#Programovací_jazyk_C){:target="_blank}!*
+*Ale mezitím, jestli jsi zvědavý/á, mrkni třeba na [Céčko](../obsah.html#Programovací_jazyk_C){:target="_blank}!*
