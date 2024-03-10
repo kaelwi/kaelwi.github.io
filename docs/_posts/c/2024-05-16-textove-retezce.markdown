@@ -81,4 +81,6 @@ Všimněte si, že ať už zadáte jakékoli jméno, končí novým řádkem (\n
 
 ## Kam dál?
 
+*TBD. Příště ti ukážu, jak můžeš programu při spuštění přidat argumenty přes příkazový řádek.*
+
 {% comment %} [Argumenty předané programu z příkazového řádku]({% post_url c/2024-05-23-argumenty-z-prikazoveho-radku %}) {% endcomment %}

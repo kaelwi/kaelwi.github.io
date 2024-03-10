@@ -465,4 +465,6 @@ A tip na konec: Nenechte se touhle kapitolou nijak rozhodit. Bývá trochu těž
 
 ## Kam dál?
 
+*TBD. Příště si zase projedeme příklad (implementace řadicího algoritmu).*
+
 {% comment %} [Příklad - Bubble Sort]({% post_url c/2024-06-20-priklad-bubble-sort %}) {% endcomment %}

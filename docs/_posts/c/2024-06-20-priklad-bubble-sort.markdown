@@ -81,4 +81,6 @@ int main(void)
 
 ## Kam dál?
 
+*TBD. Dynamická alokace paměti tě čeká příští týden.*
+
 {% comment %} [Dynamická alokace paměti]({% post_url c/2024-06-27-dynamicka-alokace-pameti %}) {% endcomment %}

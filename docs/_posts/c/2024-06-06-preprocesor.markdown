@@ -152,4 +152,6 @@ Pokud bysme pak v našem hlavním programu přidali soubor matika.h pomocí incl
 
 ## Kam dál?
 
+*TBD. Pointry. Více příští týden.*
+
 {% comment %} [Pointer (ukazatel)]({% post_url c/2024-06-13-pointer %}) {% endcomment %}

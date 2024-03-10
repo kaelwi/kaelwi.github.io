@@ -90,6 +90,6 @@ Z dnešního článku si zapamatuj, že paměť je možné nárokovat dynamicky 
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. Příště si trochu nasimulujeme (jinak neexistující) objektově orientované programování v Céčku.*
 
 {% comment %} [Enum a Struct]({% post_url c/2024-07-04-enums-structs %}) {% endcomment %}

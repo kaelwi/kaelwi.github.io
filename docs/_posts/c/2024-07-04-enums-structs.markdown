@@ -296,4 +296,4 @@ valgrind --tool=memcheck --leak-check=yes ./question
 
 ## Kam dál?
 
-*\-TBD\-*
+*TBD. To je prozatím vše!*

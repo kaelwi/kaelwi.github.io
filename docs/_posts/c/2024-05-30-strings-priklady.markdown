@@ -161,4 +161,6 @@ V samotné stringPalindrom funkci následně porovnáváme první a poslední p�
 
 ## Kam dál?
 
+*TBD. Určitě sis všiml/-a hashtagů na začátku zdrojového kódu. Příště je trochu demystifikuju a objasním, k čemu slouží.*
+
 {% comment %} [Preprocesor]({% post_url c/2024-06-06-preprocesor %}) {% endcomment %}
