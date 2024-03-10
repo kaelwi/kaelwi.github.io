@@ -250,7 +250,7 @@ void freeAllQuestions(Question* question)
 
 A konečně zkouška v mainu:
 
-{% highlightc %}
+{% highlight c %}
 int main(void)
 {
   Question* q1 = newQuestion(
