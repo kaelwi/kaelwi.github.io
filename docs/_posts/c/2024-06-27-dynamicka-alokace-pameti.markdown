@@ -5,7 +5,7 @@ date:   2024-06-27 07:00:00 +0200
 last_modified_at: 2024-06-27 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
-read_time: 3 min 11 s
+read_time: 3 min 40 s
 description: Dynamická alokace paměti. Přehled operací. Rozložení paměti.
 excerpt: Dynamická alokace paměti. Přehled operací. Rozložení paměti.
 permalink: programovaci-jazyk-c/dynamicka-alokace-pameti
@@ -76,6 +76,20 @@ Blok v paměti lze o *new_size* zvětšit nebo zmenšit. Podle možností je nav
 
 Pomocí free uvolňujeme dynamicky alokovanou paměť. Při každém ukončení programu je sice uvolňována paměť na stacku, ne však na heapu. O toto se musí v C postarat programátor sám, aby nedocházelo k tzv. memory leaks, [únikům paměti](https://cs.wikipedia.org/wiki/%C3%9Anik_pam%C4%9Bti).
 
+## Shrnutí
+
+Relevantní funkce:
+- void* malloc(size_t size);
+- void* calloc(size_t count, size_t size);
+- void* realloc(void* ptr, size_t size);
+- void free(void *ptr);
+
+Pro jejich používání je třeba na začátku souboru mít vložen stdlib.h.
+
+Z dnešního článku si zapamatuj, že paměť je možné nárokovat dynamicky z heapu. Takto nárokovaná paměť musí být zase uvolněna, když už není potřebná (pomocí free). Data, která máme na stacku, není třeba explicitně uvolnit.
+
 ## Kam dál?
 
 *\-TBD\-*
+
+{% comment %} [Enum a Struct]({% post_url c/2024-07-04-enums-structs %}) {% endcomment %}
