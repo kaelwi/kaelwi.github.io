@@ -202,6 +202,4 @@ Od standardu C99 lze používat datový typ _Bool (díky #include <stdbool.h>) a
 
 ## Kam dál?
 
-*TBD. Příště se podíváme na to, jak je možné s proměnnými a hodnotami, které se za nimi skrývají, pracovat. Omrkneme k tomu aritmetické a logické operátory v jazyce C.*
-
-{% comment %} [Operátory v C]({% post_url c/2024-03-21-operatory-v-c %}) {% endcomment %}
+[Operátory v C]({% post_url c/2024-03-21-operatory-v-c %})
