@@ -2,7 +2,7 @@
 layout: post
 title:  "Operátory v C"
 date:   2024-03-21 07:00:00 +0200
-last_modified_at: 2024-03-21 07:00:00 +0200
+last_modified_at: 2024-03-28 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
 read_time: 3 min 44 s
@@ -175,6 +175,4 @@ V proměnné *amount_ok* bychom v takovémto případě uložili informaci, zda 
 
 ## Kam dál?
 
-*TBD. Příští týden bude ve znamení opakování. Tak se připravte na malou nálož příkladů 😎.*
-
-{% comment %} [Opakování - datové typy, operátory, ASCII]({% post_url c/2024-03-28-opakovani-datove-typy-operatory-ascii %}) {% endcomment %}
+[Opakování - datové typy, operátory, ASCII]({% post_url c/2024-03-28-opakovani-datove-typy-operatory-ascii %})
