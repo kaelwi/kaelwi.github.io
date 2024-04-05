@@ -2,7 +2,7 @@
 layout: post
 title:  "Opakování - datové typy, operátory, ASCII"
 date:   2024-03-28 07:00:00 +0200
-last_modified_at: 2024-03-28 07:00:00 +0200
+last_modified_at: 2024-04-05 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
 read_time: 6 min 22 s
@@ -416,6 +416,4 @@ Snad je to takhle vše pochopitelné (a kdyby ne, klidně se mi ozvětě na [Dis
 
 ## Kam dál?
 
-*TBD. Jestli je všechno jasné, tak se můžeš těšit na novou kapitolu za týden. Ukážeme si, jak je možné ovlivnit tok programu pomocí smyček, podmínek a větvení.*
-
-{% comment %} [Smyčky a podmínky]({% post_url c/2024-04-04-smycky-a-podminky %}) {% endcomment %}
+[Smyčky a podmínky]({% post_url c/2024-04-04-smycky-a-podminky %})
