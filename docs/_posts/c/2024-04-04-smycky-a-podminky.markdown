@@ -2,7 +2,7 @@
 layout: post
 title:  "Smyčky a podmínky v C"
 date:   2024-04-04 07:00:00 +0200
-last_modified_at: 2024-04-04 07:00:00 +0200
+last_modified_at: 2024-04-15 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
 read_time: 14 min 17 s
