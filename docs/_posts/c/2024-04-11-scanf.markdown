@@ -2,7 +2,7 @@
 layout: post
 title:  "scanf, aneb formátované načítání textu"
 date:   2024-04-11 07:00:00 +0200
-last_modified_at: 2024-04-11 07:00:00 +0200
+last_modified_at: 2024-04-18 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
 read_time: 2 min 04 s
@@ -119,6 +119,4 @@ int main(void)
 
 ## Kam dál?
 
-*TBD. Funkce sem, funkce tam. Ale co to vlastně ta funkce v programování je? Těš se za týden!*
-
-{% comment %} [Funkce v C]({% post_url c/2024-04-18-funkce %}) {% endcomment %}
+[Funkce v C]({% post_url c/2024-04-18-funkce %})
