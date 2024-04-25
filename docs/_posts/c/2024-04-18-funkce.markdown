@@ -126,6 +126,4 @@ Kdybyste pořadí prohodili, tzn. v kódu nejdřív měli main a pak až funkci,
 
 ## Kam dál?
 
-*TBD. Příští týden tě čeká příklad na procvičování funkcí. Tak sem mrkni znovu 25.4.2024.*
-
-{% comment %} [Opakování - kalkulačka]({% post_url c/2024-04-25-opakovani-kalkulacka %}) {% endcomment %}
+[Opakování - kalkulačka]({% post_url c/2024-04-25-opakovani-kalkulacka %})
