@@ -2,7 +2,7 @@
 layout: post
 title:  "Opakování - kalkulačka"
 date:   2024-04-25 07:00:00 +0200
-last_modified_at: 2024-04-25 07:00:00 +0200
+last_modified_at: 2024-05-02 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
 read_time: 3 min 45 s
@@ -213,6 +213,4 @@ Gratuluju všem, kdo se prokousali až sem. Vím, že začátky nejsou jednoduch
 
 ## Kam dál?
 
-*TBD. Všechno dobrý? Tak aby toho nebylo málo, příští týden budeme ještě jednou upevňovat dosud naučené.*
-
-{% comment %} [Další příklady]({% post_url c/2024-05-02-dalsi-priklady %}) {% endcomment %}
+[Další příklady]({% post_url c/2024-05-02-dalsi-priklady %}) 
