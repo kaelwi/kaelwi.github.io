@@ -455,4 +455,4 @@ int vysledekKola(int volba_hrace, int volba_pocitace)
 
 ## Kam dál?
 
-{% comment %}[Datová pole (arrays)]({% post_url c/2024-05-09-datova-pole %}) {% endcomment %}
+[Datová pole (arrays)]({% post_url c/2024-05-09-datova-pole %})
