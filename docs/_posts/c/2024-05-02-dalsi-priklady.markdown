@@ -2,7 +2,7 @@
 layout: post
 title:  "Další příklady"
 date:   2024-05-02 07:00:00 +0200
-last_modified_at: 2024-05-02 07:00:00 +0200
+last_modified_at: 2024-05-09 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
 read_time: 6 min 7 s
@@ -454,7 +454,5 @@ int vysledekKola(int volba_hrace, int volba_pocitace)
 <br />
 
 ## Kam dál?
-
-*TBD. Příště mrkneme na datová pole, anglicky arrays.*
 
 {% comment %}[Datová pole (arrays)]({% post_url c/2024-05-09-datova-pole %}) {% endcomment %}
