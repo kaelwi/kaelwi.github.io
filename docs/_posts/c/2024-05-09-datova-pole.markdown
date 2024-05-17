@@ -2,7 +2,7 @@
 layout: post
 title:  "Datová pole (arrays)"
 date:   2024-05-09 07:00:00 +0200
-last_modified_at: 2024-05-09 07:00:00 +0200
+last_modified_at: 2024-05-17 07:00:00 +0200
 category: Programovací jazyk C
 css_class: c
 read_time: 5 min 41 s
@@ -266,6 +266,4 @@ int main(void)
 
 ## Kam dál?
 
-*TBD. Arrays jsi zmáknul levou zadní. Tak ti příště ukážu i to, jak na textové řetězce v Céčku.*
-
-{% comment %} [Textové řetězce (strings)]({% post_url c/2024-05-16-textove-retezce %}) {% endcomment %}
+[Textové řetězce (strings)]({% post_url c/2024-05-16-textove-retezce %}) 
