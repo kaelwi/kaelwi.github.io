@@ -73,6 +73,4 @@ Tak si s tím klidně pohrajte a zkoušejte. Předávání argumentů programu j
 
 ## Kam dál?
 
-*TBD. Příští týden tě čeká pár příkladů na procvičení textových řetězců.*
-
-{% comment %} [Strings - příklady]({% post_url c/2024-05-30-strings-priklady %}) {% endcomment %}
+[Strings - příklady]({% post_url c/2024-05-30-strings-priklady %})
