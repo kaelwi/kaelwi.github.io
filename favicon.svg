@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Spool body -->
+  <rect x="16" y="12" width="32" height="40" rx="4" fill="#b8a9c8"/>
+  <!-- Spool top rim -->
+  <rect x="10" y="8" width="44" height="8" rx="3" fill="#7c6d8a"/>
+  <!-- Spool bottom rim -->
+  <rect x="10" y="48" width="44" height="8" rx="3" fill="#7c6d8a"/>
+  <!-- Thread wraps -->
+  <rect x="18" y="18" width="28" height="6" rx="2" fill="#7c6d8a" opacity="0.6"/>
+  <rect x="18" y="26" width="28" height="6" rx="2" fill="#7c6d8a" opacity="0.5"/>
+  <rect x="18" y="34" width="28" height="6" rx="2" fill="#7c6d8a" opacity="0.6"/>
+  <rect x="18" y="42" width="28" height="5" rx="2" fill="#7c6d8a" opacity="0.5"/>
+  <!-- Loose thread tail -->
+  <path d="M44 30 Q52 28 50 20 Q48 14 54 10" stroke="#7c6d8a" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>

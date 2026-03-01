@@ -61,7 +61,8 @@ categoryLinks.forEach(link => {
 
     // Show/hide posts
     postCards.forEach(card => {
-      if (filter === 'všechny' || card.dataset.category === filter) {
+      const categories = card.dataset.category.split(' ');
+      if (filter === 'všechny' || categories.includes(filter)) {
         card.style.display = '';
       } else {
         card.style.display = 'none';
