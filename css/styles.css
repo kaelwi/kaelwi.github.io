@@ -445,6 +445,31 @@ h2 {
   box-shadow: 0 0 0 3px var(--color-focus);
 }
 
+/* ===== Gallery ===== */
+.gallery-section {
+  padding: 4rem 0;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.gallery-grid img:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 25px var(--color-shadow-hover);
+}
+
 /* ===== Footer ===== */
 .footer {
   background: var(--color-footer-bg);
@@ -659,6 +684,10 @@ h2 {
 
   .posts-grid {
     grid-template-columns: 1fr;
+  }
+
+  .gallery-grid {
+    grid-template-columns: 1fr 1fr;
   }
 
   .post-header h1 {
