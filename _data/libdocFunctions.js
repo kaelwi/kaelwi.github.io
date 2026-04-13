@@ -205,7 +205,8 @@ export default {
             return Object.entries(sortedObject);
         },
         postsByDateDescending: function(collectionsApi) {
-            return collectionsApi.getFilteredByTag("post").sort(function (a, b) {
+            let posts = collectionsApi.getFilteredByTag("post").filter(item => !item.data.draft);
+            return posts.sort(function (a, b) {
                 //return a.date - b.date; // sort by date - ascending
                 return b.date - a.date; // sort by date - descending
                 //return a.inputPath.localeCompare(b.inputPath); // sort by path - ascending
