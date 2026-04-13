@@ -7,7 +7,7 @@ tags:
    - graz
    - post
 date: 2026-04-13
-ogImageUrl: "/assets/img/graz/2026-04-12-glockenturm.jpeg"
+ogImageUrl: https://github.com/kaelwi/eleventy-libdoc/blob/main/assets/img/graz/2026-04-12_glockenturm.jpeg?raw=true
 author: Karoline E. Wild
 ---
 ![markdown image example](https://raw.githubusercontent.com/olivier3lanc/photographies/refs/heads/master/assets/paysages/hiver/foret_sapins_hiver_col_pre_img_4917_size_2560x1706.webp)
