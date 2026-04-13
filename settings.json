@@ -1,0 +1,18 @@
+{
+    "siteTitle": "Karoline E. Wild",
+    "siteDescription": "Můj prostor",
+    "author": "Karoline E. Wild",
+    "faviconUrl": "/assets/myfavicon.png",
+    "blogTitle": "Blog",
+    "blogDescription": "Blog o Grazu",
+    "customLinks": [
+        {
+            "url": "https://www.instagram.com/wildkaroline/",
+            "text": "Instagram"
+        },
+        {
+            "url": "https://www.youtube.com/@kael-wi",
+            "text": "YouTube (Paličkování)"
+        }
+    ]
+}

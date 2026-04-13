@@ -1,1 +1,8 @@
-docs/_drafts
+node_modules
+.vscode
+_site
+.cache
+.DS_Store
+_data/envlocal.json
+.env
+/assets/___dummy_content
