@@ -7,7 +7,7 @@ tags:
    - graz
    - post
 date: 2026-04-13
-ogImageUrl: https://github.com/kaelwi/kaelwi.github.io/blob/master/assets/img/graz/2026-04-12_glockenturm.jpeg?raw=true
+ogImageUrl: "../assets/img/graz/2026-04-12_glockenturm.jpeg"
 author: Karoline E. Wild
 ---
 
