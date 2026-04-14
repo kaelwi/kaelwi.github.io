@@ -256,6 +256,11 @@
                     </a>
                 {% endif %}
 
+                <div id="nav_primary"
+                    class="pos-relative | fg-1 o-auto">
+                    {{ eleventyNavigationMenu }}
+                </div>
+
                 {% if collections.myTags.size > 0 and libdocConfig.displayTagsListLink %}
                     <a  href="/tags/"
                         id="nav_primary_blog_link"
@@ -267,11 +272,6 @@
                         {{ libdocMessages.tagsList[pageLang] }}
                     </a>
                 {% endif %}
-
-                <div id="nav_primary"
-                    class="pos-relative | fg-1 o-auto">
-                    {{ eleventyNavigationMenu }}
-                </div>
             </nav>
         </div>
         <main class="pos-relative"

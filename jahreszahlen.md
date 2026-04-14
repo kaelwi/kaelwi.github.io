@@ -13,6 +13,9 @@ tags:
 date: 2026-04-14
 ---
 
+Zurück zu [Lernunterlagen](/lernunterlagen.md).
+Weiter zu [Jahreszahlen Graz](/jahreszahlen-graz.md)
+
 ## Quellen
 
 Karl Vocelka, Österreichische Geschichte
