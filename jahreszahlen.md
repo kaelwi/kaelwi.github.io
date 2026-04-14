@@ -29,7 +29,41 @@ Karl Vocelka, Österreichische Geschichte
 
 ## 17. Jahrhundert
 
+1626 Oberösterreich Bauernaufstand
+
 ## 16. Jahrhundert
+
+1564 Ferdinand I. starb
+
+1556 Ferdinand wurde Kaiser (Nachfolger Karls V.)
+
+1555 Augsburger Religionsfrieden
+
+1530 Augsburger Bekenntnis
+
+1529 erste Wiener Türkenbelagerung
+
+1.1.1527 Ferdinands I. Hofstaatsordnung (gültig bis 1848)
+
+26.8.1526 Schlacht bei Mohács
+
+1524-26 Bauernkrieg
+
+1524-25 der große deutsche Bauernaufstand
+
+1522 Teilungsvertrag von Brüssel
+
+1521 Vertrag von Worms
+
+1519 Maximilian I. starb
+
+31.10.1517 Thesenanschlag Luthers
+
+1516 Aragon, Erbanfall des spanischen Königreichs
+
+1515 Wiener Doppelhochzeit
+
+1504 Kastilien, Erbanfall des spanischen Königreichs
 
 um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsburgischen Dynastie
 
@@ -37,15 +71,33 @@ um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsbu
 
 um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsburgischen Dynastie
 
+1496 Vertreibung der Juden aus Innerösterreich
+
+1492 Eroberung Granadas (Spanien, Reconquista)
+
+1491 Maximilian schloss (Erb-)Vertrag zu Preßburg/Bratislava mit dem böhmischen und ungarischen König Wladislaw
+
 seit 1483 Buchdruck in Wien
+
+1474-1477 Burgunderkrieg
+
+1457 starb Ladislaus -> in Böhmen und Ungarn wurden "nationale" Könige gewählt (Georg von Podiebrad und Matthias Corvinus)
+
+1452 Friedrich wurde (als letzter Herrscher) in Rom vom Papst zum Kaiser gekrönt
+
+1440 * Ladislaus (Postumus), Vormund Erzherzog Friedrich V. (als römisch-deutscher Kaiser Friedrich III.)
 
 1438 (Erz-)Herzog Albrecht V. König von Böhmen und zum römischen König gewählt
 
 1437 (Erz-)Herzog Albrecht V. König von Ungarn 
 
+1420 Wiener Geserah
+
 ## 14. Jahrhundert
 
 1356 Goldene Bulle (Karl IV.)
+
+1348/49 große Pestwelle
 
 1335 Kärnten fiel durch Erbverträge an die Habsburger nach dem Aussterben einer Linie der Görzer
 
