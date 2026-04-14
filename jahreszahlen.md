@@ -13,11 +13,17 @@ tags:
 date: 2026-04-14
 ---
 
+## Quellen
+
+Karl Vocelka, Österreichische Geschichte
+
 ## 21. Jahrhundert
 
 ## 20. Jahrhundert
 
 ## 19. Jahrhundert
+
+1803 Reichsdeputationshauptschluss
 
 ## 18. Jahrhundert
 
@@ -25,25 +31,81 @@ date: 2026-04-14
 
 ## 16. Jahrhundert
 
+um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsburgischen Dynastie
+
 ## 15. Jahrhundert
+
+um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsburgischen Dynastie
+
+seit 1483 Buchdruck in Wien
+
+1438 (Erz-)Herzog Albrecht V. König von Böhmen und zum römischen König gewählt
+
+1437 (Erz-)Herzog Albrecht V. König von Ungarn 
 
 ## 14. Jahrhundert
 
+1356 Goldene Bulle (Karl IV.)
+
+1335 Kärnten fiel durch Erbverträge an die Habsburger nach dem Aussterben einer Linie der Görzer
+
 ## 13. Jahrhundert
+
+29.9.1278 Rudolf besiegte Ottokar in der Schlacht auf dem Marchfeld bei Dürnkrut und Jedenspeigen
+
+1273 Rudolf von Habsburg wurde zum Herrscher gewählt
+
+1253 starben die Tiroler Grafen aus und wurden von den Görzern beerbt, die dann ihrerseits wieder von den Habsburgern beerbt wurden (1365)
+
+nach 1246 Niederösterreich mit Wien, Oberösterreich und Steiermark bildeten das "Babenbergische Erbe"
+
+1232 Krain und die Windische Mark (heute Slowenien) sind erstmals an die Babenberger gekommen
 
 ## 12. Jahrhundert
 
+1190/91 Herzog Leopold V. nam am dritten Kreuzzug teil (Legende von der Entstehung des Bindenschildes, des rot-weiß-rot Wappens)
+
+1180 Otakar IV. wurde Herzog
+
 1156 Privilegium minus
 
+1156 Babenberger mussten Bayern zurückgeben -> als Ausgleich erhielten sie die Herzogswürde in Österreich und das Privilegium minus
+
+1139 Babenberger mit Bayern belehnt
+
+1130-1164 Otakar III.
+
+1095-1136 Leopold III. (im 15. Jahrhundert heiliggesprochen, 1663 machte ihn der habsburgische Kaiser Leopold I. zum Landespatron für ganz Österreich)
+
 ## 11. Jahrhundert
+
+1095-1136 Leopold III. (im 15. Jahrhundert heiliggesprochen, 1663 machte ihn der habsburgische Kaiser Leopold I. zum Landespatron für ganz Österreich)
 
 ## 10. Jahrhundert
 
 996 erste urkundliche Nennung "Ostarrichi"
 
+1.11.996 "Ostarrichi" in einer Urkunde für das Kloster Freising über die Schenkung des Gutes Neuhofen an der Ybbs
+
+976 Kaiser Otto II. trennte Kärnten als eigenes Herzogtum von Bayern ab
+
+976 Kärnten wurde ein selbstständiges Herzogtum
+
+976 "marchio Luitpoldus" (Leopold I.) erwähnt (begründete die Dynastie der Babenberger)
+ 
+955 Sieg gegen die Ungarn auf dem Lechfeld
+
+907 Schlacht mit den Magyaren bei Preßburg/Bratislava (Markgraf Luitpold wurde getötet)
+
 ## 9. Jahrhundert
 
+Ende des 9. Jahrhunderts Einfall der Magyaren
+
 ## 8. Jahrhundert
+
+798 Salzburg wurde Erzbistum (mit den Suffraganen Regensburg, Passau, Freising und Säben/Sabiona)
+
+788 Entmachtung des letzten bayerischen Stammesfürsten Tassilo III. und erfolgreiche Awarenkriege Karls des Großen -> das Gebiet des heutigen Österreichs wurde Teil des karolingischen Markensystems
 
 784 Tassilo III. stiftete Missionskloster Mattsee
 
