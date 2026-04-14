@@ -1,7 +1,8 @@
 name: build 11ty site
 
 on:
-  workflow_dispatch
+  push:
+    branch: ["master"]
 
 permissions:
   contents: read
