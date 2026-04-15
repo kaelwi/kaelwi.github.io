@@ -14,4 +14,10 @@ date: 2026-04-14
 
 [Jahreszahlen Österreich](/jahreszahlen-oesterreich.md)
 
-[Jahreszahlen Graz](/jahreszahlen-graz.md)
+[Jahreszahlen Graz](/jahreszahlen-graz.md) 
+
+[Persönlichkeiten](/persoenlichkeiten.md)
+
+## Kunstgeschichte
+
+[Werke](/werke.md)
