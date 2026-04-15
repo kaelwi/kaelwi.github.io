@@ -188,7 +188,7 @@ um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsbu
 
 ## 17. Jahrhundert
 
-17. und 18. Jahrhundert barocke konfessionelle Absolutismus
+17\. und 18. Jahrhundert barocke konfessionelle Absolutismus
 
 1592-1606 Türkenkrieg Rudolfs II. -> Frieden von Zsitvatorok
 
@@ -212,9 +212,9 @@ um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsbu
 
 ## 18. Jahrhundert
 
-17. und 18. Jahrhundert barocke konfessionelle Absolutismus
+17\. und 18. Jahrhundert barocke konfessionelle Absolutismus
 
-18. Jahrhundert "agrarische Revolution", Bevölkerungswachstum
+18\. Jahrhundert "agrarische Revolution", Bevölkerungswachstum
 
 1661-1715 Ludwig XIV.
 
@@ -282,9 +282,9 @@ ab 1760 "Staatsrat" unter Kaunitz
 
 ## 19. Jahrhundert
 
-19. Jahrhundert begann die Industrialisierung im Sinne des Einsatzes von Maschinen (v.A. Dampfmaschinen)
+19\. Jahrhundert begann die Industrialisierung im Sinne des Einsatzes von Maschinen (v.A. Dampfmaschinen)
 
-19. Jahrhundert Nationalitätenstreit
+19\. Jahrhundert Nationalitätenstreit
 
 Zeit vom Vormärz bis zum Ende des Ersten Weltkriegs -> das "lange 19. Jahrhundert"
 
