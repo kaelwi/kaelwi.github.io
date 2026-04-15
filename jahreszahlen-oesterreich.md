@@ -2,18 +2,20 @@
 title: Jahreszahlen Österreich
 description: Zahlen, Zahlen und wieder Zahlen
 layout: libdoc_page.liquid
-permalink: jahreszahlen/index.html
+permalink: jahreszahlen-oesterreich/index.html
 eleventyNavigation:
-    key: Jahreszahlen
+    key: Jahreszahlen Österreich
     parent: Lernunterlagen
 tags:
     - lernunterlagen
     - geschichte
     - jahreszahlen
+    - österreich
 date: 2026-04-14
 ---
 
 Zurück zu [Lernunterlagen](/lernunterlagen.md).
+
 Weiter zu [Jahreszahlen Graz](/jahreszahlen-graz.md)
 
 ## Quellen

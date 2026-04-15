@@ -12,5 +12,6 @@ date: 2026-04-14
 
 ## Geschichte
 
-[Jahreszahlen Österreich](/jahreszahlen.md)
+[Jahreszahlen Österreich](/jahreszahlen-oesterreich.md)
+
 [Jahreszahlen Graz](/jahreszahlen-graz.md)

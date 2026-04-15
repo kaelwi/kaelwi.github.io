@@ -14,4 +14,6 @@ tags:
 date: 2026-04-14
 ---
 
+Zurück zu [Lernunterlagen](/lernunterlagen.md).
 
+Hier geht's zu Weiter zu [Jahreszahlen Österreich](/jahreszahlen-oesterreich.md)
