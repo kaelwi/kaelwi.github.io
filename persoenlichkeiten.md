@@ -69,3 +69,56 @@ Lukas von Hildebrand
 Johann Bernhard Fischer von Erlach
 
 Jakob Prandtauer
+
+## Literatur
+
+Adalbert Stifter
+
+Nikolaus Lenau
+
+Joseph Roth
+
+Karl Kraus
+
+Arthur Schnitzler
+
+Hugo von Hofmannsthal
+
+Stefan Zweig
+
+Franz Kafka
+
+Georg Trakl
+
+Rainer Maria Rilke
+
+### Feuilleton- und Kaffeehausliteratur
+
+Peter Altenberger
+
+Egon Friedel
+
+## Theater
+
+Franz Grillparzer
+
+Ferdinand Raimund
+
+Johann Nestroy
+
+## Musik
+
+Ludwig van Beethoven
+
+Franz Schubert
+
+die Strauss-Familie
+
+Josef Lanner
+
+## Malerei
+
+Friedrich Gauermann
+
+Ferdinand Waldmüller
+

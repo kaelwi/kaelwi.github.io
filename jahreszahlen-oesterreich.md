@@ -188,6 +188,8 @@ um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsbu
 
 ## 17. Jahrhundert
 
+17. und 18. Jahrhundert barocke konfessionelle Absolutismus
+
 1592-1606 Türkenkrieg Rudolfs II. -> Frieden von Zsitvatorok
 
 1606 Frieden von Zsitvatorok
@@ -210,15 +212,23 @@ um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsbu
 
 ## 18. Jahrhundert
 
+17. und 18. Jahrhundert barocke konfessionelle Absolutismus
+
+18. Jahrhundert "agrarische Revolution", Bevölkerungswachstum
+
 1661-1715 Ludwig XIV.
 
 1701-14 Spanische Erbfolgekrieg
 
 1703 Finanzzusammenbruch nach dem Tod von Samuel Oppenheimer
 
+1705-11 Regierungszeit Josefs I.
+
 1713 Pestepidemie
 
 1713 Pragmatische Sanktion
+
+1719 Freihafenprivilegien (Karl VI.)
 
 1737-39 zweite Türkenkrieg Karls VI. -> Friede von Belgrad
 
@@ -226,19 +236,89 @@ um 1500 war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsbu
 
 1740 Maria Theresia übernahm die Herrschaft
 
+1740-92 Zeit des aufgeklärten Absolutismus in der Habsburgermonarchie
+
+nach 1740 Weg in die Moderne
+
+1740-80 Regierungszeit Joseph II.
+
+1748 Frieden von Aachen
+
+1749 Directorium in publicis et cameralibus unter Haugwitz
+
 1756-63 Siebenjährige Krieg
+
+ab 1760 "Staatsrat" unter Kaunitz
+
+1763 Frieden von Hubertusburg
+
+1769 Constitutio Criminalis Maria Theresiana
+
+1772 erste polnische Teilung
+
+1777 die in Bayern regierende Linie des Hauses Wittelsbach erlosch
+
+1779 Abschaffung der Folter
+
+1781 und 1782 Toleranzpatente
 
 1782 Toleranzpatente Josephs II.
 
+1782 Papst Pius VI. nach Wien
+
+1785 neue Diözesanregulierung
+
 1787-91 letzte Türkenkrieg Josephs II. -> Frieden von Sistowa (Leopold II.)
+
+1789 Französische Revolution
+
+1790-92 Regierungszeit Leopold II.
 
 1791 Frieden von Sistowa (Leopold II.)
 
+1792 Koalitionskriege begonnen
+
+1797 Frieden von Campo Formio
+
 ## 19. Jahrhundert
+
+19. Jahrhundert begann die Industrialisierung im Sinne des Einsatzes von Maschinen (v.A. Dampfmaschinen)
+
+19. Jahrhundert Nationalitätenstreit
+
+Zeit vom Vormärz bis zum Ende des Ersten Weltkriegs -> das "lange 19. Jahrhundert"
+
+1801 wurde in Lunéville der Friede von Campo Formio bestätigt
 
 1803 Reichsdeputationshauptschluss
 
+1804 Franz II. nahm den Titel "Kaiser von Österreich" an (erblicher Kaisertitel)
+
+1805/06 dritte Koalitionskrieg
+
+1806 Franz II./I. legte die Krone des Heiligen Römischen Reiches nieder und löste das Reich auf
+
+1810 Andreas Hofer wurde in Mantua hingerichtet
+
+1813 Völkerschlacht bei Leipzig
+
+1815 gewann die Habsburgermonarchie die Gebiete von Brixen/Bressanone und Trient/Trento sowie das Erzbistum Salzburg
+
+nach 1848 setzte die eigentliche Phase der Industrialisierung ein
+
+1848/49 Revolution
+
+1855 Konkordat mit dem Heiligen Stuhl
+
+1857 Beschluss Kaiser Franz Josephs, die Befestigung Wiens zu schleifen und die Ringstraße anzulegen
+
+1867 Dezemberverfassung
+
+um 1900 kulturelle Blüte
+
 ## 20. Jahrhundert
+
+um 1900 kulturelle Blüte
 
 ## 21. Jahrhundert
 
