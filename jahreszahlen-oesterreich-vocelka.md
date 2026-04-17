@@ -1,8 +1,8 @@
 ---
-title: Jahreszahlen Österreich
+title: Jahreszahlen Österreich (Vocelka)
 description: Zahlen, Zahlen und wieder Zahlen
 layout: libdoc_page.liquid
-permalink: jahreszahlen-oesterreich/index.html
+permalink: jahreszahlen-oesterreich-vocelka/index.html
 eleventyNavigation:
     key: Jahreszahlen Österreich
     parent: Lernunterlagen
