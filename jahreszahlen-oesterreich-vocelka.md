@@ -106,6 +106,8 @@ nach 1246 Niederösterreich mit Wien, Oberösterreich und Steiermark bildeten da
 
 1356 Goldene Bulle (Karl IV.)
 
+28.6.1389 Schlacht auf dem Amselfeld (Kossovo Polje)
+
 ## 15. Jahrhundert
 
 1420 Wiener Geserah
@@ -304,7 +306,25 @@ Zeit vom Vormärz bis zum Ende des Ersten Weltkriegs -> das "lange 19. Jahrhunde
 
 1815 gewann die Habsburgermonarchie die Gebiete von Brixen/Bressanone und Trient/Trento sowie das Erzbistum Salzburg
 
+1835 Tod des Konservativen Kaisers Franz II./I.
+
+13.3.1848 protestierten in Wien Bürger und Studenten
+
+25.4.1848 Verkündigung der Verfassung von Pillersdorf
+
+05/1848 Protest der Studenten in Wien
+
+08/1848 Praterschlacht, bürgerliche Nationalgarden schossen auf die gegen Lohnkürzung demonstrierenden Arbeiter
+
+10/1848 Endphase der Wiener Revolution
+
+31.11.1848 endete die Revolution in der Hauptstadt
+
+seit 1848 die Arbeiter begannen sich besser zu organisieren
+
 nach 1848 setzte die eigentliche Phase der Industrialisierung ein
+
+nach 1848 Rückkehr zum Absolutismus (Neoabsolutismus)
 
 1848/49 Revolution
 
@@ -312,13 +332,193 @@ nach 1848 setzte die eigentliche Phase der Industrialisierung ein
 
 1857 Beschluss Kaiser Franz Josephs, die Befestigung Wiens zu schleifen und die Ringstraße anzulegen
 
-1867 Dezemberverfassung
+1859 verlorene Schlachten von Magenta und Solferino, Abtretung der Lombardei
+
+1859 Habsburgermonarchie verlor den Krieg gegen Frankreich und Piemont-Sardinien
+
+1860 Oktoberdiplom des Konservativen polnischen Grafen Agenor Goluchowski
+
+1861 Februarpatent des Deutschliberalen Anton Ritter von Schmerling
+
+1862 Menschenrechtserklärung
+
+1866 Schlacht bei Königgrätz/Hradec Králové, Ausscheiden aus der deutschen Frage, Verlust Venetiens
+
+1866 Habsburgermonarchie verlor den Krieg gegen Italien und Preussen
+
+1867 Dezemberverfassung (durch eine "Volksvertretung")
+
+1867-79 die Liberalen waren in der Habsburgermonarchie an der Macht
+
+nach 1867 "Honoratiorenpartei"-Typus (Max Weber)
+
+1868 Religionsgesetze
+
+1870/71 Reichsgründung des Deutschen Kaiserreiches
+
+1873 führten die Liberalen das direkte Wahlrecht ein
+
+seit der Mitte der 1870er rassischer Antisemitismus
+
+1878 Berliner Kongress
+
+1878 Zweibund zwischen dem Deutschen Reich und der Habsburgermonarchie
+
+1882 Bund erweitert durch Italien (Mittelmächte)
+
+1882 Wahlreform
+
+1882 Linzer Programm
+
+1883 Bund erweitert durch Rumänien (Mittelmächte)
+
+1888/89 Gründung der Sozialdemokratischen Partei
+
+1888/89 Parteitag zu Hainfeld
+
+1894 Verträge zwischen Frankreich und Russland
+
+1897 alle Männer 24+ werden wahlberechtigt
+
+1897 Badeni-Krise
 
 um 1900 kulturelle Blüte
 
 ## 20. Jahrhundert
 
 um 1900 kulturelle Blüte
+
+1904 Verträge zwischen Frankreich und England (Entente Cordiale)
+
+1905 Friedensnobelpreis Berta von Suttner
+
+1906 gelang es Max Wladimir Freiherrn von Beck, das allgemeine, direkte und geheime Wahlrecht für Männer durchzusetzen 
+
+1907 Verträge zwischen England und Russland (Entente Cordiale)
+    
+1907 erstmals nach dem allgemeinen, direkten und geheimen Wahlrecht gewählt
+
+28.6.1914 Erzherzog-Thronfolger Franz Ferdinand in Sarajevo (Jahrestag der Schlacht auf dem Amselfeld)
+
+1915 Londoner Verträge
+
+1916-18 Friedensbemühungen Kaiser Karls
+
+1917 Kriegseintritt der USA
+
+14.10.1918 in Prag wurde die Tschechoslowakische Republik proklamiert
+
+3.11.1918 Waffenstillstand
+
+12.11.1918 geplante "Anschluss"
+
+1918 Habsburgermonarchie zerfiel in sog. "Nationalstaaten"
+
+vor 1918 Christlichsozialen Mehrheit in Wien
+
+nach 1918 Sozialdemokraten Mehrheit in Wien
+
+1918/19 Hungerwinter
+
+02/1919 Wahlen nach Proportionalwahlrecht; erstmals auch Frauen in Österreich wahlberechtigt
+
+04/1919 gescheiterte Putschversuch der Kommunisten
+
+1920 Verfassung (Hans Kelsen)
+
+1920 Wien von Land Niederösterreich getrennt (eigenes Bundesland)
+
+in den 1920er und frühen 1930er Jahren entstand das "Rote Wien"
+
+1922 Genfer Protokolle
+
+1925 Einführung der Schillingwährung (Hartwährungspolitik, "Alpendollar")
+
+1925-34 viele Gemeindebauten in Wien entstanden
+
+15.7.1927 Protestdemonstration vor dem Justizpalast
+
+1930er Jahre das alte deutschnationale Lager löste sich weitgehend auf und ging in das Zeichen des Hakenkreuzes über
+
+05/1930 Korneuburger Eid
+
+1930/31 Wahlen
+
+1931 Olympische Spiele für Arbeiter in Wien veranstaltet
+
+1931 gescheiterte Heimwehrputsch (Pfrimerputsch)
+
+1932 Seipel gestorben, Engelbert Dolfuss wurde Bundeskanzler
+
+1933 die NSDAP wurde in Österreich verboten
+
+4.3.1933 "Selbstauflösung des Parlaments"
+
+11.2.1934 Innenminister und Heimführer Emil Frey kündigte den Schlag gegen die Sozialdemokraten an
+
+12.2.1934 der Schlag gegen die Sozialdemokraten begann in Linz
+
+1.5.1934 Verfassung "im Namen Gottes" ausgerufen
+
+1.5.1934 Konkordat mit dem heiligen Stuhl verkündet
+
+25.7.1934 die österreichischen Nationalsozialisten unternahmen einen Putschversuch
+
+1935 Stresakonferenz
+
+11.7.1936 Juliabkommen, Österreich musste sich als "Deutscher Staat" bekennen
+
+02/1938 Treffen zwischen Schuschnigg und Hitler in Berchtesgaden
+
+1938 Anschluss
+
+ab 1938 "Ostmark"
+
+ab 1940 "Alpen- und Donau-Reichsgauen"
+
+1.9.1939 Beginn des Zweiten Weltkrieges
+
+1943 Moskauer Memorandum
+
+1945 die Republik Österreich entstand wieder
+
+Anfang 04/1945 die sowjetischen Truppen erreichten Wien
+
+27.4.1945 Karl Renner konnte die Zweite Republik proklamieren
+
+Ende 04/1945 die westlichen Allierten rückten in den westlichen Bundesländern ein
+
+09/1945 Salzburger Länderkonferenz
+
+1950 gescheiterte Streik und Putschversuch der Kommunisten
+
+03/1955 Verhandlungen in Moskau (Bundeskanzler Julius Raab (ÖVP), Aussenminister Leopold Figl (ÖVP), Staatssekretär Bruno Kreisky (SPÖ))
+
+15.5.1955 Österreichischer Staatsvertrag ("Österreich ist frei")
+
+nach 1955 ein Bundesheer auf der Grundlage allgemeiner Wehrpflicht wurde eingeführt
+
+1955 Österreich Mitglied der UNO
+
+1956 Österreich Mitglied des Europarates
+
+1961 Otto Habsburg hatte die verlangte Verzichtserklärung auf den Thron abgegeben
+
+1968 Studentenrevolte
+
+1970 Kreisky bildete eine Minderheitenregierung
+
+Mitte der 1970er Jahre "Öl-Schock"
+
+1986 Waldheim-Affäre
+
+1989 Zusammenbruch des Ostblocks und das Verschwinden des Eisernen Vorhanges
+
+1994 Volksabstimmung (EU Beitritt)
+
+1.1.1995 Österreich als vollwertiges Mitglied der EU beigetreten
+
+seit 1.1.1999 Österreich ein EURO-Land (in Realität seit 2002)
 
 ## 21. Jahrhundert
 

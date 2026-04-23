@@ -116,9 +116,61 @@ die Strauss-Familie
 
 Josef Lanner
 
-## Malerei
+Johannes Brahms
+
+Anton Bruckner
+
+Gustav Mahler
+
+### "Neutöner"
+
+Josef Matthias Hauer
+
+Arnold Schönberg
+
+Alban Berg
+
+Anton von Webern
+
+## Künstler
+
+Otto Wagner
+
+Adolf Loos
+
+Kolo Moser
+
+Gustav Klimt
+
+Egon Schiele
+
+### Malerei
 
 Friedrich Gauermann
 
 Ferdinand Waldmüller
+
+## Wissenschaft
+
+Sigmund Freud (Psychoanalyse)
+
+Ludwig Wittgenstein (Sprachphilosoph)
+
+### Zweite Wiener Medizinische Schule
+
+Theodor Billroth
+
+Karl Rokitansky
+
+Emil Zuckerkandl
+
+Julius Wagner-Jauregg
+
+### Naturwissenschaften
+
+Ludwig Boltzmann
+
+Ernst Mach
+
+Theodor Oppolzer
 
