@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#102a43" />
+    <title>Lernkarten</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand"><span class="brand-mark">◆</span><span>Lernkarten</span></div>
+      <nav class="nav-tabs" aria-label="Hauptnavigation">
+        <button class="nav-tab active" data-view="learn">Lernen</button>
+        <button class="nav-tab" data-view="cards">Karten</button>
+        <button class="nav-tab" data-view="stats">Statistik</button>
+      </nav>
+      <div class="top-actions">
+        <button class="icon-button" id="export-button" title="Daten exportieren" aria-label="Daten exportieren">↥</button>
+        <button class="icon-button" id="import-button" title="Daten importieren" aria-label="Daten importieren">↧</button>
+        <input id="import-file" type="file" accept="application/json" hidden />
+      </div>
+    </header>
+
+    <main>
+      <section class="view active" id="learn-view">
+        <div class="page-heading">
+          <div>
+            <p class="eyebrow">Deine Lerneinheit</p>
+            <h1>Bereit zum Lernen?</h1>
+            <p class="muted" id="learn-subtitle">Wähle eine Kategorie und starte deine Wiederholung.</p>
+          </div>
+          <button class="button primary" id="start-session">Lernen starten <span>→</span></button>
+        </div>
+        <div class="dashboard-grid">
+          <div class="panel progress-panel">
+            <div class="panel-heading"><h2>Heute</h2><span class="date-label" id="today-label"></span></div>
+            <div class="progress-ring" id="progress-ring"><strong id="today-progress">0%</strong><small>gelernt</small></div>
+            <div class="progress-meta"><span><i class="dot blue"></i><b id="due-count">0</b> fällig</span><span><i class="dot green"></i><b id="mastered-count">0</b> gelernt</span></div>
+          </div>
+          <div class="panel category-panel">
+            <div class="panel-heading"><h2>Kategorien</h2><button class="text-button" data-view-link="cards">Alle anzeigen</button></div>
+            <div id="category-list" class="category-list"></div>
+          </div>
+        </div>
+        <div class="panel recent-panel">
+          <div class="panel-heading"><h2>Zuletzt hinzugefügt</h2><button class="text-button" data-view-link="cards">Alle Karten</button></div>
+          <div id="recent-cards" class="recent-cards"></div>
+        </div>
+      </section>
+
+      <section class="view" id="cards-view">
+        <div class="page-heading compact">
+          <div><p class="eyebrow">Deine Sammlung</p><h1>Alle Lernkarten</h1></div>
+          <button class="button primary" id="new-card">＋ Neue Karte</button>
+        </div>
+        <div class="toolbar">
+          <label class="search"><span>⌕</span><input id="search-input" type="search" placeholder="Karten durchsuchen..." /></label>
+          <select id="category-filter" aria-label="Kategorie filtern"><option value="">Alle Kategorien</option></select>
+          <button class="button secondary" id="manage-categories">Kategorien verwalten</button>
+        </div>
+        <div id="cards-list" class="cards-list"></div>
+      </section>
+
+      <section class="view" id="stats-view">
+        <div class="page-heading compact"><div><p class="eyebrow">Dein Fortschritt</p><h1>Statistik</h1></div></div>
+        <div class="stats-grid" id="stats-grid"></div>
+        <div class="panel">
+          <div class="panel-heading"><h2>Aktivität</h2><span class="muted">letzte 7 Tage</span></div>
+          <div class="activity-chart" id="activity-chart"></div>
+        </div>
+      </section>
+    </main>
+
+    <div class="modal-backdrop hidden" id="card-modal">
+      <form class="modal" id="card-form">
+        <div class="modal-header"><h2 id="modal-title">Neue Karte</h2><button type="button" class="close-button" data-close>×</button></div>
+        <label>Frage <textarea id="question-input" required rows="3" placeholder="Was möchtest du lernen?"></textarea></label>
+        <label>Antwort <textarea id="answer-input" required rows="4" placeholder="Die Antwort..."></textarea></label>
+        <label>Kategorien <input id="tags-input" placeholder="z. B. Biologie, Prüfung (mit Komma trennen)" /></label>
+        <label>Bild <input id="image-input" type="file" accept="image/*" /><span class="file-hint" id="image-hint">Optional, wird lokal gespeichert</span></label>
+        <img class="image-preview hidden" id="image-preview" alt="Bildvorschau" />
+        <div class="modal-actions"><button type="button" class="button secondary" data-close>Abbrechen</button><button class="button primary" type="submit">Speichern</button></div>
+      </form>
+    </div>
+
+    <div class="modal-backdrop hidden" id="category-modal">
+      <form class="modal small-modal" id="category-form">
+        <div class="modal-header"><h2>Kategorien verwalten</h2><button type="button" class="close-button" data-close>×</button></div>
+        <p class="muted">Kategorien entstehen automatisch aus deinen Karten. Lösche nur Kategorien, die du nicht mehr brauchst.</p>
+        <div id="manage-category-list" class="manage-category-list"></div>
+        <label>Neue Kategorie <input id="new-category-input" placeholder="z. B. Geschichte" /></label>
+        <div class="modal-actions"><button type="button" class="button secondary" data-close>Schließen</button><button class="button primary" type="submit">Hinzufügen</button></div>
+      </form>
+    </div>
+
+    <div class="modal-backdrop hidden" id="study-modal">
+      <div class="modal study-modal">
+        <div class="modal-header"><span class="eyebrow" id="study-counter">Karte 1</span><button type="button" class="close-button" data-close>×</button></div>
+        <div class="study-card" id="study-card">
+          <div class="study-label">FRAGE</div><h2 id="study-question"></h2><img id="study-image" class="study-image hidden" alt="" /><button class="button primary reveal-button" id="reveal-answer">Antwort anzeigen</button>
+          <div id="study-answer" class="study-answer hidden"><div class="study-label">ANTWORT</div><p></p><div class="rating-actions"><button class="rating again" data-rating="again">Nochmal</button><button class="rating hard" data-rating="hard">Schwierig</button><button class="rating easy" data-rating="easy">Sicher</button></div></div>
+        </div>
+      </div>
+    </div>
+    <div class="modal-backdrop hidden" id="study-setup-modal">
+      <form class="modal small-modal" id="study-setup-form">
+        <div class="modal-header"><h2>Lernkarten auswählen</h2><button type="button" class="close-button" data-close>×</button></div>
+        <p class="muted">Welche Kategorien möchtest du heute wiederholen?</p>
+        <label class="category-choice"><input type="checkbox" id="all-categories-choice" checked /> Alle Kategorien</label>
+        <div id="study-category-list" class="study-category-list"></div>
+        <div class="study-count-options">
+          <label class="category-choice"><input type="radio" name="study-count" value="all" checked /> Alle fälligen Karten</label>
+          <label class="category-choice"><input type="radio" name="study-count" value="limited" /> Feste Anzahl</label>
+          <input id="study-count-input" class="study-count-input" type="number" min="1" value="10" disabled aria-label="Anzahl der Karten" />
+        </div>
+        <div class="study-type-options">
+          <p class="study-option-label">Kartentyp</p>
+          <label class="category-choice"><input type="radio" name="study-type" value="both" checked /> Neue und Wiederholungskarten</label>
+          <label class="category-choice"><input type="radio" name="study-type" value="new" /> Nur neue Karten</label>
+          <label class="category-choice"><input type="radio" name="study-type" value="repeat" /> Nur Wiederholungskarten</label>
+        </div>
+        <div class="modal-actions"><button type="button" class="button secondary" data-close>Abbrechen</button><button class="button primary" type="submit">Auswahl starten</button></div>
+      </form>
+    </div>
+    <div class="toast" id="toast" role="status"></div>
+    <script src="app.js"></script>
+  </body>
+</html>

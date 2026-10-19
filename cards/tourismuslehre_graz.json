@@ -1,0 +1,458 @@
+{
+  "cards": [
+    {
+      "id": "tourismuslehre-graz-001",
+      "question": "Was weißt du über die Tourismusinformation Region Graz?",
+      "answer": "Die zentrale Informationsstelle der Erlebnisregion Graz.\nSeit 2013 in der Kanonenhalle (Landeszeughaus), Herrengasse 16.\n12 Mitarbeiter:innen.\n362 Tage/Jahr offen.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-002",
+      "question": "Wie viele Tourismusgemeinden vereint die Region Graz?",
+      "answer": "33",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-003",
+      "question": "Nenne einige Tourismusgemeinden der Tourismusregion Graz.",
+      "answer": "Bärnbach, Edelschrott, Eggersdorf bei Graz, Feldkirchen bei Graz, Frohnleiten, Geissthal-Södingberg, Gössendorf, Gratkorn, Gratwein-Straßengel, Graz, Hart bei Graz, Hirschegg-Pack, Kainbach bei Graz, Kalsdorf bei Graz, Köflach, Laßnitzhöhe, Lieboch, Ligist, Maria Lankowitz, Mooskirchen, Nestelbach bei Graz, Peggau, Premstätten, St. Radegund, Seiersberg-Pirka, Semriach, Statteg, Thal, Übelbach, Vasoldsberg, Voitsberg, Weinitzen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-004",
+      "question": "Was macht die Tourismusinformation Region Graz?",
+      "answer": "- Information Graz & Region\n- Steiermark-Info\n- Ticketverkauf Landeszeughaus\n- Klassische touristische Aufgaben\n- Service-Center für Gäste & Grazer:innen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-005",
+      "question": "Wo befinden sich Info Standorte in der Erlebnisregion Graz?",
+      "answer": "Graz, Frohnleiten, Laßnitzhöhe, Premstätten, Köflach-Lipizzanerheimat",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-006",
+      "question": "Nenne ein paar statistische Zahlen der Tourismusinformation Graz.",
+      "answer": "- ~200.000 Besucher:innen Herrengasse\n- ~davon 58.000 Zeughaus-Besucher:innen\n- ~7.300 Briefanfragen\n- ~11.900 E-Mail-Anfragen\n- ~34.600 telefonische Anfragen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-007",
+      "question": "Was kann man bei der Tourismusinfo Graz kaufen?",
+      "answer": "GrazGutscheine, Thermengutscheine, Steiermark Card, Graz Card, Gutscheine für Rundgänge, Gutscheinheft \"Steirisches Wirtshaus\", Öticket, Opernkarten, Souvenirs aller Art, zusätzliche Serviceleistungen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-008",
+      "question": "Das Kernprodukt der Tourismusinformation Graz in Zusammenarbeit mit Fremdenführern sind Stadtführungen. Nenne einige konkrete Beispiele.",
+      "answer": "Altstadt-Rundgang, Schlossberg-Rundgang, Innenhöfe und Mehr-Rundgang, Gries-Rundgang, Kulinarische Rundgänge, Genuss mit dem Cabriobus, Fahrrad-Touren, Ausflugsfahrten, Cabriobusfahrten, Advent- und Silvesterrundgänge.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusinformation Graz Vorstellung"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-009",
+      "question": "Wie viele Nächtigungen verzeichnete Graz im Jahr 2025?",
+      "answer": "1.465.754",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismuszahlen"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-010",
+      "question": "Wie hat sich die Anzahl der Nächtigungen im Jahr 2025 zum Jahr davor geändert?",
+      "answer": "Anstieg um 5,2 %.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismuszahlen"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-011",
+      "question": "Welche waren die stärksten Monate betreffend Nächtigungen in Graz?",
+      "answer": "Mai bis Oktober, Top Monate waren Juli und August.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismuszahlen"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-012",
+      "question": "Was sind die wichtigsten Quellmärkte für Graz?",
+      "answer": "Österreich (42,4 %) und Deutschland (18,7 %). Danach kommen Polen (3,1 %), Italien (3,0 %), USA (2,3 %).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismuszahlen"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-013",
+      "question": "Wie viele Ankünfte gab es 2025?",
+      "answer": "832.243 (+ 4,5 %)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismuszahlen"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-014",
+      "question": "Wo lag die durchschnittliche Aufenthaltsdauer im Jahr 2025?",
+      "answer": "1,76 Nächte (ähnlich wie im Vorjahr)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismuszahlen"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-015",
+      "question": "Graz im österreichischen Städtevergleich. Welche Städte und mit wie vielen Nächtigungen liegen vor Graz?",
+      "answer": "Wien (20.065.323), Salzburg (3.288.513) und Innsbruck (1.969.865)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismuszahlen"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-016",
+      "question": "Nenne einige regelmäßige Events aus der Erlebnisregion Graz.",
+      "answer": "Advent in Graz, Aufsteirern, Diagonale, Elevate Festival, Klanglicht, La Strada, Lipizzaner-Almabtrieb, Lumagica, Styriarte, VOLLMUND",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-017",
+      "question": "Wie viele Nächtigungen verzeichnete die Region Graz im Jahr 2025?",
+      "answer": "2.225.458",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-018",
+      "question": "Wie viele Nächtigungen verzeichnete die gesamte Steiermark im Jahr 2025?",
+      "answer": "14.002.131",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-019",
+      "question": "Wie viele Beschäftigte in der Tourismus- und Freizeitwirtschaft hat die Region Graz?",
+      "answer": "20.146",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-020",
+      "question": "Welche Fachverbände umfasst die Sparte \"Tourismus- und Freizeitwirtschaft\"?",
+      "answer": "Gastronomie, Hotellerie, Gesundheitsbetriebe, Reisebüros, Kino-, Kultur- und Vergnügungsbetriebe sowie Freizeit- und Sportbetriebe.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-021",
+      "question": "Nenne die Top Skigebiete der Region Graz.",
+      "answer": "Salzstiegl/Hirschegg (12 km), Hoislifte/Modriach-Winkel (7 km), Gaberl (6 km), St. Hemma/Edelschrott (1,8 km)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-022",
+      "question": "Nenne beliebte Ausflugsziele für Winter & Ganzjahr in der Region Graz.",
+      "answer": "Bühnen Graz (Oper), Kunsthaus Graz, Landeszeughaus Graz, Stadtmuseum Graz, Zisterzienserstift Rein",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-023",
+      "question": "Nenne beliebte Ausflugsziele für Sommer & Ganzjahr der Region Graz.",
+      "answer": "Bärenschützklamm, Botanischer Garten, Freilichtmuseum Stübing, Grazer Schlossberg (Bahn & Lift), Joanneumsviertel - Gesamt, Kindermuseum Frida & freD, Lurgrotte Semriach, Museum im Palais, Österreichischer Skulpturenpark, Schloss Eggenberg Graz, Schöckl-Seilbahn, Sommerrodelbahn Schöckl (Fahrten)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-024",
+      "question": "Aus welchen Bezirken setzt sich die Erlebnisregion \"Region Graz\" zusammen?",
+      "answer": "Aus der steirischen Landeshauptstadt Graz sowie den Bezirken Graz Umgebung und Voitsberg.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-025",
+      "question": "Welche Fläche hat die Erlebnisregion Graz?",
+      "answer": "1.890 km2, 11,5 % der gesamten Steiermark.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-026",
+      "question": "Wie viele Einwohner hat die Erlebnisregion Graz?",
+      "answer": "521.140 Personen (1.1.2025), entspricht 41 % der steirischen Bevölkerung.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-027",
+      "question": "Wie hoch ist die Bevölkerungsdichte der Erlebnisregion Graz?",
+      "answer": "276 EinwohnerInnen pro km2 (der steirische Durchschnitt liegt bei 78)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-028",
+      "question": "Wie hoch ist die Bevölkerungsdichte in der Steiermark?",
+      "answer": "78 EinwohnerInnen pro km2",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-029",
+      "question": "Wann ist die steirische Tourismus-Strukturreform in Kraft getreten?",
+      "answer": "Mit 1.10.2021",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-030",
+      "question": "Wie hat sich die Anzahl der Tourismusverbände mit der Tourismus-Strukturreform geändert?",
+      "answer": "Reduktion von 96 auf 11 Tourismusverbände",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-031",
+      "question": "Welche zwei Ereignisse vermochten die internationale Bekanntheit von Graz deutlich zu steigern?",
+      "answer": "1999 wurde die Grazer Altstadt von der UNESCO zum Weltkulturerbe ernannt.\n2003 war Graz Kulturhauptstadt Europas.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-032",
+      "question": "In welchem Monat werden die wenigsten Nächtigungen in der Region Graz verzeichnet?",
+      "answer": "Januar",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-033",
+      "question": "Wie viele Beherbergungsbetriebe boten Betten in der Region Graz an?",
+      "answer": "576 im Winterhalbjahr, 587 im Sommerhalbjahr",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-034",
+      "question": "Welche Gemeinden zählen in der Region Graz zu den tourismusintensivsten?",
+      "answer": "Sankt Radegund bei Graz und Laßnitzhöhe sowie Hirschegg-Pack, Premstätten und Edelschrott",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-035",
+      "question": "Was zählt zu den Besuchermagneten der Region innerhalb der Stadt Graz?",
+      "answer": "Die von der UNESCO zum Weltkulturerbe erhobene Altstadt von Graz mit ihren zahlreichen Sehenswürdigkeiten, wie etwa die Stadtkrone mit Burg, Dom und Mausoleum oder die Murinsel. Im Anschluss an die Altstadt erhebt sich der Schlossberg mit dem Grazer Wahrzeichen, dem Uhrturm. Ebenfalls nahe der Stadtmitte liegen das Joanneumsviertel, die Grazer Oper, das Kunsthaus Graz und das Landeszeughaus.\nDaneben gibt es zahlreiche weitere Museen.\nAber auch außerhalb des Stadtzentrums finden sich beliebte Ausflugsziele, allen voran das Schloss Eggenberg.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-036",
+      "question": "Mit welchen Ausflugszielen lockt das Umland von Graz?",
+      "answer": "Schöckl, Lurgrotten, Stift Rein, Arnold-Schwarzenegger-Museum, Freilichtmuseum Stübing.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-037",
+      "question": "Nenne einige Badeseen im Umland von Graz.",
+      "answer": "Schwarzlsee, Copacabana Graz, Badesee Kumberg.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-038",
+      "question": "Nenne einige alljährlich in der Region Graz stattfindende Events.",
+      "answer": "Aufsteirern, Grazer Advent, Diagonale, Straßenfestival La Strada, Springfestival, steirische herbst, sommerliche Musikfestspiele styriarte, Tour de Mur.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-039",
+      "question": "In der Erlebnisregion Graz gibt es eine Therme. Welche ist das?",
+      "answer": "Therme Nova mit dem dazugehörigen Kur- und Gesundheitshotel in der Gemeinde Köflach (Bezirk Voitsberg).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-040",
+      "question": "Welche weiteren beliebten Ausflugsziele kennst du in der Erlebnisregion Graz im Bezirk Voitsberg?",
+      "answer": "Bundesgestüt Piber mit den Lipizzanern, Hundertwasserkirche und Glasmuseum in Bärnbach, Freizeitinsel Piberstein, Burgruine Obervoitsberg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-041",
+      "question": "Welche Erlebnisstraße führt durch Voitsberg?",
+      "answer": "Die Steirische Milchstraße, die zum Verkosten, Entdecken, Erleben und Genießen von qualitativ hochwertiger Milch und Milchprodukten einlädt.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourist Fact Sheet Region Graz"
+      ]
+    }
+  ],
+  "categories": [
+    "Tourismuslehre Graz"
+  ]
+}

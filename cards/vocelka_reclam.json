@@ -1,0 +1,1781 @@
+{
+  "cards": [
+    {
+      "id": "vocelka-reclam-001",
+      "question": "Wann fallen die Hunnen in Europa ein? Was wird damit ausgelöst?",
+      "answer": "375, die Völkerwanderung",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-002",
+      "question": "Wann gründete Rupert die Erzabtei St. Peter in Salzburg?",
+      "answer": "Um 690",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-003",
+      "question": "Wer und wann gründete das Kloster Mondsee?",
+      "answer": "Odilo, 748",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-004",
+      "question": "Wer und wann stiftete das Missionskloster Innichen/San Candido?",
+      "answer": "Tassilo III., 769",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-005",
+      "question": "Wer und wann stiftete das Missionskloster Kremsmünster?",
+      "answer": "Tassilo III., 777",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-006",
+      "question": "Wer und wann stiftete das Missionskloster Mattsee?",
+      "answer": "Tassilo III., 784",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-007",
+      "question": "Wann wurde der letzte bayerische Stammesfürst Tassilo III. entmachtet?",
+      "answer": "788",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-008",
+      "question": "An wen fällt das heutige Gebiet Österreichs nach der Entmachtung Tassilos III. 788?",
+      "answer": "Das Gebiet des heutigen Österreichs wurde Teil des karolingischen Markensystems (Karl der Große)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-009",
+      "question": "Wann wurde Salzburg Erzbistum?",
+      "answer": "798",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-010",
+      "question": "Welche Suffraganbistümer standen unter dem neu gegründeten Erzbistum Salzburg?",
+      "answer": "Regensburg, Passau, Freising, Säben/Sabiona",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-011",
+      "question": "Wann fand die Schlacht bei Preßburg/Bratislava mit den Magyaren statt? Wer wurde dabei getötet?",
+      "answer": "907, Markgraf Luitpold wurde getötet",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-012",
+      "question": "Wann findet die Schlacht auf dem Lechfeld statt?",
+      "answer": "955",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-013",
+      "question": "Wann wurde Kärnten ein selbstständiges Herzogtum? Welcher Kaiser trennte es von Bayern ab?",
+      "answer": "976, Kaiser Otto II.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-014",
+      "question": "Wann wird das erste mal \"Österreich\" (Ostarrichi) genannt? Wo?",
+      "answer": "1.11.996, in einer Urkunde für das Kloster Freising über die Schenkung des Gutes Neuhofen an der Ybbs",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-015",
+      "question": "Wann ist das Privilegium minus datiert?",
+      "answer": "1156",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-016",
+      "question": "Wann erhielten die Babenberger die Herzogswürde in Österreich?",
+      "answer": "1156",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-017",
+      "question": "Wann wurde Otakar IV. Herzog?",
+      "answer": "1180",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-018",
+      "question": "Wann nam Herzog Leopold V. am dritten Kreuzzug teil? Mit welcher Legende ist dies verbunden?",
+      "answer": "1190/91, Legende von der Entstehung des Bindenschildes, des rot-weiß-rot Wappens",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-019",
+      "question": "Wann sind Krain und die Windische Mark erstmals an die Babenberger gekommen?",
+      "answer": "1232",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-020",
+      "question": "Welche Gebiete bildeten nach 1246 das \"Babenbergische Erbe\"?",
+      "answer": "Niederösterreich mit Wien, Oberösterreich und Steiermark",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-021",
+      "question": "Wer beerbte die Tiroler Grafen nach ihrem Aussterben 1253?",
+      "answer": "Die Görzer",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-022",
+      "question": "Wer beerbte die Görzer 1335?",
+      "answer": "Die Habsburer",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-023",
+      "question": "Wann wurde Rudolf von Habsburg zum Herrscher gewählt?",
+      "answer": "1273",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-024",
+      "question": "Wann besiegte Rudolf Ottokar in der Schlacht auf dem Marchfeld bei Dürnkrut und Jedenspeigen?",
+      "answer": "29.9.1278",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-025",
+      "question": "Wann fällt Kärnten an die Habsburger?",
+      "answer": "1335",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-026",
+      "question": "In welchen Jahren kam es im 14. Jahrhundert zu einer großen Pestwelle?",
+      "answer": "1348/49",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-027",
+      "question": "Wann und von welchem Herrscher kam die Goldene Bulle?",
+      "answer": "1356, Karl IV.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-028",
+      "question": "Wann fand die Schlacht auf dem Amselfeld (Kosovo Poljle) statt?",
+      "answer": "28.6.1389",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-029",
+      "question": "Wann war das Wiener Geserah?",
+      "answer": "1420",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-030",
+      "question": "Wann wurde Erzherzog Albrecht V. König von Ungarn?",
+      "answer": "1437",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-031",
+      "question": "Wann wurde Erzherzog Albrecht V. König von Böhmen und zum römisch-deutschen König gewählt?",
+      "answer": "1438",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-032",
+      "question": "Wann ist Ladislaus (Postumus) geboren? Wer wird sein Vormund?",
+      "answer": "1440, Vormund Erzherzog Friedrich V.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-033",
+      "question": "Wann wurde Friedrich zum Kaiser gekrönt? Wo?",
+      "answer": "1452, als letzter Herrscher in Rom vom Papst zum Kaiser gekrönt",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-034",
+      "question": "Wann starb Ladislaus (Postumus)?",
+      "answer": "1457",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-035",
+      "question": "Wer wurde in Böhmen und Ungarn zum König nach Ladislaus' Tod gewählt?",
+      "answer": "\"Nationale\" Könige - Georg von Podiebrad und Matthias Corvinus",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-036",
+      "question": "Wann war der Burgunderkrieg?",
+      "answer": "1474-1477",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-037",
+      "question": "Seit wann gab es Buchdruck in Wien?",
+      "answer": "1483",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-038",
+      "question": "Wann schloss Maximilian den (Erb-)Vertrag zu Preßburg/Bratislava mit dem böhmischen und ungarischen König Wladislaw?",
+      "answer": "1491",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-039",
+      "question": "Wann wurde Granada erobert?",
+      "answer": "1492",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-040",
+      "question": "Wann wurden die Juden aus Innerösterreich vertrieben?",
+      "answer": "1496",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-041",
+      "question": "Ab wann war das heutige Österreich (ohne Salzburg) Herrschaftsgebiet der habsburgischen Dynastie?",
+      "answer": "Um 1500",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-042",
+      "question": "Wann war die Wiener Doppelhochzeit?",
+      "answer": "1515",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-043",
+      "question": "Wann war der Thesenanschlag Luthers?",
+      "answer": "31.10.1517",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-044",
+      "question": "Wann starb Maximilian I.?",
+      "answer": "1519",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-045",
+      "question": "Wann war der Vertrag von Worms?",
+      "answer": "1521",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-046",
+      "question": "Wann war der Teilungsvertrag von Brüssel?",
+      "answer": "1522",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-047",
+      "question": "Wann war der große deutsche Bauernaufstand?",
+      "answer": "1524-25",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-048",
+      "question": "Wann war die Schlacht bei Mohács?",
+      "answer": "26.8.1526",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-049",
+      "question": "Wann ist Ferdinands I. Hofstaatsordnung datiert? Bis wann war sie gültig?",
+      "answer": "1.1.1527, gültig bis 1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-050",
+      "question": "Wann war die erste Wiener Türkenbelagerung?",
+      "answer": "1529",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-052",
+      "question": "Wann war das Augsburger Bekenntnis?",
+      "answer": "1530",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-053",
+      "question": "Wann hat Ferdinand I. die Jesuiten nach Wien berufen?",
+      "answer": "1551",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-054",
+      "question": "Wann kam es zum Augsburger Religionsfrieden?",
+      "answer": "1555",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-055",
+      "question": "Wann wurde Ferdinand I. Kaiser? Wessen Nachfolger war er?",
+      "answer": "1556, Nachfolger Karls V.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-056",
+      "question": "Wann haben sich Jesuiten in Innsbruck niedergelassen?",
+      "answer": "1562",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-057",
+      "question": "Wann starb Ferdinand I.?",
+      "answer": "1564",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-058",
+      "question": "Wann heiratete Karl von Innerösterreich Maria von Bayern? Aus welchem Hause war sie??",
+      "answer": "1571, aus dem hause Wittelsbach",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-059",
+      "question": "Wann haben sich die Jesuiten in Graz niedergelassen?",
+      "answer": "1572",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-059",
+      "question": "Wann war der Brucker Libell?",
+      "answer": "1578",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-060",
+      "question": "Wann war der Türkenkrieg Rudolfs II.? Mit welchem Frieden wurde er beendet?",
+      "answer": "1592-1606, Frieden von Zsitvatorok",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-061",
+      "question": "Wann kam es zum Frieden von Zsitvatorok?",
+      "answer": "1606",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-062",
+      "question": "Wann war der Prager Fenstersturz?",
+      "answer": "23.5.1618",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-063",
+      "question": "Wann war die Schlacht auf dem Weißen Berg bei Prag?",
+      "answer": "1620",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-064",
+      "question": "Wann war der Oberösterreichische Bauernaufstand?",
+      "answer": "1626",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-065",
+      "question": "Wann war die \"Vernewerter Landesordnung\"?",
+      "answer": "1627",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-066",
+      "question": "In welchem Jahr im 17. Jahrhundert kam es zu einer Pestepidemie?",
+      "answer": "1679",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-067",
+      "question": "Wann kam es zur \"agrarischen Revolution\"?",
+      "answer": "Im 18. Jahrhundert",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-068",
+      "question": "Wann war der spanische Erbfolgekrieg?",
+      "answer": "1701-1714",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-069",
+      "question": "Wann war die Pragmatische Sanktion?",
+      "answer": "1713",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-070",
+      "question": "Wann kam es zu Freihafenprivilegien? Durch wen?",
+      "answer": "1719, Karl VI.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-071",
+      "question": "Wann war der zweite Türkenkrieg Karls VI.? Mit welchem Frieden wurde er beendet?",
+      "answer": "1737-39, Friede von Belgrad",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-072",
+      "question": "Wann kam es zum Frieden von Belgrad?",
+      "answer": "1739",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-073",
+      "question": "Wann übernahm Maria Theresia die Herrschaft?",
+      "answer": "1740",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-074",
+      "question": "Wann war die Zeit des aufgeklärten Absolutismus in der Habsburermonarchie?",
+      "answer": "1740-92",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-075",
+      "question": "Wann kam es zum Frieden von Aachen?",
+      "answer": "1748",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-076",
+      "question": "Wann war der Siebenjährige Krieg?",
+      "answer": "1756-63",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-077",
+      "question": "Wann war die erste polnische Teilung?",
+      "answer": "1772",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-078",
+      "question": "Wann erlosch die in Bayern regierende Linie des Hauses Wittelsbach?",
+      "answer": "1777",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-079",
+      "question": "Wann wurde die Folter abgeschafft?",
+      "answer": "1779",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-080",
+      "question": "Wann waren die Toleranzpatente?",
+      "answer": "1781 und 1782",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-081",
+      "question": "Wann war Papst Pius VI. in Wien?",
+      "answer": "1782",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-082",
+      "question": "Wann kam es zu einer neuen Diözesanregulierung?",
+      "answer": "1785",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-083",
+      "question": "Wann war der letzte Türkenkrieg Josephs II.? Mit welchem Frieden endete er?",
+      "answer": "1787-91, Frieden von Sistowa (Leopodl II.)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-084",
+      "question": "Wann begann die Französische Revolution?",
+      "answer": "1789",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-085",
+      "question": "Wann war die Regierungszeit von Leopold II.?",
+      "answer": "1790-92",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-086",
+      "question": "Wann kam es zum Frieden von Sistowa?",
+      "answer": "1791",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-087",
+      "question": "Wann haben die Koalitionskriege begonnen?",
+      "answer": "1792",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-088",
+      "question": "Wann kam es zum Frieden von Campo Formio?",
+      "answer": "1797",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-089",
+      "question": "Wann begann die Industrialisierung im Sinne des Einsatzes von Maschinen?",
+      "answer": "Im 19. Jahrhundert",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-090",
+      "question": "In welchem Jahrhundert kam es zum Nationalitätenstreit?",
+      "answer": "Im 19. Jahrhundert",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-091",
+      "question": "Welcher Zeitabschnitt wird als das \"lange 19. Jahrhundert\" genannt?",
+      "answer": "Zeit vom Vormärz bis zum Ende des Ersten Weltkriegs",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-092",
+      "question": "Wann wurde der Friede von Campo Formio in Lunéville bestätigt?",
+      "answer": "1801",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-093",
+      "question": "Wann nahm Franz II. den Titel \"Kaiser von Österreich\" an?",
+      "answer": "1804",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-094",
+      "question": "Wann war der dritte Koalitionskrieg?",
+      "answer": "1805/06",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-095",
+      "question": "Wann legte Franz II./I. die Krone des Heiligen Römischen Reiches nieder und löste das Reich auf?",
+      "answer": "1806",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-096",
+      "question": "Wann wurde Andreas Hofer un Mantua hingerichtet?",
+      "answer": "1810",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-097",
+      "question": "Wann kam es zur Völkerschlacht bei Leipzig?",
+      "answer": "1813",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-098",
+      "question": "Wann gewann die Habsburgermonarchie die Gebiete von Brixen/Bessonane und Trient/Trento sowie das Erzbistum Salzburg?",
+      "answer": "1815",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-099",
+      "question": "Wann starb Kaiser Franz II./I.?",
+      "answer": "1835",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-100",
+      "question": "Wann protestierten in Wien Bürger und Studenten?",
+      "answer": "13.3.1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-101",
+      "question": "Wann kam es zur Verkündigung der Verfassung von Pillersdorf?",
+      "answer": "25.4.1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-102",
+      "question": "Wann kam es zu Protesten der Studenten in Wien?",
+      "answer": "05/1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-103",
+      "question": "Wann kam es zur Praterschlacht?",
+      "answer": "08/1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-104",
+      "question": "Wann war die Endphase der Wiener Revolution?",
+      "answer": "10/1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-105",
+      "question": "Wann endete die Revolution in der Hauptstadt?",
+      "answer": "31.10.1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-106",
+      "question": "Seit wann begannen sich die Arbeiter besser zu organisieren?",
+      "answer": "Seit 1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-107",
+      "question": "Wann setzte die eigentliche Phase der Industrialisierung ein?",
+      "answer": "Nach 1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-108",
+      "question": "Ab wann redet man vom Neoabsolutismus?",
+      "answer": "Nach 1848",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-109",
+      "question": "Wann war das Konkordat mit dem Heiligen Stuhl?",
+      "answer": "1855",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-110",
+      "question": "Wann kam es zum Beschluss Kaiser Franz Josephs, die Befestigung Wiens zu schleifen und die Ringstraße anzulegen?",
+      "answer": "1857",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-111",
+      "question": "Wann kam es zu den verlorenen Schlachten von Magenta und Solferino und der Abtretung der Lombardei?",
+      "answer": "1859",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-112",
+      "question": "Wann verlor die Habsburgermonarchie den Krieg gegen Frankreich und Piemont-Sardinien?",
+      "answer": "1859",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-113",
+      "question": "Wann war das Oktoberdiplom des Konservativen polnischen Grafen Agenor Goluchowski?",
+      "answer": "1860",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-114",
+      "question": "Wann war das Februarpatent des Deutschliberalen Anton Ritter von Schmerling?",
+      "answer": "1861",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-115",
+      "question": "Wann war die Menschenrechtserklärung?",
+      "answer": "1862",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-116",
+      "question": "Wann war die Schlacht bei Königgrätz/Hradec Králové?",
+      "answer": "1866",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-117",
+      "question": "Wann kam es zum Verlust Venetiens?",
+      "answer": "1866",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-118",
+      "question": "Wann kam es zum Ausscheiden aus der deutschen Frage?",
+      "answer": "1866",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-119",
+      "question": "Wann verlor die Habsburgermonarchie den krieg gegen Italien und Preussen?",
+      "answer": "1866",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-120",
+      "question": "Wann war die Dezemberverfassung?",
+      "answer": "1867",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-121",
+      "question": "Wann waren die Liberalen in der Habsburgermonarchie an der Macht?",
+      "answer": "1867-79",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-122",
+      "question": "Ab wann redet man vom \"Honoratiorenpartei\"-Typus (Max Weber)?",
+      "answer": "Nach 1867",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-123",
+      "question": "Wann war die Reichsgründung des Deutschen Kaiserreiches?",
+      "answer": "1870/71",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-124",
+      "question": "Wann führten die Liberalen das direkte Wahlrecht ein?",
+      "answer": "1873",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-125",
+      "question": "Seit wann reden wir bei uns vom rassischen Antisemitismus?",
+      "answer": "Seit der Mitte der 1870er-Jahre",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-126",
+      "question": "Wann war der Berliner Kongress?",
+      "answer": "1878",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-127",
+      "question": "Wann kam es zum Zweibund zwischen dem Deutschen Reich und der Habsburgermonarchie?",
+      "answer": "1878",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-128",
+      "question": "Wann wurde der Zweibung durch Italien erweitert (Mittelmächte)?",
+      "answer": "1882",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-129",
+      "question": "Wann kam es zu einer Wahlreform?",
+      "answer": "1882",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-130",
+      "question": "Wann war das Linzer Programm?",
+      "answer": "1882",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-131",
+      "question": "Wann wurde der Bund durch Rumänien erweitert?",
+      "answer": "1883",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-132",
+      "question": "Wann kam es zur Gründung der Sozialdemokratischen Partei?",
+      "answer": "1888/89",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-133",
+      "question": "Wann war der Parteitag zu Hainfeld?",
+      "answer": "1888/89",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-134",
+      "question": "Wann kam es zu Verträgen zwischen Frankreich und Russland?",
+      "answer": "1894",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-135",
+      "question": "Seit wann sind alle Männer 24+ wahlberechtigt?",
+      "answer": "1897",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-136",
+      "question": "Wann war die Badeni-Krise?",
+      "answer": "1897",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-137",
+      "question": "Wann kam es zur kulturellen Blüte?",
+      "answer": "Um 1900",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-138",
+      "question": "Wann kam es zu Verträgen zwischen Frankreich und England (Entente Cordiale)?",
+      "answer": "1904",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-139",
+      "question": "Wann bekam Berta von Suttner den Nobelpreis?",
+      "answer": "1905 Friedensnobelpreis",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-140",
+      "question": "Wem und wann gelang es das allgemeine, direkte und geheime Wahlrecht für Männer durchzusetzen?",
+      "answer": "1906, Max Wladimir Freiherr von Beck",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-141",
+      "question": "Wann kam es zu Verträgen zwischen England und Russland?",
+      "answer": "1907",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-142",
+      "question": "Wann wurde erstmals nach dem allgemeinen, direkten und geheimen Wahlrecht gewählt?",
+      "answer": "1907",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-143",
+      "question": "Wann und wo wurde Erzherzog-Thronfolger Franz Ferdinand ermordet? Jahrestag von welcher Schlacht war das?",
+      "answer": "28.6.1914 in Sarajevo, Jahrestag der Schlacht auf dem Amselfeld",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-144",
+      "question": "Wann waren die Londoner Verträge?",
+      "answer": "1915",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-145",
+      "question": "Wann waren die Friedensbemühungen Kaiser Karls?",
+      "answer": "1916-18",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-146",
+      "question": "Wann kam es zum Kriegseintritt der USA?",
+      "answer": "1917",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-147",
+      "question": "Wann wurde in Prag die Tschechoslowakische Republik proklamiert?",
+      "answer": "14.10.1918",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-148",
+      "question": "Wann kam es zum Waffenstillstand?",
+      "answer": "3.11.1918",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-149",
+      "question": "Wann zerfiel die Habsburgermonarchie in sog. \"Nationalstaaten\"?",
+      "answer": "1918",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-150",
+      "question": "Welche Partei hatte vor 1918 Mehrheit in Wien, welche danach?",
+      "answer": "Erst die Christlichsozialen, danach die Sozialdemokraten",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-151",
+      "question": "Wann kam es zum Hungerwinter?",
+      "answer": "1918/19",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-152",
+      "question": "Bei welchen Wahlen waren auch Frauen erstmals in Österreich wahlberechtigt?",
+      "answer": "Wahlen 02/1919",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-153",
+      "question": "Wann kam es zu einem gescheiterten Putschversuch der Kommunisten?",
+      "answer": "04/1919",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-154",
+      "question": "Seit wann gibt es die Hans Kelsen Verfassung?",
+      "answer": "1920",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-155",
+      "question": "Wann wurde Wien von Land Niederösterreich getrennt und zu einem eigenen Bundesland?",
+      "answer": "1920",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-156",
+      "question": "Wann entstand das \"Rote Wien\"?",
+      "answer": "In den 1920er und frühen 1930-Jahren",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-157",
+      "question": "Wann waren die Genfer Protokolle?",
+      "answer": "1922",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-158",
+      "question": "Wann kam es zur Einführung der Schillingwährung?",
+      "answer": "1925",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-159",
+      "question": "Wann kam es zu Protestdemonstrationen vor dem Justizpalast?",
+      "answer": "15.7.1927",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-160",
+      "question": "Wann war der Korneuburger Eid?",
+      "answer": "05/1930",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-161",
+      "question": "Wann wurden Olympische Spiele für Arbeiter in Wien veranstaltet?",
+      "answer": "1931",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-162",
+      "question": "Wann kam es zum gescheiterten Heimwehrputsch (Pfrimerputsch)?",
+      "answer": "1931",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-163",
+      "question": "Wann wurde Engelbert Dolfuss Bundeskanzler?",
+      "answer": "1932",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-164",
+      "question": "Wann wurde die NSDAP in Österreich verboten?",
+      "answer": "1933",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-165",
+      "question": "Wann kam es zur \"Selbstauflösung des Parlaments\"?",
+      "answer": "4.3.1933",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-166",
+      "question": "Wann kündigte der Innenminister und Heimführer Emil Frey den Schlag gegen die Sozialdemokraten an?",
+      "answer": "11.2.1934",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-167",
+      "question": "Wann begann der Schlag gegen die Sozialdemokraten in Linz?",
+      "answer": "12.2.1934",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-168",
+      "question": "Wann wurde die Verfassung \"im Namen Gottes\" ausgerufen?",
+      "answer": "1.5.1934",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-169",
+      "question": "Wann wurde das Konkordat mit dem heiligen Stuhl verkündet?",
+      "answer": "1.5.1934",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-170",
+      "question": "Wann unternahmen die österreichischen Nationalsozialisten einen Putschversuch?",
+      "answer": "25.7.1934",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-171",
+      "question": "Wann war die Stresakonferenz?",
+      "answer": "1935",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-172",
+      "question": "Wann kam es zum Juliabkommen? Was bedeutete das für Österreich?",
+      "answer": "11.7.1936, Österreich musste sich als \"Deutscher Staat\" bekennen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-173",
+      "question": "Wann kam es zum Treffen zwischen Schuschnigg und Hitler in Berchtesgaden?",
+      "answer": "02/1938",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-174",
+      "question": "Wann war der Anschluss?",
+      "answer": "1938",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-175",
+      "question": "Ab wann reden wir von der \"Ostmark\"?",
+      "answer": "Ab 1938",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-176",
+      "question": "Ab wann reden wir von den \"Alpen- und Donau-Reichsgauen\"?",
+      "answer": "Ab 1940",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-177",
+      "question": "Wann begann der Zweite Weltkrieg?",
+      "answer": "1.9.1939",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-178",
+      "question": "Wann war das Moskauer Memorandum?",
+      "answer": "1943",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-179",
+      "question": "Wann entstand die Republik Österreich wieder?",
+      "answer": "1945",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-180",
+      "question": "Wann erreichten die sowjetischen Truppen Wien?",
+      "answer": "04/1945",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-181",
+      "question": "Wann konnte Karl Renner die Zweite Republik proklamieren?",
+      "answer": "27.4.1945",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-182",
+      "question": "Wann rückten die westlichen Alliierten in den westlichen Bundesländern ein?",
+      "answer": "Ende 04/1945",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-183",
+      "question": "Wann war die Salzburger Länderkonferenz?",
+      "answer": "09/1945",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-184",
+      "question": "Wann kam es zu einem gescheiterten Streik und Putschversuch der Kommunisten?",
+      "answer": "1950",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-185",
+      "question": "Wann kam es zu Verhandlungen in Moskau?",
+      "answer": "03/1955",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-186",
+      "question": "Wann wurde der Österreichische Staatsvertrag unterschrieben?",
+      "answer": "15.5.1955",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-187",
+      "question": "Wann wurde ein Bundesheer auf der Grundlage allgemeiner Wehrpflicht eingeführt?",
+      "answer": "Nach 1955",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-188",
+      "question": "Wann wird Österreich Mitglied der UNO?",
+      "answer": "1956",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-189",
+      "question": "Wann hatte Otto Habsburg die verlangte Verzichtserklärung auf den Thron abgegeben?",
+      "answer": "1961",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-190",
+      "question": "Wann kam es zur Studentenrevolte?",
+      "answer": "1968",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-191",
+      "question": "Wann bildete Kreisky eine Minderheitenregierung?",
+      "answer": "1970",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-192",
+      "question": "Wann war der \"Öl-Schock\"?",
+      "answer": "Mitte der 1970er-Jahre",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-193",
+      "question": "Wann war die Waldheim-Affäre?",
+      "answer": "1986",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-194",
+      "question": "Wann kam es zum Zusammenbruch des Ostblocks und dem Verschwinden des Eisernen Vorhanges?",
+      "answer": "1989",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-195",
+      "question": "Wann fand die Volksabstimmung zum EU Beitritt statt?",
+      "answer": "1994",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-196",
+      "question": "Wann ist Österreich als vollwertiges Mitglied der EU beigetreten?",
+      "answer": "1.1.1995",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "vocelka-reclam-197",
+      "question": "Seit wann ist Österreich ein EURO-Land? Seit wann in Realität?",
+      "answer": "Seit 1.1.1999, in Realität seit 2002",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    }
+  ],
+  "categories": [
+    "Vocelka",
+    "Geschichte"
+  ]
+}
