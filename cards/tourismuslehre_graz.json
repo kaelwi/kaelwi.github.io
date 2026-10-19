@@ -25,7 +25,7 @@
     {
       "id": "tourismuslehre-graz-003",
       "question": "Nenne einige Tourismusgemeinden der Tourismusregion Graz.",
-      "answer": "Bärnbach, Edelschrott, Eggersdorf bei Graz, Feldkirchen bei Graz, Frohnleiten, Geissthal-Södingberg, Gössendorf, Gratkorn, Gratwein-Straßengel, Graz, Hart bei Graz, Hirschegg-Pack, Kainbach bei Graz, Kalsdorf bei Graz, Köflach, Laßnitzhöhe, Lieboch, Ligist, Maria Lankowitz, Mooskirchen, Nestelbach bei Graz, Peggau, Premstätten, St. Radegund, Seiersberg-Pirka, Semriach, Statteg, Thal, Übelbach, Vasoldsberg, Voitsberg, Weinitzen",
+      "answer": "Bärnbach, Edelschrott, Eggersdorf bei Graz, Feldkirchen bei Graz, Frohnleiten, Geistthal-Södingberg, Gössendorf, Gratkorn, Gratwein-Straßengel, Graz, Hart bei Graz, Hirschegg-Pack, Kainbach bei Graz, Kalsdorf bei Graz, Köflach, Laßnitzhöhe, Lieboch, Ligist, Maria Lankowitz, Mooskirchen, Nestelbach bei Graz, Peggau, Premstätten, St. Radegund, Seiersberg-Pirka, Semriach, Statteg, Thal, Übelbach, Vasoldsberg, Voitsberg, Weinitzen",
       "image": "",
       "level": 0,
       "interval": 0,
@@ -449,6 +449,149 @@
       "interval": 0,
       "tags": [
         "Tourist Fact Sheet Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-042",
+      "question": "Seit Oktober 2021 gibt es 11 steirische Erlebnisregionen. Welche sind das?",
+      "answer": "Ausseerland-Salzkammergut, Schladming-Dachstein, Gesäuse, Erzberg-Leoben, Hochsteiermark, Murau, Murtal, Oststeiermark, Thermen- & Vulkanland, Südsteiermark und Region Graz",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-043",
+      "question": "Welche 33 Tourismusgemeinden vereint die Erlebnisregion Graz unter einem Dach?",
+      "answer": "Bärnbach, Edelschrott, Eggersdorf bei Graz, Feldkirchen bei Graz, Frohnleiten, Geistthal-Södingberg, Gössendorf, Gratkorn, Gratwein-Straßengel, Graz, Hart bei Graz, Hirschegg-Pack, Kainbach bei Graz, Kalsdorf bei Graz, Köflach, Laßnitzhöhe, Lieboch, Ligist, Maria Lankowitz, Mooskirchen, Nestelbach bei Graz, Peggau, Premstätten, St. Bartholomä, St. Radegund bei Graz, Seiersberg-Pirka, Semriach, Statteg, Thal, Übelbach, Vasoldsberg, Voitsberg, Weinitzen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-044",
+      "question": "Wie viele Nächtigungen gab es im Tourismusjahr 2024/2025 in der Erlebnisregion Graz?",
+      "answer": "2.225.458",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-045",
+      "question": "Nenne die Top3 steirischen Erlebnisregionen mit den meisten Nächtigungen im Tourismusjahr 2025.",
+      "answer": "Schladming-Dachstein (3.908.930), Region Graz (2.225.458), Thermen- und Vulkanland (2.173.264)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-046",
+      "question": "Nenne die Top3 steirischen Erlebnisregionen in Bezug auf die Ankünfte im Tourismusjahr 2025.",
+      "answer": "Region Graz (1.063.910), Schladming-Dachstein (965.123), Thermen- und Vulkanland (662.984)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-047",
+      "question": "Welche Ganzjahresthemen bewirbt der Tourismusverband Region Graz?",
+      "answer": "Stadt, Kulinarik, Ausflugsziele, Radfahren, Wandern",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-048",
+      "question": "Welche Themen nach Jahreszeiten unterscheidet der Tourismusverband Region Graz?",
+      "answer": "Festivals & Veranstaltungen, Coolcation, Advent, die fünfte Jahreszeit",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-049",
+      "question": "Welche 10 Märkte definiert der Tourismusverband Region Graz?",
+      "answer": "Österreich (51,1%), Deutschland (16,1%), Polen (3,7%), Ungarn (2,9%), Italien (2,2%), Schweiz (1,5%), Tschechien (1,4%), Niederlande (1,4%), UK (1,1%), Slowakei (0,9%)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-050",
+      "question": "Nenne 3 Veranstaltungen im Winter in der Erlebnisregion Graz.",
+      "answer": "Silvesterspektakel, LUMAGICA am Murhof, Grazer Winterwelt",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-051",
+      "question": "2025 war das Jahr der Jubiläen. Nenne einige davon.",
+      "answer": "400 Jahre Schloss Eggenberg mit Steiermark Schau\n25 Jahre Spring Festival\n40 Jahre Styriarte\n10 Jahre Klanglicht\n20 Jahre Winterwelt\n100 Jahre Thalersee\n450 Jahre Spanische Hofreitschule",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-052",
+      "question": "Wo bespielt die Vollmund Kulinarik die Region Graz?",
+      "answer": "Am Berg in Semriach am Hüblerhof, am Wasser in Frohnleiten im Volkshauspark, mit Weitblick in Feldkirchen am Graz Airport, mit Ausblick auf dem Schlossberg auf der Kanonenbastei",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-053",
+      "question": "Nenne ein paar Beispiele neuer Events in unserer Region.",
+      "answer": "ART Expo International (April, Seifenfabrik), Militärmusik Festival (Mai, Graz und Stadthalle Graz), Tour of Austria (Juli, Graz, Thal, St. Bartholomä und Ligist), Jedermann mit Julian Weigand (September, Kasematten Graz)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
+      ]
+    },
+    {
+      "id": "tourismuslehre-graz-054",
+      "question": "Wo gibt es Standorte des Tourismusverbandes Region Graz?",
+      "answer": "Graz, Köflach-Lipizzanerheimat, Frohnleiten, Laßnitzhöhe, Premstätten",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Tourismusverband Region Graz"
       ]
     }
   ],

@@ -1,6 +1,8 @@
 {
   "files": [
     "vocelka_reclam.json",
-    "tourismuslehre_graz.json"
+    "tourismuslehre_graz.json",
+    "steiermark_wissen.json",
+    "tourismugeografie.json"
   ]
 }

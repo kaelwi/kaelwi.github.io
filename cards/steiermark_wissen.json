@@ -1,0 +1,84 @@
+{
+  "cards": [
+    {
+      "id": "steiermark-wissen-001",
+      "question": "Was gewinnen wir vom Kürbis in der Steiermark?",
+      "answer": "Kürbiskernöl und Kürbiskerne",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Kulinarik"
+      ]
+    },
+    {
+      "id": "steiermark-wissen-002",
+      "question": "Nenne einige Gerichte aus und mit Kürbis.",
+      "answer": "Kürbiscremesuppe, Kernölpesto, Geröstete Kürbiskerne, Käferbohnensalat, Vogerlsalat",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Kulinarik"
+      ]
+    },
+    {
+      "id": "steiermark-wissen-003",
+      "question": "Nenne einige Gerichte aus und mit Kren.",
+      "answer": "Hauptplatz 1er Menü, Steirisches Wurzelfleisch, Apfelkren, Semmelkren",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Kulinarik"
+      ]
+    },
+    {
+      "id": "steiermark-wissen-004",
+      "question": "Wann wurde die Käferbohne von der EU als Geschützte Ursprungsbezeichnung anerkannt?",
+      "answer": "2016",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Kulinarik"
+      ]
+    },
+    {
+      "id": "steiermark-wissen-005",
+      "question": "Nenne einige Gerichte aus Käferbohnen.",
+      "answer": "Käferbohnensalat, Steirische Bohnensuppe, Steirisches Bohnengulasch, Bohnenstrudel, Diverse Süßspeisen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Kulinarik"
+      ]
+    },
+    {
+      "id": "steiermark-wissen-006",
+      "question": "In Bezug auf Kulinarik - was sind die steirischen 3 K?",
+      "answer": "Kernöl, Käferbohnen, Kren",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Kulinarik"
+      ]
+    },
+    {
+      "id": "steiermark-wissen-007",
+      "question": "Welche typisch steirischen Produkte kennst du noch in der Kulinarik?",
+      "answer": "z.B. Apfel, Backhendl, Steirerkas",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Kulinarik"
+      ]
+    }
+  ],
+  "categories": [
+    "Steiermark Wissen"
+  ]
+}

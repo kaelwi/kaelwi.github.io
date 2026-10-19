@@ -1,0 +1,449 @@
+{
+  "cards": [
+    {
+      "id": "tourismusgeografie-001",
+      "question": "Welche 5 Großlandschaften (Naturlandschaften) umfasst das Staatsgebiet des heutigen Österreich?",
+      "answer": "Alpen, Alpen- (und Karpaten-) Vorland, Granit- und Gneisplateau (Böhmische Masse), Vorland im Osten und Südosten, Wiener Becken.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-002",
+      "question": "Welche ist die vorherrschende Großlandschaft?",
+      "answer": "Die Alpen (63%)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-003",
+      "question": "Wie gliedert man die Alpen in Österreich?",
+      "answer": "Nord-, Zentral- und Südalpen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-004",
+      "question": "In welchem Teil der Alpen sind die größten Höhen der Österreichischen Alpen?",
+      "answer": "In den Zentralalpen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-005",
+      "question": "Was bildet die Grenze zu den Nord- bzw. Südalpen?",
+      "answer": "Die nördliche und südliche Längstalfurche.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-006",
+      "question": "Wo führt die nördliche Längstalfurche?",
+      "answer": "Walgau - Klostertal - Arlbergpass - Stanzertal - Inntal - Zillertal - Gerlospass - Salztachtal - Wagrainer Höhe - Ennstal - Paltental - Schoberpass - Liesingtal - Murtal - Mürztal - Semmeringpass - Wiener Becken",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-007",
+      "question": "Wo führt die südliche Längstalfurche?",
+      "answer": "Vintschgau - Eisacktal - Pustertal - Drautal - Klagenfurtner Becken",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-008",
+      "question": "Wie wird die Achse des Alpenhauptkammes unterteilt?",
+      "answer": "Vergletscherte Hochgebirge in W-Österreich, unvergletscherte in der Mitte und bewaldete Mittelgebirge am O-Rand",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-009",
+      "question": "Nenne die wichtigsten Längstäler Österreichs.",
+      "answer": "Inntal, Salzachtal, Ennstal, Paltental, Liesingtal, Murtal bis Bruck/Mur, Mürztal, Drautal.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-010",
+      "question": "Nenne wichtige Quertäler.",
+      "answer": "Rheintal, Salzachtal, Ennstal (ab Knie), Murtal, Mürztal ab Bruck",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-011",
+      "question": "Wie nennt man die alpidische Gebirgsbildung?",
+      "answer": "Alpenfaltung",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-012",
+      "question": "Wann begann die geologische Auffaltung der Alpen?",
+      "answer": "Im Mesozoikum (Erdmittelalter, Jura vor 140 Millionen Jahren)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-013",
+      "question": "Wann war die letzte wichtige Phase?",
+      "answer": "Im Neozoikum (Erdneuzeit, ab 70-30 Mio. Jahren: Alpidische Gebirgsbildung als Hauptereignis)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-014",
+      "question": "Durch welches Ereignis entstanden die Alpen?",
+      "answer": "Durch Zusammenprallen der beiden Kontinente Afrika und Europa.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-015",
+      "question": "Was ist in der Geologie Metamorphose?",
+      "answer": "Umwandlung durch Druck und hohe Temperaturen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-016",
+      "question": "Wie entstehen Gletscher?",
+      "answer": "Wenn mehr Schnee fällt als wieder verdunsten oder abtauen kann.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-017",
+      "question": "Wie nennt man den Vorgänger des Gletschers?",
+      "answer": "Firneis",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-018",
+      "question": "Gletscher sind die größten Wasserspeicher der Erde. Stimmt das?",
+      "answer": "Gletscher sind die größten Süßwasserspeicher der Erde, nach den Ozeanen die größten Wasserspeicher.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-019",
+      "question": "Wie heißt der bekannteste und größte Gletscher Österreichs? Wo befindet er sich?",
+      "answer": "Die Pasterze im Nationalpark Hohe Tauern.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-020",
+      "question": "Nenne Gletscherskigebiete in Österreich.",
+      "answer": "Tuxer Alpen, Stubaier Alpen, Ötztal, Kaunertal, Pitztal, Kitzsteinhorn, Mölltaler Gletscher.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-021",
+      "question": "Wie viele Eiszeiten gab es nachweislich in Mitteleuropa? Wann endete die letzte?",
+      "answer": "Vier. Die letzte endete 8.000 v. Chr.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-022",
+      "question": "Wie sind alle Seen (abgesehen vom Neusiedlersee) in Österreich entstanden?",
+      "answer": "Glazial",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-023",
+      "question": "In welcher Zone liegen die meisten großen Skigebiete Österreichs?",
+      "answer": "In der Schieferzone (Grauwackenzone)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-024",
+      "question": "Nenne die wichtigsten Schieferalpen.",
+      "answer": "Eisenerzer Alpen, Randbereiche des Ennstales, Salzburger Schieferalpen, Kitzbühler Schieferalpen, Tuxer Alpen und Teile des Arlbergs.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-025",
+      "question": "Nenne einige ökologische Probleme durch die Nutzung alpiner Landschaften durch den Menschen.",
+      "answer": "Enormes Verkehrsaufkommen, starke Lärm- und Luftbelastung, intensive Forstwirtschaft führt zur Überschließung durch Güter- und Forstwege in der Nadelwaldzone, Ressourcenverbrauch, Veränderungen durch Energiegewinnung, Landschaftsveränderung durch touristische Erschließung des Hochgebirges",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-026",
+      "question": "Welche wirtschaftlichen Vorteile bringt der Tourismus für die Einwohner?",
+      "answer": "Stopp der Abwanderung durch neue Arbeitsplätze, gutes (saisonales) Einkommen, Steueraufkommen für den Staat, Ausbau der Infrastruktur",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-027",
+      "question": "Nenne die Gesteinszonen der Alpen.",
+      "answer": "Flysch Zone, nördliche Kalkalpen, Schiefer- oder Grauwackenzone, Zentralalpen (Alpenhauptkamm), südliche Kalkalpen (Südalpen)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-028",
+      "question": "Was kannst du über die Flysch Zone sagen?",
+      "answer": "Alleräußerste nördliche Zone der Alpen. Ton- und sandartiges Gestein, stammt aus einem relativ seichten Meer.\nNutzung: Viehzucht.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-029",
+      "question": "Was kannst du über die nördlichen Kalkalpen sagen?",
+      "answer": "Eindrucksvolles Erscheinungsbild mit schönsten Landschaftsszenerien Österreichs.\nNutzung: Kletterberge, Gips- und Steinsalzlager",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-030",
+      "question": "Nenne steirische Orte der nördlichen Kalkalpen.",
+      "answer": "Nationalpark Gesäuse, Dachstein, Salzwelten der Salinen Austria in Altaussee",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-031",
+      "question": "Was kannst du über die Schiefer- oder Grauwackenzone sagen?",
+      "answer": "Wichtigste Schigebiete Österreichs. Bodenschätze (Erzberg).\nNutzung: Schigebiete (z.B. Arlberg, Raum Kitzbühel, Kaiserwinkl, Region Saalbach u.a.)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-032",
+      "question": "Was kannst du über die Zentralalpen (Alpenhauptkamm) sagen?",
+      "answer": "Umgewandelte kristalline Gesteine (u.a. Granit, Gneis, Glimmerschiefer). Alpines Klima. Früher traditionsreicher Bergbau, heute Schaubergwerke und Museen. Landwirtschaft",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-033",
+      "question": "Nenne die wichtigsten Massive und Ketten der Zentralalpen.",
+      "answer": "Silvretta, Ötztaler Alpen, Stubaier Alpen, Zillertaler Alpen, Hohe Tauern, Nieder Tauern, Gurktaler Alpen, Nockgebiet",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-034",
+      "question": "Was kannst du über die südlichen Kalkalpen (Südalpen) sagen?",
+      "answer": "Südlich der Drau, aus Kalk und Schiefer.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-035",
+      "question": "Beschreibe das Alpenvorland.",
+      "answer": "Quasi \"Hochland rund um die Alpen\", von zahlreichen Flüssen durchzogen (Inn, Enns, Traun, Traisen, Ybbs), viele wichtige Verkehrswege, dicht besiedelt. Intensiv agrarisch genützte Region. Weinviertel.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-036",
+      "question": "Welche Gebiete umfasst die Böhmische Masse, das Granit- und Gneisplateau?",
+      "answer": "Gesamtes Mühlviertel (OÖ) und Waldviertel (NÖ).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-037",
+      "question": "Was kannst du über die Böhmische Masse, Granit und Gneisplateau sagen?",
+      "answer": "Geologisch ältester Teil Österreichs. Landwirtschaftliche Nutzung. Grenzland mit vielen Burgen und Schlössern.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-038",
+      "question": "Was ist geologisch gesehen das Wiener Becken?",
+      "answer": "Ein Einbruchs- und Senkungsfeld (Thermalquellen an den Bruchlinien)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-039",
+      "question": "Welche Teile gehören zum Wiener Becken?",
+      "answer": "Nördlich der Donau das Östliche Weinviertel und Marchfeld, südlich der Donau die Trockene und Feuchte Ebene",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-040",
+      "question": "Nenne einige Thermal- und Mineralquellen im Wiener Becken.",
+      "answer": "Baden, Bad Vöslau, Bad Fischau",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-041",
+      "question": "Wo liegt der tiefste Punkt Österreichs?",
+      "answer": "Neusiedlersee",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-042",
+      "question": "Was sind sog. \"Lacken\"?",
+      "answer": "Seichte Salzseen im Seewinkel",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-043",
+      "question": "Was kannst du über das Vorland im Osten & Südosten (südöstliches Alpenvorland) sagen?",
+      "answer": "Vulkanismus - Spuren, die die Landschaft prägen. Anlage von Burgen. Thermenland.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-044",
+      "question": "An welchen Großlandschaften hat die Steiermark Anteil?",
+      "answer": "Alpen (Zentralalpen und Nördliche Kalkalpen), Alpenvorland im Südosten.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-045",
+      "question": "Was ist das \"Riedelland\"?",
+      "answer": "Schmale flache Geländerücken zwischen zwei Tälern.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-046",
+      "question": "Von welchem Gebirge ist das Grazer Becken begrenzt?",
+      "answer": "Vom \"Steirischen Randgebirge\" (Koralpe, Packalpe, Stubalpe, Gleinalpe und Fischbacher Alpen)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-047",
+      "question": "Wie nennt man noch das Grazer Becken?",
+      "answer": "Südoststeirisches Hügelland oder Grazer Bucht",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-048",
+      "question": "Wie lang ist die gemeinsame Grenze der Steiermark mit Slowenien?",
+      "answer": "145,3 km",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-049",
+      "question": "Nenne einige wichtige Grenzübergänge von der Steiermark nach Slowenien.",
+      "answer": "Spielfeld (Sentilj), Sicheldorf, Radkersburg (Murbrücke), Mureck (Murfähre Weitersfeld), Langegg, Radlpaß, Sveti Duh",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    }
+  ],
+  "categories": [
+    "Tourismusgeografie",
+    "Skript"
+  ]
+}
