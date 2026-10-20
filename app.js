@@ -11,6 +11,7 @@ const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => [...document.querySelectorAll(selector)];
 const today = () => new Date().toISOString().slice(0, 10);
 const uid = () => `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+const HIDDEN_CATEGORY = "Ausgeblendet";
 function loadState() { try { return { ...defaultState, ...JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}") }; } catch { return { ...defaultState }; } }
 async function loadBundledCards() {
   try {
@@ -52,7 +53,7 @@ function openModal(id) { $(`#${id}`).classList.remove("hidden"); }
 function closeModal(element) { element.closest(".modal-backdrop").classList.add("hidden"); }
 function switchView(view) { $$(".view").forEach((el) => el.classList.toggle("active", el.id === `${view}-view`)); $$(".nav-tab").forEach((el) => el.classList.toggle("active", el.dataset.view === view)); }
 function allCategories() { return [...new Set([...state.categories, ...state.cards.flatMap((card) => card.tags || [])])].sort((a, b) => a.localeCompare(b)); }
-function dueCards() { const now = today(); return state.cards.filter((card) => !card.nextReview || card.nextReview <= now); }
+function dueCards(includeHidden = false) { const now = today(); return state.cards.filter((card) => (includeHidden || !card.tags?.includes(HIDDEN_CATEGORY)) && (!card.nextReview || card.nextReview <= now)); }
 function tagsHtml(tags = []) { return tags.map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join(""); }
 
 function renderAll() {
@@ -102,8 +103,10 @@ function openStudySetup() {
   openModal("study-setup-modal");
 }
 function startStudy(categories = [], limit = null, type = "both") {
-  studyQueue = dueCards().filter((card) => !categories.length || categories.some((category) => card.tags?.includes(category)));
+  const includeHidden = categories.includes(HIDDEN_CATEGORY);
+  studyQueue = dueCards(includeHidden).filter((card) => !categories.length || categories.some((category) => card.tags?.includes(category)));
   studyQueue = studyQueue.filter((card) => type === "both" || (type === "new" ? !card.reviewCount : card.lastRating === "again"));
+  studyQueue.sort(() => Math.random() - 0.5);
   if (limit) studyQueue = studyQueue.slice(0, limit);
   if (!studyQueue.length) { showToast("Keine fälligen Karten in der Auswahl."); return; }
   studyIndex = 0; renderStudyCard(); openModal("study-modal");
@@ -113,7 +116,21 @@ function renderStudyCard() {
   $("#study-image").src = card.image || ""; $("#study-image").classList.toggle("hidden", !card.image);
 }
 function rateCard(rating) {
-  const card = studyQueue[studyIndex], intervals = { again: 0, hard: 1, easy: Math.min(30, Math.max(3, (card.interval || 1) * 2)) };
+  const card = studyQueue[studyIndex];
+  if (rating === "hide") {
+    card.tags = [...new Set([...(card.tags || []), HIDDEN_CATEGORY])];
+    state.categories = [...new Set([...state.categories, HIDDEN_CATEGORY])];
+    saveState();
+    if (++studyIndex < studyQueue.length) renderStudyCard(); else { closeModal($("#study-modal")); showToast("Karte ausgeblendet."); }
+    return;
+  }
+  if (card.tags?.includes(HIDDEN_CATEGORY)) {
+    card.tags = card.tags.filter((tag) => tag !== HIDDEN_CATEGORY);
+    if (!state.cards.some((item) => item.tags?.includes(HIDDEN_CATEGORY))) {
+      state.categories = state.categories.filter((category) => category !== HIDDEN_CATEGORY);
+    }
+  }
+  const intervals = { again: 0, hard: 1, easy: Math.min(30, Math.max(3, (card.interval || 1) * 2)) };
   card.level = rating === "again" ? 0 : Math.min(5, (card.level || 0) + (rating === "easy" ? 1 : 0)); card.interval = intervals[rating]; card.reviewCount = (card.reviewCount || 0) + 1; card.lastRating = rating; const next = new Date(); next.setDate(next.getDate() + intervals[rating]); card.nextReview = next.toISOString().slice(0, 10); state.activity[today()] = (state.activity[today()] || 0) + 1; saveState();
   if (++studyIndex < studyQueue.length) renderStudyCard(); else { closeModal($("#study-modal")); showToast("Lerneinheit abgeschlossen!"); }
 }
@@ -134,6 +151,7 @@ $("#image-input").addEventListener("change", (event) => { const file = event.tar
 $("#category-form").addEventListener("submit", (event) => { event.preventDefault(); const value = $("#new-category-input").value.trim(); if (value && !allCategories().includes(value)) { state.categories.push(value); saveState(); renderManageCategories(); $("#new-category-input").value = ""; showToast("Kategorie hinzugefügt."); } });
 $("#study-setup-form").addEventListener("submit", (event) => { event.preventDefault(); const allSelected = $("#all-categories-choice").checked; const categories = allSelected ? [] : $$("#study-category-list input:checked").map((input) => input.value); const limited = $('input[name="study-count"]:checked').value === "limited"; const count = Number.parseInt($("#study-count-input").value, 10); const type = $('input[name="study-type"]:checked').value; if (!allSelected && !categories.length) { showToast("Wähle mindestens eine Kategorie aus."); return; } if (limited && (!Number.isInteger(count) || count < 1)) { showToast("Gib eine gültige Kartenanzahl ein."); return; } closeModal($("#study-setup-modal")); startStudy(categories, limited ? count : null, type); });
 $("#all-categories-choice").addEventListener("change", (event) => { $$("#study-category-list input").forEach((input) => { input.disabled = event.target.checked; input.checked = false; }); });
+$("#study-category-list").addEventListener("change", (event) => { if (event.target.checked) $("#all-categories-choice").checked = false; });
 $$('input[name="study-count"]').forEach((input) => input.addEventListener("change", (event) => { $("#study-count-input").disabled = event.target.value !== "limited"; }));
 $("#search-input").addEventListener("input", renderCards); $("#category-filter").addEventListener("change", renderCards);
 $("#export-button").addEventListener("click", () => { const blob = new Blob([JSON.stringify(state, null, 2)], { type: "application/json" }); const link = document.createElement("a"); link.href = URL.createObjectURL(blob); link.download = `lernkarten-backup-${today()}.json`; link.click(); URL.revokeObjectURL(link.href); });
