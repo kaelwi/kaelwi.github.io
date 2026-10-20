@@ -440,6 +440,1333 @@
       "level": 0,
       "interval": 0,
       "tags": []
+    },
+    {
+      "id": "tourismusgeografie-050",
+      "question": "Erkläre die \"Thermenlinie\".",
+      "answer": "Geologische \"Störzone\", die Grenze zwischen dem südlichen Teil des Wiener Beckens im Osten und den Ausläufern der Ostalpen (u.a. Wienerwald) im Westen markiert. Die Zone setzt sich nach O und SO, Burgenland und Steiermark fort.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-051",
+      "question": "Nenne die 6 Thermen im Thermen- und Vulkanland Steiermark.",
+      "answer": "Heilthermen Resort Bad Waltersdorf, H2O Therme-Resort Bad Waltersdorf, Rogner Bad Blumau, Thermenresort Loipersdorf, Therme der Ruhe Bad Gleichenberg, Parktherme Bad Radkersburg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-052",
+      "question": "Welche Therme im Thermen- und Vulkanland Steiermark ist familien- und kinderfreundlich?",
+      "answer": "H2O Therme-Resort Bad Waltersdorf",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-053",
+      "question": "Welche Therme im Thermen- und Vulkanland Steiermark hat die heißeste Heilquelle?",
+      "answer": "Rogner Bad Blumau, heißeste Heilquelle Mitteleuropas",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-054",
+      "question": "Welche der Thermen im Thermen- und Vulkanland Steiermark ist die größte?",
+      "answer": "Thermenresort Loipersdorf, eine der größten Europas.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-055",
+      "question": "Welche Therme ist die Hundertwasser-Therme?",
+      "answer": "Rogner Bad Blumau",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-056",
+      "question": "Welche der Thermen im Thermen- und Vulkanland Steiermark ist aus der Römerzeit?",
+      "answer": "Therme der Ruhe Bad Gleichenberg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-057",
+      "question": "Welcher ist der längste Fluss Österreichs?",
+      "answer": "Die Donau",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-058",
+      "question": "Durch welche Bundesländer fließt die Donau? Wo mündet sie?",
+      "answer": "NÖ, OÖ, Wien. Mündet im Donaudelta ins Schwarze Meer.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-059",
+      "question": "Nenne die 10 längsten Flüsse Österreichs.",
+      "answer": "Donau, Drau, Inn, Mur, Enns, Salzach, Leitha, Gurk, Traun, Kamp",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-060",
+      "question": "Welche der 10 längsten Flüsse Österreichs fließen durch die Steiermark?",
+      "answer": "Mur und Enns",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-061",
+      "question": "Nenne die 10 größten Seen Österreichs.",
+      "answer": "Neusiedlersee, Bodensee, Attersee, Traunsee, Wörthersee, Mondsee, Millstätter See, Wolfgangsee, Ossiacher See, Hallstätter See.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-062",
+      "question": "Benenne die Flüsse.",
+      "answer": "1. Rhein, 2. Inn, 3. Salzach, 4. Drau, 5. Mur, 6. Raab, 7. Enns, 8. Donau, 9. Traun, 10. Thaya.",
+      "image": "img/fluesse.png",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Karten"
+      ]
+    },
+    {
+      "id": "tourismusgeografie-063",
+      "question": "Benenne die Seen.",
+      "answer": "1. Bodensee, 2. Millstätter See, 3. Ossiacher See, 4. Wörthersee, 5. Hallstätter See, 6. Traunsee, 7. Attersee, 8. Mondsee, 9. Wolfgangsee, 10. Neusiedlersee",
+      "image": "img/seen.png",
+      "level": 0,
+      "interval": 0,
+      "tags": [
+        "Karten"
+      ]
+    },
+    {
+      "id": "tourismusgeografie-064",
+      "question": "Welcher ist der größte See Österreichs?",
+      "answer": "Neusiedler See",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-065",
+      "question": "Welcher ist der größte abflusslose See in Mitteleuropa?",
+      "answer": "Neusiedler See",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-066",
+      "question": "Welcher ist der größte zur Gänze in Österreich liegende See?",
+      "answer": "Attersee",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-067",
+      "question": "Wo liegt der Bodensee?",
+      "answer": "Im Dreiländereck Österreich-Deutschland-Schweiz",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-068",
+      "question": "Auf welchem Rang steht der Bodensee in Mitteleuropa bezüglich seiner Größe?",
+      "answer": "Der Bodensee ist flächenmäßig der drittgrößte See Mitteleuropas.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-069",
+      "question": "Wie viele Seen gibt es in der Steiermark?",
+      "answer": "Rund 160 Seen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-070",
+      "question": "Nenne Fläche, Bewohnerdichte und Waldanteil in der Steiermark.",
+      "answer": "16.399 km², 78 Einwohner/km², 61 % Waldanteil.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-071",
+      "question": "Wie lang ist die Landesgrenze der Steiermark?",
+      "answer": "944 km",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-072",
+      "question": "Welche Bundesländer grenzen an die Steiermark an?",
+      "answer": "Salzburg, OÖ, NÖ, Burgenland, Kärnten",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-073",
+      "question": "Wie lang ist die Staatsgrenze der Steiermark mit Slowenien?",
+      "answer": "134 km (Slowenien)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-074",
+      "question": "Welcher ist der längste Fluss der Steiermark?",
+      "answer": "Mur (291 km von 453)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-075",
+      "question": "Welcher ist der größte See der Steiermark?",
+      "answer": "Grundlsee (4,2 km²)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-076",
+      "question": "Welcher ist der höchste Gipfel in der Steiermark?",
+      "answer": "Hoher Dachstein (2.995 m)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-077",
+      "question": "Nenne einige Flüsse der Steiermark.",
+      "answer": "Traun, Enns, Mürz, Mur, Palten-Liesing, Raab, Lafnitz, Feistritz",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-078",
+      "question": "Nenne einige Seen in der Steiermark.",
+      "answer": "Kammersee, Toplitzsee, Grundlsee, Altausseer See, Ödensee, Turrachersee, Schwarzsee, Grüner See, Leopoldsteinersee, Stubenbergsee, Sulmsee, Schwarzlsee",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-079",
+      "question": "Nenne Gebirgszüge in der Steiermark.",
+      "answer": "Dachsteingebirge, Totes Gebirge, Niedere Tauern, Eisenerzer Alpen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-080",
+      "question": "Nenne Pässe nach NÖ.",
+      "answer": "Wechsel, Semmering, Lahnsattel, Zeller Rain, Preiner Gschaid",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-081",
+      "question": "Nenne Pässe nach OÖ.",
+      "answer": "Pötschenpass, Pyhrn, Dachstein-Gletscher",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-082",
+      "question": "Nenne Pässe nach Salzburg.",
+      "answer": "Mandlingpass",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-083",
+      "question": "Nenne Pässe nach Kärnten.",
+      "answer": "Turracherhöhe, Neumarkter Sattel, Perchauer Sattel, Obdacher Sattel, Packsattel, Weinebene",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-084",
+      "question": "Nenne Pässe nach Slowenien.",
+      "answer": "Radlpass",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-085",
+      "question": "Nenne Pässe innerhalb der Steiermark.",
+      "answer": "Schoberpass, Präbichl, Hohentauern-Triebener Tauern-Pölstal, Pfaffensattel, Seeberg, Veitsch, Sölkpass",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-086",
+      "question": "Nenne Klimazonen Österreichs.",
+      "answer": "Alpines Klima, Mitteleuropäisches Übergangsklima, Hochlandklima, Pannonisches Klima, Mediterran beeinflusstes Klima (\"Illyrisches\")",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-087",
+      "question": "Welches ist das für den größten Teil Österreichs charakteristische Klima?",
+      "answer": "Alpines Klima",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-088",
+      "question": "Für welche Großlandschaft ist das Hochlandklima charakteristisch?",
+      "answer": "Böhmische Masse",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-089",
+      "question": "Für welche Großlandschaft ist das mitteleuropäische Übergangsklima charakteristisch?",
+      "answer": "Nördliches Alpenvorland",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-090",
+      "question": "Für welche Großlandschaft/Bereich ist das Pannonische Klima charakteristisch?",
+      "answer": "Karpatenvorland, Wiener Becken, Burgenland, Oststeiermark",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-091",
+      "question": "Wo ist das Illyrische Klima charakteristisch?",
+      "answer": "Osttirol, Kärnten, West- und Südsteiermark",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-092",
+      "question": "Je nachdem, wie weit Schutzmaßnahmen gehen sollen, kann man verschiedene Schutzgebiete bzw. Varianten unterscheiden. So gibt es in Österreich u.a.:",
+      "answer": "Nationalparks, Landschaftsschutzgebiete, Biosphärenreservate, Naturdenkmäler (SCO Weltnaturerbe), Naturschutzgebiete, Naturparke, Europaschutzgebiete (Natura 2000), UNESCO-Biosphärenparks, Wildnisgebiet",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-093",
+      "question": "Wie viele Schutzgebiete hat die Steiermark?",
+      "answer": "1 Nationalpark, 7 Naturparke, 50 Natura 2000 Europa-Schutzgebiete, 1 UNESCO-Biosphärenpark, 1 UNESCO-Wildnisgebiet.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-094",
+      "question": "Wo und wann entstand der erste Nationalpark?",
+      "answer": "1872, Yellowstone Nationalpark in Wyoming",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-095",
+      "question": "Wie viele Nationalparks gibt es heute in Europa?",
+      "answer": "Über 300",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-096",
+      "question": "Welches Kriterium kennst du für die Anerkennung als Naturpark?",
+      "answer": "Auf mindestens 75% der Schutzgebietsfläche darf keinerlei wirtschaftliche Nutzung stattfinden.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-097",
+      "question": "Wie viele Nationalparks hat Österreich?",
+      "answer": "6",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-098",
+      "question": "Nenne die Nationalparks Österreichs.",
+      "answer": "NP Hohe Tauern, NP Kalkalpen, NP Donau-Auen, NP Thayataal, NP Neusiedler See - Seewinkel, NP Gesäuse",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-099",
+      "question": "Wo steht der NP Gesäuse flächenmäßig und vom Alter her im Vergleich zu den anderen österreichischen Nationalparks?",
+      "answer": "Drittgrößte und jüngste",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-100",
+      "question": "Wie groß ist die Gesamtfläche des Nationalparks Gesäuse?",
+      "answer": "11.306 ha (86% Naturzone)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-101",
+      "question": "Wann wurde der NP Gesäuse gegründet?",
+      "answer": "Am 26.10.2002",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-102",
+      "question": "Wie ist die Seehöhe im NP Gesäuse?",
+      "answer": "490 m bis 2.370 m",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-103",
+      "question": "Wie heißt die höchste Erhebung im NP Gesäuse?",
+      "answer": "Hochtor 2.370 m",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-104",
+      "question": "Nenne einige Nationalparkgemeinden im Gesäuse.",
+      "answer": "Admont, Landl, St. Gallen, ...",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-105",
+      "question": "Wessen Richtlinien sind entscheidend dafür, ob ein Schutzgebiet als Nationalpark anerkannt wird?",
+      "answer": "Richtlinien von der Weltnaturschutzunion IUCN festgelegt",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-106",
+      "question": "Wer vergibt das Prädikat \"Naturpark\"?",
+      "answer": "Durch Verordnung der Landesregierung",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-107",
+      "question": "Erläutere die Merkmale österreichischer Naturparke.",
+      "answer": "Zustimmung aller betroffenen Gemeinden, weitgehend freie Zugänglichkeit, geschützte Gebiete, besondere naturräumliche Ausstattung, freiwillige Mitarbeit",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-108",
+      "question": "Wie viele Naturparke gibt es derzeit in Österreich?",
+      "answer": "48",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-109",
+      "question": "Wie viele Naturparke gibt es derzeit in der Steiermark?",
+      "answer": "7",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-110",
+      "question": "Nenne die steirischen Naturparke.",
+      "answer": "Sölktäler, Mürzer Oberland, Almenland, Weinland Südsteiermark, Steirische Eisenwurzen, Zirbitzkogel-Grebenzen, Pöllauer Tal",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-111",
+      "question": "Was sind die Kernaufgaben des regional verankerten Naturpark-Managements?",
+      "answer": "Sie arbeiten in den vier Aufgabenfeldern Naturschutz, Bildung, Erholung und Regionalentwicklung (Verband Naturparke Österreich) für den Erhalt und die Entwicklung ökologisch intakter Kulturlandschaften.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-112",
+      "question": "Wie viele landwirtschaftliche Betriebe gab es 1970 und wie viele 2023?",
+      "answer": "Rund 367.000 vs. ca. 101.036.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-113",
+      "question": "Wie viele landwirtschaftliche Betriebe gab es 2023 in der Steiermark?",
+      "answer": "19.549",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-114",
+      "question": "Welche Sonderkulturen und Spezialisierung sind in der Agrarwirtschaft für den österreichischen Tourismus ausschlaggebend?",
+      "answer": "Kürbis (Äcker), Wein (Weingärten und -berge), Obst (Obstplantagen), Mohn, Hopfen",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-115",
+      "question": "Was ist die Almwirtschaft?",
+      "answer": "Wirtschaftliche Nutzung von Flächen oberhalb der Baumgrenze durch Haltung von Rindern und Schafen, Ziegen.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-116",
+      "question": "Wie ist für Österreich die Verbindung der Almen zum Schi-Tourismus wichtig?",
+      "answer": "Die besten Pistenflächen des Winters sind im Sommer Almwiesen.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-117",
+      "question": "Welche wirtschaftlichen Chancen bietet der Tourismus für Bauern?",
+      "answer": "Zimmer- und Ferienwohnungsvermietung, Urlaub am Bauernhof, (saisonale) Arbeitsplätze in Gastronomie und Hotellerie, Transport- und Seilbahnwesen, Schneeräumung, Gäste- und Kinderbetreuung, Wanderführer, Ausschank und Verköstigung auf Almen, Raststationen, Buschenschänken, Mostschänken, Ab-Hof-Verkauf eigener Produkte, Belieferung von Gastronomie und Hotellerie, bäuerliches Brauchtum und regionale Tradition",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-118",
+      "question": "Wo befinden sich die großen Weinbaugebiete Österreichs?",
+      "answer": "NÖ, Burgenland, Steiermark und Wien",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-119",
+      "question": "Wo liegen Weinbaugebiete in NÖ?",
+      "answer": "Carnuntum, Kamptal, Kremstal, Thermenregion, Traisental, Wachau, Wagram, Weinviertel",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-120",
+      "question": "Wo liegen Weinbaugebiete im Burgenland?",
+      "answer": "Neusiedlersee, Mittelburgenland, Leithaberg, Eisenberg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-121",
+      "question": "Wo liegen Weinbaugebiete in der Steiermark?",
+      "answer": "Vulkanland (Südoststeiermark), Südsteiermark, Weststeiermark",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-122",
+      "question": "Wie viele Rebsorten sind in Österreich für die Produktion von Qualitätswein oder Qualitätswein besonderer Reife und Leseart (Prädikatswein) sowie von Landwein zugelassen?",
+      "answer": "28 weiße und 14 rote Rebsorten",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-123",
+      "question": "Nenne einige international bekannte Rebsorten.",
+      "answer": "Riesling, Pinot Blanc, Chardonnay, Muskateller, Traminer, Pinot Noir, Merlot, Cabernet Sauvignon, Syrah. Grüner Veltliner, Neuburger, Rotgipfler, Zierfandler, Roter Veltliner, Zweigelt, Blaufränkisch, Laurent, Blauer Wildbacher.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-124",
+      "question": "Nenne die drei Weinbauregionen der Steiermark.",
+      "answer": "Südsteiermark DAC, Vulkanland (Südoststeiermark) DAC, Weststeiermark DAC",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-125",
+      "question": "Welches ist das größte zusammenhängende Weinbaugebiet der Steiermark?",
+      "answer": "Südsteiermark DAC, 2.798 ha Rebfläche",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-126",
+      "question": "Welche Großlagen im Südsteiermark DAC unterscheidet das österreichische Weingesetz?",
+      "answer": "Südsteirisches Rebenland und Sausal",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-127",
+      "question": "Nenne bedeutende Weinorte in der Südsteiermark DAC.",
+      "answer": "u. a. Gamlitz, Glanz, Ratsch, Berghausen, Ehrenhausen, Leutschach. Im Sausal: Kitzeck, Sankt Nikolai.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-128",
+      "question": "Welche sind die Leitsorten im Südsteiermark DAC?",
+      "answer": "Welschriesling und Sauvignon Blanc, Weißburgunder (Pinot blanc), Morillon (Chardonnay), Muskateller und Riesling.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-129",
+      "question": "Welche sind die Haupt-Weinsorten der Steiermark?",
+      "answer": "Welschriesling und Sauvignon Blanc.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-130",
+      "question": "Welche ist die höchstgelegene Weinbaugemeinde Österreichs?",
+      "answer": "Kitzeck",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-131",
+      "question": "Nenne 3 Weinstraßen der Südsteiermark.",
+      "answer": "Sausaler Weinstraße, Klapotetzstraße, Südsteirische Weinstraße",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-132",
+      "question": "Nenne einige wichtige Weinbauorte im Vulkanland (Südoststeiermark) DAC.",
+      "answer": "Hartberg, Fürstenfeld, Weiz, Kapfenstein, St. Anna am Aigen, Klöch, Riegersburg, St. Peter/O., Straden, Tieschen, Bad Radkersburg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-133",
+      "question": "Nenne 4 Weinstraßen des Vulkanlandes.",
+      "answer": "Thermenland-Weinstraße, Oststeirische Römerweinstraße, Südoststeirische Hügelland-Weinstraße, Klöcher Weinstraße",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-134",
+      "question": "Welche Weinsorte ist für die Erzeugung von Schilcher zugelassen?",
+      "answer": "Blauer Wildbacher",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-135",
+      "question": "Nenne einige wichtige Weinbauorte in der Weststeiermark.",
+      "answer": "St. Stefan, Stainz, Deutschlandsberg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-136",
+      "question": "Nenne wichtige Rebsorten in der Weststeiermark.",
+      "answer": "Schilcher (über 80%), Weißburgunder, Chardonnay",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-137",
+      "question": "Nenne Rebsorten aus dem Vulkanland.",
+      "answer": "Welschriesling, Weißburgunder, Traminer",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-138",
+      "question": "Nenne eine Weinstraße in der Weststeiermark.",
+      "answer": "Schilcher Weinstraße",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-139",
+      "question": "Definiere Schilcher.",
+      "answer": "Geografisch geschützter Begriff für rosé-ausgebauten Blauen Wildbacher, charakterisiert durch zwiebelfarbige bis kräftig rubinrote Farbe und markante Säure. Muss in der Steiermark gewachsen und gezogen sein.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-140",
+      "question": "Wann wurde die rechtliche Grundlage für den Buschenschank erstmals erlassen?",
+      "answer": "Am 17.8.1784 von Kaiser Josef II.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-141",
+      "question": "Was besagte Kaiser Josefs II. Erlass zum Buschenschankthema?",
+      "answer": "Er erteilte damit die Erlaubnis für jedermann, von ihm selbst erzeugte Lebensmittel, Wein und Obstmost zu allen Zeiten des Jahres, wie, wann und zu welchem Preise er will, zu verkaufen oder auszuschenken.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-142",
+      "question": "Was besagte die Josefinische Zirkularverordnung? Aus welchem Jahr ist sie?",
+      "answer": "1784, sie billigte den Bauern das Recht zu, eigene Erzeugnisse selbst zu verkaufen.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-143",
+      "question": "Wie wird der Buschenschank heute geregelt?",
+      "answer": "In den Bundesländern NÖ, Burgenland, Wien und Steiermark durch eigene Landesgesetze.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-144",
+      "question": "Aus welchem Jahr ist das moderne Buschenschankgesetz?",
+      "answer": "1979",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-145",
+      "question": "Aus wessen Initiative sind Genussregionen Österreichs und der Steiermark entstanden?",
+      "answer": "Initiative der Agrarmarkt Austria und des Bundesministeriums für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-146",
+      "question": "Wie viele GenussRegionen gab es 2021 in der Steiermark?",
+      "answer": "18",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-147",
+      "question": "Wann wurde Graz zur Genuss Hauptstadt Österreichs?",
+      "answer": "2008 wurde Graz durch eine Auszeichnung des Lebensministeriums zur ersten (und bislang einzigen) Genuss Hauptstadt Österreichs ernannt.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-148",
+      "question": "Für was steht \"AMA\"?",
+      "answer": "Agrarmarkt Austria",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-149",
+      "question": "Nenne AMA Genuss Regionen der Steiermark.",
+      "answer": "Ausseerland Saibling & Forelle, Ennstaler Lamm, Ennstaler Steirerkas, Gesäuse Wild, Hochschwab Wild, Murbodner Erdäpfel, Murtaler Steirerkäs, Oststeirischer Apfel, Pöllauer Hirschbirne, Feldbacher Honig, Steirischer Kren g.g.A., Steirische Vulkanland Schinken, Steirisches Kürbiskernöl g.g.A., Steirisches Teichland - Karpfen, Steirische Käferbohne, Südoststeirische Woazschwein, Weizer Berglamm & Schaf, Grazer Krauthäuptel, Partnerregion Schilcherland.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-150",
+      "question": "Für was steht \"g.g.A.\"?",
+      "answer": "Geschützte geografische Angabe",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-151",
+      "question": "Nenne wichtige kunst- und kulturhistorische Institutionen und Stätten.",
+      "answer": "Stifte und Klöster, Basiliken und Wallfahrtsstätten, Burgen und Schlösser, Städte, UNESCO, Kulturstätten",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-152",
+      "question": "Wie viele Stifte und Klöster gab es um 1780 in allen habsburgischen Ländern?",
+      "answer": "Über 2.000",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-153",
+      "question": "Wie viele Klöster und Stifte blieben 1791 in Graz übrig? Wie viele in der gesamten Steiermark?",
+      "answer": "In Graz blieben 8 von 16 Stadtklöstern, in der gesamten Steiermark 3 von 10.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-154",
+      "question": "Welche Klöster blieben nach den Reformen Kaiser Josefs II. in der Steiermark übrig?",
+      "answer": "Stift Admont, Stift Vorau, Stift Rein",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-155",
+      "question": "Wie viele bestehende Stifte gibt es heute in der Steiermark?",
+      "answer": "5 – Stift Admont, Stift Vorau, Stift Rein sowie St. Lambrecht und Seckau (diese beiden wurden wiederbesiedelt)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-156",
+      "question": "Wann und durch wen wurde das Benediktinerinnenstift Göss gegründet?",
+      "answer": "1000 n. Chr., Pfalzgraf Aribo (Bayern)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-157",
+      "question": "Wann und durch wen wurde das Benediktinerstift Admont gegründet?",
+      "answer": "1074, Erzbischof Gebhart von Salzburg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-158",
+      "question": "Wann und durch wen wurde das Benediktinerstift St. Lambrecht gegründet?",
+      "answer": "1096, Markward von Kärnten (Eppensteiner)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-159",
+      "question": "Wann und durch wen wurde das Zisterzienserstift Rein gegründet?",
+      "answer": "1129, Markgraf Leopold von Steyer (Traungauer)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-160",
+      "question": "Wann und durch wen wurde das Zisterzienserstift Neuberg a. d. Mürz gegründet?",
+      "answer": "1327, Herzog Otto der Fröhliche (Habsburg)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-161",
+      "question": "Wann und durch wen wurde das Augustinerchorherrenstift Seckau gegründet?",
+      "answer": "1140, Adalram von Waldeck",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-162",
+      "question": "Wann und durch wen wurde das Augustinerchorherrenstift Vorau gegründet?",
+      "answer": "1163, Markgraf Ottokar II. von Steyer (Traungauer)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-163",
+      "question": "Wann und durch wen wurde das Augustinerchorherrenstift Stainz gegründet?",
+      "answer": "1230, Luitold von Wildon",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-164",
+      "question": "Wann und durch wen wurde das Augustinerchorherrenstift Pöllau gegründet?",
+      "answer": "1504, Hans von Neuberg",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-165",
+      "question": "Kurzbeschreibung Göss.",
+      "answer": "Bezirk LE, 1000 n. Chr., ältester romanischer Bau der Steiermark (ältester Sakralbau der Steiermark), Bischofskapelle ältestes frühgotisches Bauwerk der Steiermark (1283).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-166",
+      "question": "Was ist heute in Göss zu besichtigen?",
+      "answer": "Kirche, Krypta, Gösseum, Brauerei Göss bzw. Brau AG (Heineken)",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-167",
+      "question": "Kurzbeschreibung Admont",
+      "answer": "Bezirk LI am Gesäuseeingang. 1074, Benediktiner. Unter Josef Hueber barockisiert. Größte Stiftsbibliothek der Welt. Dekor und Konsolen in der Bibliothek von Veit Königer. Deckenfresken von Bartholomäus Altomonte. Holzskulpturen von Josef Thaddäus Stammel (1760). Früheste neugotische Kirche der Steiermark (1869).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-168",
+      "question": "Was ist heute in Admont zu besichtigen?",
+      "answer": "Kunst- und naturhistorische Sammlung (größte nichtstaatliche Sammlung Österreichs).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-169",
+      "question": "Kurzbeschreibung St. Lambrecht.",
+      "answer": "Bezirk MU, NP Zirbitzkogel-Grebenzen. 1096, Benediktiner. Größte gotische Kirche der Steiermark. Barockisiert unter Domenico Sciassia.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-170",
+      "question": "Was ist heute in St. Lambrecht zu besichtigen?",
+      "answer": "Kunsthistorische Sammlung, Vogelmuseum",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-171",
+      "question": "Kurzbeschreibung Rein.",
+      "answer": "Bezirk GU. 1129, Zisterzienser. Ältestes durchgehend besiedeltes und immer noch bestehendes Zisterzienserkloster der Welt. Barocke Kirche von Johann Stengg. Deckenfresken von Josef Adam Ritter von Mölk (1766).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-172",
+      "question": "Was ist heute in Rein zu besichtigen?",
+      "answer": "Stift inkl. Bibliothek, Kreuzgang, Basilika",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-173",
+      "question": "Kurzbeschreibung Neuberg a. d. Mürz.",
+      "answer": "Bezirk BM, 1327, Zisterzienser. 1379 Vertrag über die Teilung habsburgischer Länder. Größter in Österreich erhaltener gotischer Dachstuhl (Holz).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-174",
+      "question": "Was ist heute in Neuberg a. d. Mürz zu besichtigen?",
+      "answer": "Neuberger Kulturtage, Jagdmuseum, Konzertreihen Brahms, ...",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-175",
+      "question": "Kurzbeschreibung Seckau.",
+      "answer": "Bezirk MT, 1140, Augustinerchorherren. Diözese Seckau als Unterbistum des Erzbistums Salzburg. 1783 Bischof nach Graz. Ab 1883 Benediktiner. Romanische Basilika. Mausoleum Karl von Innerösterreich.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-176",
+      "question": "Kurzbeschreibung Vorau.",
+      "answer": "Bezirk HF, Oststeiermark. 1163, Augustinerchorherren. Barockisiert unter Domenico Sciassia. U. a. \"Vorauer Handschrift\".",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-177",
+      "question": "Kurzbeschreibung Pöllau.",
+      "answer": "Bezirk HF, Oststeiermark. 1482, Augustinerchorherren. Hochbarocke Stiftskirche, Baumeister Joachim Carlone (1710). \"Steirischer Petersdom\".",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-178",
+      "question": "Kurzbeschreibung Stainz.",
+      "answer": "Bezirk DL, Weststeiermark. 1230, Augustinerchorherren. Barockisiert (ungesichert) durch Domenico Sciassia. Hochaltar, Maler Hans Adam Weissenkircher.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-179",
+      "question": "Was ist heute in Stainz zu besichtigen?",
+      "answer": "Pfarrkirche, styriarte, UMJ Schloss Stainz mit Landwirtschaft & Jagd",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-180",
+      "question": "Nenne einige Basiliken in der Steiermark.",
+      "answer": "Mariazell, Mariatrost in Graz, am Weizberg, Seckau, Rein bei Graz.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-181",
+      "question": "Die Basilika Mariazell ist das meist besuchte Ausflugsziel der Steiermark. Richtig oder Falsch?",
+      "answer": "Mariazell ist nach dem Grazer Schlossberg das meist besuchte Ausflugsziel der Steiermark.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-182",
+      "question": "Wann wurde Mariazell zur Basilica minor erhoben?",
+      "answer": "1907",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-183",
+      "question": "Von wie vielen Pilgern ist Mariazell jährlich das Ziel?",
+      "answer": "Von rund 700.000",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-184",
+      "question": "Unter welchem Baumeister wurde die Mariazeller Kirche im 17. Jahrhundert umgebaut und erweitert?",
+      "answer": "Domenico Sciassia",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-185",
+      "question": "Von wem wurde der Hochaltar in Mariazell entworfen?",
+      "answer": "Johann Bernhard Fischer von Erlach",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-186",
+      "question": "Wo befindet sich in Mariazell die Magna Mater Austriae? Was ist das?",
+      "answer": "Die Gottesmutter aus Lindenholz, der Legende nach aus dem 12. Jahrhundert. Sie befindet sich in der Gnadenkapelle in Mariazell.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-187",
+      "question": "Nenne Wallfahrtskirchen in der Steiermark.",
+      "answer": "Mariazell, Frauenberg/Ardning, am Frauenberg, Maria Rehkogel, Maria Buch-Feistritz, Maria Fieberbründl, Maria Hasel - Pinggau, Maria Helfbrunn, Maria Lankowitz, Maria Lebing, Maria Pöllauberg, Maria Schnee bei Seckau, Maria Trost in Fernitz, Mariatrost in Graz, Hl. Antonius in Radmer",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-188",
+      "question": "Wann und nach wessen Plänen wurde der große barocke Kirchenbau Mariatrost in Graz begonnen?",
+      "answer": "1714; nach Plänen von Andreas Stengg, ausgeführt durch seinen Sohn Johann Georg Stengg.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-189",
+      "question": "Wann wurde Mariatrost in Graz zur Basilica minor erhoben?",
+      "answer": "1999",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-190",
+      "question": "Unter welchem Baumeister kam es zum barocken Umbau der Basilika am Weizberg? Ab wann?",
+      "answer": "Ab 1755 unter Joseph Hueber.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-191",
+      "question": "Wann und von wem ist die Innengestaltung der Basilika am Weizberg?",
+      "answer": "1769: Veit Königer (Hochaltar mit Pietà), Joseph Adam Ritter von Mölk (Altarbilder).",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-192",
+      "question": "Wann wurde die Kirche am Weizberg zur Basilica minor erhoben?",
+      "answer": "2017",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-193",
+      "question": "In welchen Jahren war in Seckau Diözesansitz?",
+      "answer": "1218 bis 1782",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-194",
+      "question": "Wann wurde die Kirche in Seckau zur Basilica minor erhoben?",
+      "answer": "1930",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-195",
+      "question": "Wer war an der barocken Umgestaltung der Kirche in Rein beteiligt?",
+      "answer": "Baumeister Johann Stengg, Maler Josef Adam Ritter von Mölk.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
+    },
+    {
+      "id": "tourismusgeografie-196",
+      "question": "Wie viele Basilicae minores gibt es in Österreich? Wie viele in der Steiermark?",
+      "answer": "35 in Österreich, 5 in der Steiermark.",
+      "image": "",
+      "level": 0,
+      "interval": 0,
+      "tags": []
     }
   ],
   "categories": [
